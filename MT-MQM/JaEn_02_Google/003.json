@@ -1,0 +1,274 @@
+{
+    "003.json": [
+        {
+            "src": "小学校の部活動指導者を募集します！",
+            "mt": "It recruits club activity leaders of elementary school!",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "It recruits",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 33,
+                    "text": "leaders",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 54,
+                    "text": "of elementary school",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "2021年9月から、市内16区262校の市立小学校の全校で民間委託による放課後の新しい運動・文化活動が実施されます。",
+            "mt": "From September 2021, all 262 municipal elementary schools in the 16 wards of the city will implement new after-school sports and cultural activities commissioned by the private sector.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 149,
+                    "end": 164,
+                    "text": "commissioned by",
+                    "type": 9,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "活動にあたり指導者や指導・引率等の補助をしてくれる方を募集しています。",
+            "mt": "We are looking for instructors and those who will assist us in guiding and guiding our activities.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 59,
+                    "text": "us",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 70,
+                    "text": "guiding",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 75,
+                    "end": 82,
+                    "text": "guiding",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 83,
+                    "end": 86,
+                    "text": "our",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 4
+        },
+        {
+            "src": "スポーツや音楽（合唱・楽器演奏など）の経験があり、火曜～金曜日の午後3時～6時に小学校で児童の指導ができる方（指導・安全管理の研修あり）を対象としています。",
+            "mt": "This course is for those who have experience in sports or music (chorus, musical instrument performance, etc.) and are able to teach children at elementary schools from 3:00 to 6:00 pm from Tuesday to Friday (training on guidance and safety management is available).",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "This course",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 127,
+                    "end": 132,
+                    "text": "teach",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 221,
+                    "end": 229,
+                    "text": "guidance",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "指導・研修・報告は日本語で行います。",
+            "mt": "Guidance, training and reporting will be conducted in Japanese.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "Guidance",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "応募につきましては「なごや部活動人材バンク」<https://jinzaibank-nagoya.jp>でのご登録をお願いします。",
+            "mt": "For applications, please refer to \"Nagoya Club Activities Personnel Bank\"<https://jinzaibank-nagoya.jp> Please register at",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 33,
+                    "text": "refer to",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 104,
+                    "end": 122,
+                    "text": "Please register at",
+                    "type": 9,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 10
+        },
+        {
+            "src": "名古屋市の新たな運動・文化活動について",
+            "mt": "New sports and cultural activities in Nagoya City",
+            "MQM_score": 0
+        },
+        {
+            "src": "活動は基本的に、火曜日～金曜日のうちの3日間です。",
+            "mt": "Activities are basically three days from Tuesday to Friday.",
+            "MQM_score": 0
+        },
+        {
+            "src": "対象は名古屋市立小学校の4年生から6年生です。",
+            "mt": "The target audience is 4th to 6th grade students at Nagoya municipal elementary schools.",
+            "MQM_score": 0
+        },
+        {
+            "src": "それぞれの曜日ごとに、子どもたちが2種目から1つを選びます。",
+            "mt": "For each day of the week, children choose one of two events.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 59,
+                    "text": "events",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "子どもたちは、1年間で最大3種目に参加できます。",
+            "mt": "Children can participate in up to three events in one year.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 40,
+                    "end": 46,
+                    "text": "events",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "学校で活動します。",
+            "mt": "active at school.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 17,
+                    "text": "active at school.",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "（運動場・体育館・校舎内）",
+            "mt": "(athletic field, gymnasium, school building)",
+            "MQM_score": 0
+        },
+        {
+            "src": "指導は運営事業者の指導者が2名以上で行います。",
+            "mt": "Guidance is provided by two or more instructors from the operator.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "Guidance",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 65,
+                    "text": "operator",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "参加は任意ですが、子どもたちの体力の向上や、豊かな人間性を育てる一環として、ぜひ参加してください。",
+            "mt": "Participation is voluntary, but please join us as part of improving the physical strength of children and nurturing rich humanity.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 81,
+                    "end": 89,
+                    "text": "strength",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 106,
+                    "end": 129,
+                    "text": "nurturing rich humanity",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "問い合わせ（日本語のみ）：教育委員会生涯学習部部活動振興室　☎052-972-4090  FAX:052-972-4207",
+            "mt": "Inquiries (Japanese only): Board of Education Lifelong Learning Club Activity Promotion Office ☎052-972-4090 FAX: 052-972-4207",
+            "MQM_score": 0
+        }
+    ]
+}

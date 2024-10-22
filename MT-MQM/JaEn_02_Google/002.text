@@ -1,0 +1,25 @@
+1	～健康状況の確認について~	~Confirmation of health <ER01>status</ER01>~
+2	体調記録への記入に変えて、アプリ「LAVITA」を利用して体調管理をすることになりました。	Instead of filling out <ER01>my physical condition record</ER01>, <ER02>I decided to</ER02> use the <ER03>app "LAVITA"</ER03> to manage <ER04>my</ER04> physical condition.
+3	以下の使い方をご覧いただき、定時(7時30分、11時30分、17時30分、21時)に、アプリへの登録をお願いします。	Please <ER01>see the usage below</ER01> and <ER02>register</ER02> <ER08>with</ER08> the app at the <ER03>regular</ER03> times (<ER04>7:30</ER04>, <ER05>11:30</ER05>, <ER06>17:30</ER06>, <ER07>21:00</ER07>).
+4	健康チェックシート　LAVITAの使い方	Health <ER01>check</ER01> <ER02>sheet</ER02> How to <ER03>use</ER03> LAVITA
+5	お持ちのスマートフォンから、体調記録を入力することができます。	You <ER01>can</ER01> <ER02>enter</ER02> <ER03>your physical condition record</ER03> <ER04>from your smartphone</ER04>.
+6	下記URLを参照いただくか、QRコードを読み取り、専用サイトにアクセスしてください。	Please refer to the URL below or scan the QR code to access the <ER01>dedicated site</ER01>.
+7	お部屋で測定した体温とSpO2を入力し、各問診(12項目)に回答してください。	Enter <ER01>the</ER01> body temperature and SpO2 <ER02>measured</ER02> <ER03>in the room</ER03>, <ER04>and</ER04> answer <ER05>each</ER05> questionnaire (12 <ER06>items</ER06>).
+8	詳細な使用方法は裏面をご覧ください。	See the back <ER01>side</ER01> for detailed <ER02>usage</ER02> instructions.
+9	LAVITA　ログイン用URL	LAVITA login URL
+10	https://www.lavita.ne.jp/member	https://www.lavita.ne.jp/member
+11	※こちらのQRコードをスマートフォンのカメラを起動し、読み取ることでもURLが開きます。	*You can also <ER01>open</ER01> the URL <ER02>by</ER02> <ER03>scanning</ER03> this QR code <ER04>with your smartphone's camera</ER04>.
+12	QRコード	QR code
+13	ログイン用ID	Login ID
+14	名前+IDナンバー＠co.jp	Name + ID number@co.jp
+15	※＠co.jpまで入力します。	*Enter <ER01>up to</ER01> @co.jp.
+16	パスワード	<ER01>password</ER01>
+17	toyokoin1	toyokoin1
+18	※パスワードは絶対に変更しないで下さい。	*Never change your password.
+19	※全て半角小文字入力です。	* All entries must be in lower case.
+20	使用方法は裏面に掲載しております。	Instructions <ER01>for use are</ER01> on the back.
+21	健康チェックシート　LAVITAの使い方	Health <ER01>check</ER01> <ER02>sheet</ER02> How to <ER03>use</ER03> LAVITA
+22	『健康観察』の問診に回答するをタップし問診を開始します。	Tap to answer the "Health <ER02>Observation</ER02>" questionnaire <ER01>to</ER01> start the medical examination.
+23	体温、SpO2の鉛筆マーク✐をタップし、手入力の🔘を選択し数値を入力して確定	Tap the pencil mark ✐ for body temperature and SpO2, select 🔘 <ER04>for manual input</ER04>, <ER01>enter</ER01> the <ER02>value</ER02> <ER03>and confirm</ER03>
+24	問1～12に対し、『あり』、『なし』を選択してタップし、その他の症状がある場合や何か伝えたいことがある場合は、最下部『その他』自由記入欄に入力してください。	Select and tap "Yes" or "No" for questions 1 to 12<ER01>,</ER01> <ER02>and if</ER02> you have other symptoms or <ER03>have something to say</ER03>, enter it in the <ER04>bottom</ER04> "Other" <ER05>free entry</ER05> <ER06>field</ER06>. <ER07>please give me.</ER07>
+25	最後に登録するをタップして問診登録完了です。	Finally, tap Register to complete the <ER01>medical questionnaire registration</ER01>.

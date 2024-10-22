@@ -1,0 +1,1187 @@
+{
+    "011.json": [
+        {
+            "src": "令和２年度　特別支援教育就学奨励費のお知らせ",
+            "mt": "Special Needs Education Enrollment Promotion Fund for 2020",
+            "MQM_score": 0
+        },
+        {
+            "src": "名古屋市立の小中学校の特別支援学級などに就学している障害のある児童生徒については、世帯の所得に応じて、学用品費や学校給食費などを支給する「特別支援教育就学奨励費」制度を利用することができます。",
+            "mt": "Students with disabilities who attend special needs classes at Nagoya-shi elementary and junior high schools can use the \"Special Needs Education Enrollment Promotion Fund,\" which provides paying for necessary school supplies and school meals expenses according to household income.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 108,
+                    "text": "Nagoya-shi elementary and junior high schools",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 189,
+                    "end": 195,
+                    "text": "paying",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 200,
+                    "end": 251,
+                    "text": "necessary school supplies and school meals expenses",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "対象者",
+            "mt": "Audience",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "Audience",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "次の１～３のいずれかに該当する方",
+            "mt": "Those who fall under any of the following 1 to 3.",
+            "MQM_score": 0
+        },
+        {
+            "src": "特別支援学級の児童生徒",
+            "mt": "Students in special needs classes",
+            "MQM_score": 0
+        },
+        {
+            "src": "通級指導教室の児童生徒（３に該当する者以外のもの。",
+            "mt": "Students of Teaching School for Handicapped Students (those who do not fall under 3.)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 52,
+                    "text": "of Teaching School for Handicapped Students",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 85,
+                    "text": "those who do not fall under 3.)",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "交通費(通学費)のみ支給します。）",
+            "mt": "Only transportation expenses (transportation fees) will be provided.)",
+            "MQM_score": 0
+        },
+        {
+            "src": "※県立特別支援学校への通級も対象となります。",
+            "mt": "* Regular attendance at prefectural special support schools is also eligible.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 77,
+                    "text": "Regular attendance at prefectural special support schools is also eligible.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "通常の学級（通級指導教室を含む。）の児童生徒のうち、学校教育法施行令第22条の3に規定する障害の程度に該当するもの（詳細は裏面をご覧ください。）",
+            "mt": "Students in regular classes (including Teaching School for Handicapped Students) who fall under the level of disability prescribed in Article 22-3 of the Order for Enforcement of the School Education Act. (For details, see the reverse.)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 79,
+                    "text": "Teaching School for Handicapped Students",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 154,
+                    "end": 203,
+                    "text": "Order for Enforcement of the School Education Act",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 203,
+                    "end": 236,
+                    "text": ". (For details, see the reverse.)",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "補助対象の経費",
+            "mt": "Expenses covered by the subsidy",
+            "MQM_score": 0
+        },
+        {
+            "src": "区　　　　　分",
+            "mt": "Partition",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "Partition",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "小　　学　　校",
+            "mt": "Elementary school",
+            "MQM_score": 0
+        },
+        {
+            "src": "中　　学　　校",
+            "mt": "Junior high school",
+            "MQM_score": 0
+        },
+        {
+            "src": "学校給食費",
+            "mt": "School meals expenses",
+            "MQM_score": 0
+        },
+        {
+            "src": "実　費　額 × １／２",
+            "mt": "Actual Cost x 1/2",
+            "MQM_score": 0
+        },
+        {
+            "src": "実　費　額 × １／２",
+            "mt": "Actual Cost x 1/2",
+            "MQM_score": 0
+        },
+        {
+            "src": "交通費（通学費）",
+            "mt": "Transportation expenses (transportation fees)",
+            "MQM_score": 0
+        },
+        {
+            "src": "実　　費　　額（注1）",
+            "mt": "Actual Cost (Note 1)",
+            "MQM_score": 0
+        },
+        {
+            "src": "実　　費　　額（注1）",
+            "mt": "Actual Cost (Note 1)",
+            "MQM_score": 0
+        },
+        {
+            "src": "交流学習交通費",
+            "mt": "Travel expenses for exchange learning",
+            "MQM_score": 0
+        },
+        {
+            "src": "実　　費　　額（注1）",
+            "mt": "Actual Cost (Note 1)",
+            "MQM_score": 0
+        },
+        {
+            "src": "実　　費　　額（注1）",
+            "mt": "Actual Cost (Note 1)",
+            "MQM_score": 0
+        },
+        {
+            "src": "修学旅行費",
+            "mt": "Senior grade excursions expense",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 31,
+                    "text": "Senior grade excursions expense",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "実 費 額 × １／２（上限10,790円）",
+            "mt": "Actual Cost x 1/2 (up to 10,790 yen)",
+            "MQM_score": 0
+        },
+        {
+            "src": "実 費 額 × １／２（上限28,860 円）",
+            "mt": "Actual Cost x 1/2 (up to 28,860 yen)",
+            "MQM_score": 0
+        },
+        {
+            "src": "校外活動費（宿泊を伴うもの）",
+            "mt": "Extracurricular Activity Expenses (with accommodation)",
+            "MQM_score": 0
+        },
+        {
+            "src": "実 費 額 × １／２（上限3,422円）",
+            "mt": "Actual Cost x 1/2 (up to 3,422 yen)",
+            "MQM_score": 0
+        },
+        {
+            "src": "実 費 額 × １／２（上限3,540 円）",
+            "mt": "Actual Cost x 1/2 (up to 3,540 yen)",
+            "MQM_score": 0
+        },
+        {
+            "src": "校外活動費（宿泊を伴わないもの）",
+            "mt": "Extracurricular Activity Expenses (without accommodation)",
+            "MQM_score": 0
+        },
+        {
+            "src": "800 円　　",
+            "mt": "800 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "1,155 円　　",
+            "mt": "1,155 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "学用品・通学用品購入費",
+            "mt": "Expenses for purchasing school supplies",
+            "MQM_score": 0
+        },
+        {
+            "src": "実 費 額 × 1／2（注2）（上限5,820円）",
+            "mt": "Actual Cost x 1/2 (Note 2) (Maximum 5,820 yen)",
+            "MQM_score": 0
+        },
+        {
+            "src": "実 費 額 × 1／２（注2）（上限11,370円）",
+            "mt": "Actual Cost x 1/2 (Note 2) (Maximum 11,370 yen)",
+            "MQM_score": 0
+        },
+        {
+            "src": "新入学児童生徒学用品・通学用品購入費（1年生のみ）",
+            "mt": "Expenses for purchasing school and school supplies for new students (first year students only)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 34,
+                    "text": "school and",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "実 費 額 × 1／2（注2）（上限25,555円）（注３）",
+            "mt": "Actual Cost x 1/2 (Note 2) (Maximum 25,555 yen) (Note 3)",
+            "MQM_score": 0
+        },
+        {
+            "src": "実 費 額 × １／２（注2）（上限28,990円）（注３）",
+            "mt": "Actual Cost x 1/2 (Note 2) (Maximum 28,990 yen) (Note 3)",
+            "MQM_score": 0
+        },
+        {
+            "src": "（注1）②③は、認定段階が第Ⅲ段階の場合は、「実費額×1／2」となります。",
+            "mt": "(Note 1) For (2) and (3), if the accreditation stage is Stage III, \"actual expenses x 1 / 2\" shall apply.",
+            "MQM_score": 0
+        },
+        {
+            "src": "（注2）⑦⑧は、購入実績に応じて支給し、領収書（あて名と品名、金額）が必要となります。",
+            "mt": "(Note 2) For items (7) and (8), payment will be made according to the purchase performance, and a receipt (address, product name, amount) will be required.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 107,
+                    "end": 114,
+                    "text": "address",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "（⑦は令和２年2月～令和３年1月まで、⑧は令和２年４月までに購入したものが対象。",
+            "mt": "(⑦ refers to those purchased between February 2020 and January 2021, and ⑧ refers to those purchased before April 2020.)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 28,
+                    "text": "those purchased",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 85,
+                    "end": 100,
+                    "text": "those purchased",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "ただし、新型コロナウイルス感染症に伴う臨時休業によって、⑧の入学に必要な学用品及び通学用品を４月以降に購入した場合は、６月末までの領収書について対象とします。）",
+            "mt": "However, if the student purchases school supplies and school supplies necessary for the enrollment in (h) after April due to the temporary suspension of operations due to the novel coronavirus, receipts by the end of June will be applicable.)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 98,
+                    "text": "school supplies and school supplies necessary for the enrollment",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 102,
+                    "end": 105,
+                    "text": "(h)",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 153,
+                    "end": 163,
+                    "text": "operations",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 175,
+                    "end": 180,
+                    "text": "novel",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 203,
+                    "end": 205,
+                    "text": "by",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "（注３）昨年度から上限額が増えました。",
+            "mt": "(Note 3) The upper limit has increased since last fiscal year.",
+            "MQM_score": 0
+        },
+        {
+            "src": "認定段階の算定基準と補助経費",
+            "mt": "Accreditation criteria and support costs",
+            "MQM_score": 0
+        },
+        {
+            "src": "世帯の所得額と生活保護基準需要額の割合により認定段階を決定し、その認定段階により、補助する経費や金額が異なります。",
+            "mt": "The approval level is decided based on the ratio of the household income amount and the standard livelihood protection demand amount, and the expenses and amount of subsidy differ depending on the approval level.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 83,
+                    "text": "household income amount and",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 119,
+                    "end": 132,
+                    "text": "demand amount",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "認定段階は、年度毎に決定します。",
+            "mt": "The certification level is determined annually.",
+            "MQM_score": 0
+        },
+        {
+            "src": "認定段階",
+            "mt": "Certification Phase",
+            "MQM_score": 0
+        },
+        {
+            "src": "算定基準",
+            "mt": "Basis of calculation",
+            "MQM_score": 0
+        },
+        {
+            "src": "補助対象の経費",
+            "mt": "Expenses covered by the subsidy",
+            "MQM_score": 0
+        },
+        {
+            "src": "Ⅰ",
+            "mt": "I",
+            "MQM_score": 0
+        },
+        {
+            "src": "所得額が需要額の１．５倍未満",
+            "mt": "Income is less than 1.5 times demand",
+            "MQM_score": 0
+        },
+        {
+            "src": "Ⅱ",
+            "mt": "II",
+            "MQM_score": 0
+        },
+        {
+            "src": "所得額が需要額の１．５倍以上２．５倍未満",
+            "mt": "The amount of income is 1.5 times or more and less than 2.5 times the amount of demand",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 66,
+                    "end": 86,
+                    "text": "the amount of demand",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "①～⑧",
+            "mt": "① ～ ⑧",
+            "MQM_score": 0
+        },
+        {
+            "src": "Ⅲ",
+            "mt": "III",
+            "MQM_score": 0
+        },
+        {
+            "src": "所得額が需要額の２．５倍以上",
+            "mt": "Income is more than 2.5 times demand.",
+            "MQM_score": 0
+        },
+        {
+            "src": "②、③",
+            "mt": "②, ③",
+            "MQM_score": 0
+        },
+        {
+            "src": "第Ⅰ・Ⅱ段階の目安（生活保護基準需要額の２．５倍未満の所得額）",
+            "mt": "Standards for Stage I and II (income less than 2.5 times the standard livelihood protection demand)",
+            "MQM_score": 0
+        },
+        {
+            "src": "およそ次の所得額です。",
+            "mt": "About the following amount of income.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 37,
+                    "text": "About the following amount of income.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "同じ世帯人数でも年齢構成などにより所得額は異なります。",
+            "mt": "Even if the number of people in a household is the same, the amount of income varies depending on the age structure.",
+            "MQM_score": 0
+        },
+        {
+            "src": "世帯人数",
+            "mt": "Number of household members",
+            "MQM_score": 0
+        },
+        {
+            "src": "2人世帯",
+            "mt": "Two person household",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "Two person",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "3人世帯",
+            "mt": "Three person household",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "Three person",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "4人世帯",
+            "mt": "Four person household",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "Four person",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "5人世帯",
+            "mt": "Five person household",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "Five person",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "6人世帯",
+            "mt": "Six person household",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "Six person",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "世帯の所得額",
+            "mt": "Household income",
+            "MQM_score": 0
+        },
+        {
+            "src": "463万4千円",
+            "mt": "4.634 million yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "604万4千円",
+            "mt": "6.044 million yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "711万9千円",
+            "mt": "7.119 million yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "796万0千円",
+            "mt": "7.96 million yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "921万9千円",
+            "mt": "9.219 million yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "(給与所得者の年収)",
+            "mt": "(Annual Income of Employment Income Earners)",
+            "MQM_score": 0
+        },
+        {
+            "src": "(729万2千円)",
+            "mt": "(7.292 million yen)",
+            "MQM_score": 0
+        },
+        {
+            "src": "(905万5千円)",
+            "mt": "(9.055 million yen)",
+            "MQM_score": 0
+        },
+        {
+            "src": "(1037万5千円)",
+            "mt": "(10.375 million yen)",
+            "MQM_score": 0
+        },
+        {
+            "src": "(1136万4千円)",
+            "mt": "(11.364 million yen)",
+            "MQM_score": 0
+        },
+        {
+            "src": "(1284万5千円)",
+            "mt": "(12.845 million yen)",
+            "MQM_score": 0
+        },
+        {
+            "src": "「特別支援教育就学奨励費」制度とは別に、経済的にお困りの方へ、給食費や学用品費などを援助する「就学援助」制度があります。",
+            "mt": "In addition to the \"Special Needs Education Enrollment Incentive Fund\", there is a \"School Expense Subsidy\" program that provides financial support for school lunch fees and paying for necessary school supplies for those who are in financial trouble.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 69,
+                    "text": "Special Needs Education Enrollment Incentive Fund",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 152,
+                    "end": 210,
+                    "text": "school lunch fees and paying for necessary school supplies",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "就学援助と特別支援教育就学奨励費の同じ支給費目を同時に受けることはできません。",
+            "mt": "You can't receive the same payment items of the School Expense Subsidy and the Special Needs Education Enrollment Promotion Fund at the same time.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 145,
+                    "text": "receive the same payment items of the School Expense Subsidy and the Special Needs Education Enrollment Promotion Fund at the same time",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "就学援助の方が手厚いため、就学援助の対象となる方は、就学援助を選択されることをお勧めします。",
+            "mt": "The school expense subsidy is more generous, so I recommend that those who are eligible for the school expense subsidy choose the school expense subsidy.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 152,
+                    "text": "The school expense subsidy is more generous, so I recommend that those who are eligible for the school expense subsidy choose the school expense subsidy",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "ただし、③交流学習交通費は、特別支援教育就学奨励費でのみ支給されるため申請が必要です。",
+            "mt": "However, you need to apply for the transportation expenses for exchange study because they are paid only by the special needs education enrollment promotion allowance.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 167,
+                    "text": "However, you need to apply for the transportation expenses for exchange study because they are paid only by the special needs education enrollment promotion allowance.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "通常の学級（通級指導教室を含む。）の児童生徒のうち、学校教育法施行令第22条の3に規定する障害の程度に該当するもの（おもて面にある対象者の３）の判定基準等",
+            "mt": "Criteria, etc. for students in regular classes (including Teaching School for Handicapped Students) who fall under the degree of disability prescribed in Article 22-3 of the Order for Enforcement of the School Education Act (3) of the subject person on the front)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 98,
+                    "text": "Teaching School for Handicapped Students",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 224,
+                    "end": 263,
+                    "text": "(3) of the subject person on the front)",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "区分",
+            "mt": "Segment",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "Segment",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "障害の程度（学校教育法施行令第22条の3の規定による基準）",
+            "mt": "Degree of disability (criteria pursuant to Article 22-3 of the Order for Enforcement of the School Education Act)",
+            "MQM_score": 0
+        },
+        {
+            "src": "判定方法",
+            "mt": "Judgment Method",
+            "MQM_score": 0
+        },
+        {
+            "src": "必要書類",
+            "mt": "Required documents",
+            "MQM_score": 0
+        },
+        {
+            "src": "視覚障害者",
+            "mt": "Visually impaired person",
+            "MQM_score": 0
+        },
+        {
+            "src": "両眼の矯正視力がおおむね0.3未満のもの又は視力以外の視機能障害が高度のもののうち、拡大鏡等の使用によっても通常の文字、図形等の視覚による認識が不可能又は著しく困難※な程度のもの",
+            "mt": "Of those whose corrected visual acuity in both eyes is approximately less than 0.3 or whose visual impairment other than visual acuity is severe, those whose visual recognition of ordinary letters, figures, etc. is impossible or extremely difficult * even with the use of a magnifying glass, etc.",
+            "MQM_score": 0
+        },
+        {
+            "src": "※　通常の文字、図形等の視覚による認識にかなりの時間を要するとともに、すべての教科等の指導において特別の支援や配慮を必要とし、かつ、障害を改善・克服するための特別な指導が系統的・継続的に必要であること",
+            "mt": "* Considerable time is required for visual recognition of ordinary characters, figures, etc., special support and consideration are required for guidance in all subjects, etc., and special guidance to improve and overcome disabilities is systematically and continuously required.",
+            "MQM_score": 0
+        },
+        {
+            "src": "身体障害者手帳の等級が2級以上のもの又は身体障害者手帳の等級が3～6級のもののうち左の基準に該当すると医師が診断したもの",
+            "mt": "A person with a physical disability certificate of Grade 2 or higher, or a person with a physical disability certificate of Grade 3 to 6, who has been diagnosed by a doctor as meeting the following criteria:",
+            "MQM_score": 0
+        },
+        {
+            "src": "身体障害者手帳の写し",
+            "mt": "Copy of physical disability certificate",
+            "MQM_score": 0
+        },
+        {
+            "src": "医師の診断書（名古屋市指定の様式による。）",
+            "mt": "Medical certificate issued by a doctor (in the form designated by Nagoya City)",
+            "MQM_score": 0
+        },
+        {
+            "src": "（②は身体障害者手帳の等級が3～6級のもののみ必要）",
+            "mt": "(For (2), only those with a physical disability certificate of Grade 3 to 6 are required.)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 90,
+                    "text": "(For (2), only those with a physical disability certificate of Grade 3 to 6 are required.)",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "聴覚障害者",
+            "mt": "Deaf person",
+            "MQM_score": 0
+        },
+        {
+            "src": "両耳の聴力レベルがおおむね60デシベル以上のもののうち、補聴器や人工内耳等の使用によっても通常の話声を解することが不可能又は著しく困難な程度のもの",
+            "mt": "Of those whose hearing level in both ears is approximately 60 decibels or more, those whose ordinary speaking is impossible or extremely difficult to understand even with a hearing aid or artificial inner ear, etc.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 160,
+                    "text": "those whose ordinary speaking is impossible or extremely difficult to understand",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "知的障害者",
+            "mt": "Intellectual disability",
+            "MQM_score": 0
+        },
+        {
+            "src": "知的発達の遅滞があり、他人との意思疎通が困難で日常生活を営むのに頻繁に援助を必要とする程度のもの",
+            "mt": "Those who have intellectual development and have difficulty in communicating with others and frequently need assistance in their daily lives.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 39,
+                    "text": "intellectual development",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 40,
+                    "end": 88,
+                    "text": "and have difficulty in communicating with others",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "知的発達の遅滞の程度が１の程度に達しないもののうち、社会生活への適応が著しく困難なもの",
+            "mt": "Of those whose degree of intellectual development is less than 1, those whose adjustment to social life is extremely difficult",
+            "MQM_score": 0
+        },
+        {
+            "src": "愛護手帳の療育判定がＡのもの",
+            "mt": "The medical treatment and education judgment in the Welfare Handbook is A.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 74,
+                    "text": "The medical treatment and education judgment in the Welfare Handbook is A.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "愛護手帳の写し",
+            "mt": "Copy of Welfare Record Book",
+            "MQM_score": 0
+        },
+        {
+            "src": "肢体不自由者",
+            "mt": "Physically disabled person",
+            "MQM_score": 0
+        },
+        {
+            "src": "肢体不自由の状態が補装具の使用によっても歩行※、食事、衣服の着脱、排せつ等の動作や描画等の学習活動のための基本的な動作が不可能又は困難な程度のもの",
+            "mt": "The condition of Limb / Trunk Dysfunction is such that even with the use of prosthetic devices, it is impossible or difficult to perform basic movements such as walking *, eating, putting on and taking off clothes, excretion, etc., or drawing for learning activities.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 125,
+                    "text": "The condition of Limb / Trunk Dysfunction is such that even with the use of prosthetic devices, it is impossible or difficult",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "肢体不自由の状態が１の程度に達しないもののうち、常時の医学的観察指導（特定の期間内に常に医学的な観察が必要で、起床から就寝までの日常生活の一つ一つの運動・動作についての指導・訓練を受けること）を必要とする程度のもの",
+            "mt": "Those whose condition of Limb / Trunk Dysfunction does not reach level 1 and who require constant medical observation and guidance (requiring constant medical observation within a specified period and receiving guidance and training on each movement and movement in daily life from getting up to going to bed)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 49,
+                    "text": "condition of Limb / Trunk Dysfunction",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 233,
+                    "end": 262,
+                    "text": "on each movement and movement",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "※　歩行には、車いすによる移動は含まない。",
+            "mt": "* Walking does not include movement in a wheelchair.",
+            "MQM_score": 0
+        },
+        {
+            "src": "身体障害者手帳の等級が2級以上のもの又は身体障害者手帳の等級が3～6級のもののうち左の基準に該当すると医師が診断したもの",
+            "mt": "A person with a physical disability certificate of Grade 2 or higher, or a person with a physical disability certificate of Grade 3 to 6, who has been diagnosed by a doctor as meeting the following criteria:",
+            "MQM_score": 0
+        },
+        {
+            "src": "身体障害者手帳の写し",
+            "mt": "Copy of physical disability certificate",
+            "MQM_score": 0
+        },
+        {
+            "src": "医師の診断書（名古屋市指定の様式による。）",
+            "mt": "Medical certificate issued by a doctor (in the form designated by Nagoya City)",
+            "MQM_score": 0
+        },
+        {
+            "src": "（②は身体障害者手帳の等級が3～6級のもののみ必要）",
+            "mt": "(For (2), only those with a physical disability certificate of Grade 3 to 6 are required.)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 90,
+                    "text": "(For (2), only those with a physical disability certificate of Grade 3 to 6 are required.)",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "病 弱 者",
+            "mt": "Sickly person",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "Sickly person",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "慢性の呼吸器疾患、腎臓疾患及び神経疾患、悪性新生物その他の疾患の状態が継続して医療※1又は生活規制※2を必要とする程度のもの",
+            "mt": "A chronic respiratory disease, renal disease, neurologic disease, malignant neoplasm, or other disease that continues to require medical care * 1 or livelihood regulation * 2.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "A chronic",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 103,
+                    "end": 141,
+                    "text": "that continues to require medical care",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 149,
+                    "end": 175,
+                    "text": "livelihood regulation * 2.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "身体虚弱の状態が継続して生活規制※2を必要とする程度のもの",
+            "mt": "Those whose Physical Weakness condition continues and who require lifestyle restrictions * 2",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 39,
+                    "text": "Physical Weakness condition",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "※１　医師を中心とした診断や治療のこと。",
+            "mt": "* 1 Diagnosis and treatment mainly by a doctor.",
+            "MQM_score": 0
+        },
+        {
+            "src": "日常的な薬の服用や自己注射等は含まない。",
+            "mt": "This does not include daily medication or self-injection.",
+            "MQM_score": 0
+        },
+        {
+            "src": "※２　疾患により、運動や日常の諸活動（歩行、入浴、読書、学習等）及び食事の質や量が著しく制限されるものであること",
+            "mt": "* 2 The disease significantly limits exercise, daily activities (walking, bathing, reading, learning, etc.), and the quality and quantity of meals.",
+            "MQM_score": 0
+        },
+        {
+            "src": "左の基準に該当すると医師が診断したもの",
+            "mt": "A person diagnosed by a doctor as meeting the following criteria",
+            "MQM_score": 0
+        },
+        {
+            "src": "医師の診断書（名古屋市指定の様式による。）",
+            "mt": "Medical certificate issued by a doctor (in the form designated by Nagoya City)",
+            "MQM_score": 0
+        },
+        {
+            "src": "複数の障害がある者については、障害が最も重いもので判断します。",
+            "mt": "If a person has more than one disability, the person with the most severe disability will be judged.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 100,
+                    "text": "If a person has more than one disability, the person with the most severe disability will be judged.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "【手続き】",
+            "mt": "[Procedures]",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "[Procedures]",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "特別支援学級と通級指導教室の児童生徒については、６月上旬ごろに申請のご案内をします。",
+            "mt": "As for students in special needs classes and Teaching School for Handicapped Students, we will inform you about the application around early June.",
+            "MQM_score": 0
+        },
+        {
+            "src": "その他の児童生徒について、受給を希望される場合は、学校にお申し出ください。",
+            "mt": "As for other students, please ask the school if you want to receive it.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 70,
+                    "text": "if you want to receive it",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "また、医師の診断書が必要な場合は、学校で必要書類を受け取り、医療機関にお持ちいただいて、診断書の作成を依頼してください。",
+            "mt": "Also, if you need a doctor's medical certificate, please receive the necessary documents at school, bring them to the medical institution, and ask them to make a medical certificate.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "Also, if",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 78,
+                    "text": "please receive the necessary",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 89,
+                    "end": 98,
+                    "text": "at school",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 100,
+                    "end": 117,
+                    "text": "bring them to the",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 4
+        },
+        {
+            "src": "制度の詳しい内容につきましては、通学先の学校又は名古屋市教育委員会学事課（℡972-3217）へお問い合わせください。",
+            "mt": "For details of the system, please contact the school you are commuting to or the Educational Affairs Division of the Nagoya City Board of Education (tel: 972-3217).",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 18,
+                    "text": "For details of the",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 73,
+                    "text": "contact the school you are commuting to",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "名古屋市教育委員会　R2．5",
+            "mt": "Nagoya City Board of Education R2.5",
+            "MQM_score": 0
+        }
+    ]
+}

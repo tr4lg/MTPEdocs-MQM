@@ -1,0 +1,1641 @@
+{
+    "001.json": [
+        {
+            "src": "今日は何がしたいですか。",
+            "mt": "What do you want to do today?",
+            "MQM_score": 0
+        },
+        {
+            "src": "ビザの延長に必要な書類がほしい",
+            "mt": "I want the necessary documents to extend my visa.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 6,
+                    "text": "want",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 30,
+                    "text": "necessary documents",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 40,
+                    "text": "to extend",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "家族を日本に呼ぶための手続きに必要な書類がほしい",
+            "mt": "I want the necessary documents for procedures to bring my family to Japan.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 6,
+                    "text": "want",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 30,
+                    "text": "necessary documents",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 45,
+                    "text": "procedures",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 46,
+                    "end": 54,
+                    "text": "to bring",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 4
+        },
+        {
+            "src": "税金を払いたい",
+            "mt": "I want to pay my taxes.",
+            "MQM_score": 0
+        },
+        {
+            "src": "所得証明がほしい",
+            "mt": "I need proof of income.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 22,
+                    "text": "proof of income",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "税金の支払いについて相談したい",
+            "mt": "I want to talk about paying taxes.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 14,
+                    "text": "to talk",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 33,
+                    "text": "paying taxes",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "納税証明がほしい",
+            "mt": "I want a tax certificate.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 6,
+                    "text": "want",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 24,
+                    "text": "tax certificate",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 6
+        },
+        {
+            "src": "入国管理局に提出する場合は、所得証明と納税証明の両方が必要です。",
+            "mt": "If you submit it to the Immigration Bureau, you need both a proof of income and a proof of tax payment.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "If",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 16,
+                    "text": "it",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 75,
+                    "text": "proof of income",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 82,
+                    "end": 102,
+                    "text": "proof of tax payment",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 8
+        },
+        {
+            "src": "非課税の人は、非課税証明書が必要です。",
+            "mt": "If you are exempt from tax, you need a tax exemption certificate.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 26,
+                    "text": "are exempt from tax",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "入国管理局からもらった書類をもっていますか。",
+            "mt": "Do you have the documents you received from the Immigration Bureau?",
+            "MQM_score": 0
+        },
+        {
+            "src": "だれの証明書が必要ですか。",
+            "mt": "Whose certificate do you need?",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "Whose",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 29,
+                    "text": "certificate do you need",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "この見本をみて、申請書を記入してください。",
+            "mt": "Please look at this sample and fill in the application form.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 14,
+                    "text": "look at",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 38,
+                    "text": "and fill in",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "いま、日本語を話すことができる家族や友達と電話で話すことができますか。",
+            "mt": "Can you talk with your family and friends who can speak Japanese on the phone now?",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 17,
+                    "text": "talk with",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 29,
+                    "text": "your family",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 33,
+                    "text": "and",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 41,
+                    "text": "friends",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 65,
+                    "end": 81,
+                    "text": "on the phone now",
+                    "type": 10,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "日本語がわかる人と一緒にもう一度この窓口へきてください。",
+            "mt": "Please come to this window again with someone who understands Japanese.",
+            "MQM_score": 0
+        },
+        {
+            "src": "今からテレビ電話をつなぎます。　",
+            "mt": "I will connect the videophone call now.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 34,
+                    "text": "connect the videophone call",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "〇〇市税事務所（〇〇出張所）へ行く必要があります。",
+            "mt": "You need to go to 0 0 City Tax Office (0 0 Branch Office).",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 37,
+                    "text": "0 0 City Tax Office",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 56,
+                    "text": "0 0 Branch Office",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 10
+        },
+        {
+            "src": "この人とはどんな関係ですか。",
+            "mt": "What is your relationship with this person?",
+            "MQM_score": 0
+        },
+        {
+            "src": "本人以外の人が窓口に来る場合は、委任状が必要です。",
+            "mt": "If someone other than the person himself comes to the window, a letter of proxy is required.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 40,
+                    "text": "himself",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "何年度の証明書が必要ですか。",
+            "mt": "Which year's certificate do you need?",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 36,
+                    "text": "Which year's certificate do you need",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "例：平成29年度所得証明は、平成28年中の所得を証明しています。",
+            "mt": "Example: The 2017 Income Report proves income for the year 2016.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 12,
+                    "text": "The",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 31,
+                    "text": "Income Report",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 38,
+                    "text": "proves",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 45,
+                    "text": "income",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 4
+        },
+        {
+            "src": "一番新しい年度の証明書を発行していいですか。",
+            "mt": "Can I issue the certificate for the latest fiscal year?",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "Can",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 15,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "何枚必要ですか。",
+            "mt": "How many tickets do you need?",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 16,
+                    "text": "tickets",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "身分証明書を見せてください。",
+            "mt": "Please show me your ID.",
+            "MQM_score": 0
+        },
+        {
+            "src": "身分証明書がないと手続きできません。",
+            "mt": "You can't go through the procedure without your identification paper.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "You",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 20,
+                    "text": "can't go through",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 24,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 68,
+                    "text": "without your identification paper",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 4
+        },
+        {
+            "src": "今年の1月1日はどこに住んでいましたか。",
+            "mt": "Where did you live on January 1st of this year?",
+            "MQM_score": 0
+        },
+        {
+            "src": "あなたの証明書は、○○で取得してください。",
+            "mt": "Please obtain your certificate at 0 0.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "Please obtain",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 37,
+                    "text": "0 0",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 6
+        },
+        {
+            "src": "今年の1月1日に日本以外のところに住んでいた場合、証明書は発行できません。",
+            "mt": "If you lived outside Japan on January 1st of this year, the certificate cannot be issued.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 59,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "西暦○○年は仕事をしていましたか。",
+            "mt": "Were you working in AD 0 0?",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 26,
+                    "text": "AD 0 0",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "証明が必要な人の年収がわかるものはありますか。",
+            "mt": "Do you have anything that shows the annual income of the person who needs a certificate?",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 74,
+                    "end": 75,
+                    "text": "a",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "（源泉徴収票、給与明細書など）",
+            "mt": "(Withholding Record, Salary Statement, etc.)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 1,
+                    "end": 19,
+                    "text": "Withholding Record",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 37,
+                    "text": "Salary Statement",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "他の書類はありますか。",
+            "mt": "Do you have any other documents?",
+            "MQM_score": 0
+        },
+        {
+            "src": "この書類を記入してください。",
+            "mt": "Please fill out this form.",
+            "MQM_score": 0
+        },
+        {
+            "src": "あなたの収入が書かれています。",
+            "mt": "Your income is written.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 22,
+                    "text": "is written",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "市民税・県民税は０円です。",
+            "mt": "The municipal tax and prefectural inhabitants tax is 0 yen.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "The",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 49,
+                    "text": "municipal tax and prefectural inhabitants tax",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 52,
+                    "text": "is",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "あなたは税金を滞納しています。",
+            "mt": "You are behind in your tax payment.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 34,
+                    "text": "payment",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "払っていない税金をいま払えば、すぐに納税証明を発行できます。",
+            "mt": "If you pay the unpaid tax now, we can issue a certificate of tax payment immediately.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 14,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 46,
+                    "end": 72,
+                    "text": "certificate of tax payment",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "税金をすぐに払いますか。",
+            "mt": "Will you pay the tax immediately?",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "Will you",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 16,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 20,
+                    "text": "tax",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 32,
+                    "text": "immediately",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 4
+        },
+        {
+            "src": "銀行窓口で税金を払った後、領収書を持ってまたこの窓口に戻ってきてください。",
+            "mt": "After you pay the tax at the bank counter, please come back to this counter again with the receipt.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 21,
+                    "text": "the tax",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 41,
+                    "text": "counter",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 62,
+                    "text": "come back to",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 75,
+                    "text": "this counter",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 76,
+                    "end": 81,
+                    "text": "again",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 87,
+                    "end": 90,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 6
+        },
+        {
+            "src": "庶務係で税金を払った後、領収書を持ってまたこの窓口に戻ってきてください。",
+            "mt": "After you pay the tax at the general affairs section, please come back to this window again with the receipt.",
+            "MQM_score": 0
+        },
+        {
+            "src": "○階○番窓口で税金を払った後、領収書を持ってまたこの窓口に戻ってきてください。",
+            "mt": "After you pay the tax at the counter number 0 on the zeroth floor, please come back to this counter again with the receipt.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 21,
+                    "text": "the tax",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 45,
+                    "text": "the counter number 0",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 65,
+                    "text": "the zeroth floor",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 74,
+                    "end": 86,
+                    "text": "come back to",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 87,
+                    "end": 99,
+                    "text": "this counter",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 100,
+                    "end": 105,
+                    "text": "again",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 111,
+                    "end": 114,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 11
+        },
+        {
+            "src": "領収書をみせてください。",
+            "mt": "May I see your receipt?",
+            "MQM_score": 0
+        },
+        {
+            "src": "市民税・県民税が０円のため、納税証明は発行できません。",
+            "mt": "Since the municipal tax and prefectural inhabitants tax is 0 yen, we can't issue a tax certificate.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 9,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 58,
+                    "text": "municipal tax and prefectural inhabitants tax is",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "「未納額」が「納期未到来額」と同額の場合は、滞納とはなりません。",
+            "mt": "If the \"Unpaid Amount\" is the same as the \"Amount Not Yet Due,\" it is not considered delinquent.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 69,
+                    "text": "it is",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 85,
+                    "end": 95,
+                    "text": "delinquent",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "あなたの市民税・県民税は、あなたの働いている会社が、あなたの給料から引いて名古屋市に払っています。",
+            "mt": "Your municipal tax and prefectural inhabitants tax are deducted from your salary and paid to Nagoya city by the company you work for.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 50,
+                    "text": "municipal tax and prefectural inhabitants tax",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 93,
+                    "end": 104,
+                    "text": "Nagoya city",
+                    "type": 8,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 6
+        },
+        {
+            "src": "この税金は払いました。",
+            "mt": "I paid this tax.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 1,
+                    "text": "I",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "手数料を払ってください。",
+            "mt": "Please pay the fee.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 14,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "手続きは終わりました。",
+            "mt": "The procedure is over.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "The procedure",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 21,
+                    "text": "over",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "委任者",
+            "mt": "Mandator",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "Mandator",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "住所",
+            "mt": "Address",
+            "MQM_score": 0
+        },
+        {
+            "src": "氏名",
+            "mt": "Name",
+            "MQM_score": 0
+        },
+        {
+            "src": "電話番号",
+            "mt": "Phone Number",
+            "MQM_score": 0
+        },
+        {
+            "src": "本人（証明がほしい人）の押印",
+            "mt": "Seal of the person (the person who wants a certificate)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 18,
+                    "text": "Seal of the person",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 40,
+                    "text": "wants",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "本人（証明がほしい人）",
+            "mt": "Person (person who wants a certificate)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "Person",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 24,
+                    "text": "wants",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "住所・氏名・電話番号を書いてください。",
+            "mt": "Please write your address, name and phone number.",
+            "MQM_score": 0
+        },
+        {
+            "src": "委任事項",
+            "mt": "Terms of Reference",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 18,
+                    "text": "Terms of Reference",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "必要な証明の名前と、（必要な）枚数を書いてください。",
+            "mt": "Please write down the name and number of certificates you need.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 26,
+                    "text": "name",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 37,
+                    "text": "number",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 62,
+                    "text": "certificates you need",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "代理人",
+            "mt": "Agent",
+            "MQM_score": 0
+        },
+        {
+            "src": "窓口に来る人　",
+            "mt": "People who come to the counter",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "People who",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 15,
+                    "text": "come",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 30,
+                    "text": "counter",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "だれの証明が必要ですか。",
+            "mt": "Whose certificate do you need?",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "Whose",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 29,
+                    "text": "certificate do you need",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "窓口に来た人　　　　",
+            "mt": "People who came to the counter",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "People",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 30,
+                    "text": "counter",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "配偶者（妻または夫）",
+            "mt": "Spouse (wife or husband)",
+            "MQM_score": 0
+        },
+        {
+            "src": "親",
+            "mt": "Parent",
+            "MQM_score": 0
+        },
+        {
+            "src": "子",
+            "mt": "Child",
+            "MQM_score": 0
+        },
+        {
+            "src": "扶養申請",
+            "mt": "Application for support",
+            "MQM_score": 0
+        },
+        {
+            "src": "年金申請",
+            "mt": "Pension application",
+            "MQM_score": 0
+        },
+        {
+            "src": "公営住宅（収入申告）",
+            "mt": "Public housing (income declaration)",
+            "MQM_score": 0
+        },
+        {
+            "src": "融資（資金借入）",
+            "mt": "Loans (borrowing of funds)",
+            "MQM_score": 0
+        },
+        {
+            "src": "児童手当受給",
+            "mt": "Receiving child allowance",
+            "MQM_score": 0
+        },
+        {
+            "src": "入国管理局提出",
+            "mt": "Submitted by the Immigration",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 28,
+                    "text": "Immigration",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "就学援助申請",
+            "mt": "School Expense Subsidy Application",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 34,
+                    "text": "School Expense Subsidy Application",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "高等学校等就学支援金・私立高等学校授業料軽減申請",
+            "mt": "Application for High School Enrollment Support Fund / Private High School Tuition Reduction",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 51,
+                    "text": "High School Enrollment Support Fund",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 91,
+                    "text": "Private High School Tuition Reduction",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "奨学金申請",
+            "mt": "Scholarship Application",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 23,
+                    "text": "Application",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "特別支援教育就学奨励・私立幼稚園就奨励申請",
+            "mt": "Application for Encouragement of Enrollment in Special Needs Education / Encouragement of Enrollment in Private Kindergartens",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 43,
+                    "text": "Encouragement of Enrollment",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 61,
+                    "end": 70,
+                    "text": "Education",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 73,
+                    "end": 100,
+                    "text": "Encouragement of Enrollment",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 112,
+                    "end": 125,
+                    "text": "Kindergartens",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 4
+        },
+        {
+            "src": "特定医療費申請",
+            "mt": "Specific medical expenses application",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 37,
+                    "text": "Specific medical expenses application",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "ビザの申請",
+            "mt": "Visa application",
+            "MQM_score": 0
+        },
+        {
+            "src": "入札",
+            "mt": "Bidding",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "Bidding",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "官公署提出（入札以外）",
+            "mt": "Submission to public offices (other than bidding)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 48,
+                    "text": "bidding",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "保証人",
+            "mt": "Guarantor",
+            "MQM_score": 0
+        },
+        {
+            "src": "酒類販売業の免許申請",
+            "mt": "License application for liquor sales business",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 45,
+                    "text": "License application for liquor sales business",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "あなたが扶養している家族の名前を書いてください。",
+            "mt": "Please write the name of the family you are supporting.",
+            "MQM_score": 0
+        },
+        {
+            "src": "続柄（関係）",
+            "mt": "Relationship",
+            "MQM_score": 0
+        },
+        {
+            "src": "生活状況を書いてください。",
+            "mt": "Please write your life situation.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 12,
+                    "text": "write",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 32,
+                    "text": "life situation",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "だれかの扶養家族になっている。",
+            "mt": "I'm a dependent of someone.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 26,
+                    "text": "of someone",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "あなたを扶養している人",
+            "mt": "A person who supports you",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "A person",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "学生",
+            "mt": "Student",
+            "MQM_score": 0
+        },
+        {
+            "src": "学校名",
+            "mt": "School Name",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "School Name",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "病気療養中",
+            "mt": "During medical treatment",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "During",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "失業中",
+            "mt": "Out of work",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "Out of work",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "だれの証明が必要か、名前を書いてください。",
+            "mt": "Please write down the name of the person who needs the certificate.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 54,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "証明が必要な人の住所を書いてください。",
+            "mt": "Please write the address of the person who needs the proof.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 58,
+                    "text": "the proof",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "生年月日を書いてください。",
+            "mt": "Please write your date of birth.",
+            "MQM_score": 0
+        },
+        {
+            "src": "あなたの名前を書いてください。",
+            "mt": "Please write down your name.",
+            "MQM_score": 0
+        },
+        {
+            "src": "あなたの住所を書いてください。",
+            "mt": "Please write down your address.",
+            "MQM_score": 0
+        },
+        {
+            "src": "あなたの電話番号を書いてください。",
+            "mt": "Please write down your phone number.",
+            "MQM_score": 0
+        },
+        {
+            "src": "大学等各種学校の授業料免除申請",
+            "mt": "Application for Tuition Fee Exemption for Universities and Other Schools",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 37,
+                    "text": "Tuition Fee Exemption",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "高額療養費支給・限度額適用認定申請",
+            "mt": "Application for approval of application of Payment When High Medical Treatment Costs Are Incurred and limit amount",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 97,
+                    "text": "approval of application of Payment When High Medical Treatment Costs Are Incurred",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 98,
+                    "end": 101,
+                    "text": "and",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 102,
+                    "end": 114,
+                    "text": "limit amount",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "〇〇証明をお渡しします。",
+            "mt": "I will give you the 0 0 certificate.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "I will give",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 15,
+                    "text": "you",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 35,
+                    "text": "the 0 0 certificate",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 7
+        }
+    ]
+}

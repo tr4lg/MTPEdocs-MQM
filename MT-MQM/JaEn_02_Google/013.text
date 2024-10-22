@@ -1,0 +1,62 @@
+1	ひとり親家庭の方へ	For single-parent families
+2	お困りごと相談票	Problem consultation form
+3	仕事や子育て、生活等でのお困り事はありませんか？	Do you have any problems with your work, child-rearing, <ER01>life</ER01>, etc.?
+4	区役所・支所には、あなたが困っていることや悩みを一緒に考え、解決するために様々な相談員がいます。	Ward offices and branch offices have a variety of counselors to help you think about and resolve your problems.
+5	どんな些細なことでも構いません。	It doesn't matter how trivial <ER01>it is</ER01>.
+6	まずは、相談員とお話してみませんか？	First of all, do you want to talk to <ER01>the</ER01> counselor?
+7	必要に応じて、他の相談窓口等と協力することもできます。	If necessary, we can also <ER01>cooperate</ER01> with other consultation desks.
+8	あなたのお困りごとや相談したいことを教えてください。	Please let us know what you are having trouble with and what you would like to discuss.
+9	この相談票は、同封の現況届とともに区役所・支所へ提出してください。	Please submit this consultation form to the ward office/branch office together with the enclosed current situation report.
+10	なお、相談票に書かれた内容は、児童扶養手当などの支給決定の資料としては使用しません。	<ER01>In addition</ER01>, the contents written in the consultation form will not be used as materials for determining the payment of child rearing allowance.
+11	秘密は厳守します。	<ER01>Strictly confidential.</ER01>
+12	次の中で困っていること、相談したいことはありますか？	<ER01>Do you have any problems</ER01> or would like to discuss any of the following?
+13	該当するすべての項目の（　　）内に、○をつけてください（複数回答可）。	Please put a circle in ( ) for all applicable items (multiple answers allowed).
+14	特にお困りごとがない方は、Ｑ４の「２ 希望しない」に○をつけてください。	If you do not have any particular problems, please circle <ER01>"2 Do not wish"</ER01> in Q4.
+15	仕事・収入に関すること	Things related to work and income
+16	仕事を探したい	<ER01>i</ER01> want to find a job
+17	仕事をしなければと思っているが、探す気力が起きない	I think I have to work, but I don't have the energy to look for it
+18	現在仕事をしているが、もっと良い条件で働きたい	I am currently working but would like to work under better conditions
+19	職場の人間関係に悩んでいる	<ER01>Concerned</ER01> about interpersonal relationships at work
+20	資格を取得したいと考えている	<ER01>would like to qualify</ER01>
+21	その他（具体的にお書きください）	Other (please specify)
+22	健康や生活に関すること	Things related to health and <ER01>life</ER01>
+23	体調がよくない	<ER01>Poor physical condition</ER01>
+24	精神的に不安定な時がある	<ER01>sometimes mentally unstable</ER01>
+25	家事等に手が回らない	I <ER01>can't afford to do</ER01> household chores
+26	家族関係で困っている	<ER01>have trouble with family</ER01>
+27	住居で困っている	I'm having trouble with my housing
+28	家計の見直しをしたい	I want to review my household budget
+29	養育費の取得に困っている	I'm having trouble getting child support
+30	借金の返済に困っている	<ER01>I am</ER01> having trouble repaying my debt
+31	言葉やコミュニケーションに困っている	<ER01>Difficulties</ER01> with language and communication
+32	その他（具体的にお書きください）	Other (please specify)
+33	子ども<ER01>に関すること</ER01>	Children
+34	子育てに不安がある	<ER01>Anxiety</ER01> about raising children
+35	子育てに負担を感じている	<ER01>Feeling</ER01> burdened by child rearing
+36	子どもに持病・障がいがあり不安に感じている	I feel uneasy because my child has a chronic disease or disability
+37	学校の勉強についていけない	I can't keep up with my studies at school
+38	学校に行きたがらない	<ER01>don't</ER01> want to go to school
+39	引きこもりがちである	<ER01>tend to withdraw</ER01>
+40	親子の会話があまりなく、子どもの気持ちがわからない	<ER01>There is not much parent-child conversation, and the child's feelings are not understood</ER01>
+41	子どもの将来に不安を感じている	I feel anxious about my child's future
+42	進学費用に困っている	I'm having trouble with the cost of <ER01>going</ER01> on to higher education
+43	その他（具体的にお書きください）	Other (please specify)
+44	区役所・支所では、あなたのお困りごとや悩みごとについて、解決に向けて一緒に何かできないか、と考えています。	At the ward office/branch office, we are thinking about what we can do together to solve your problems and worries.
+45	相談員との相談を希望されますか。	Would you like to consult with a counselor?
+46	希望する	<ER01>hope</ER01>
+47	２　希望しない（理由：　　　　　　　　　　　　　　　　　　　　）	2 No (Reason: )
+48	※既に他機関へ相談している方は相談先を教えてください。	*If you have already consulted with another organization, please tell us where <ER01>to consult</ER01>.
+49	（相談先：　　　　　　　　　　　　　　　　　　　　　　　　　　　　　）	(Contact: )
+50	≪連絡先を記入してください≫	≪Please enter your contact information≫
+51	ふ　　り　　が　　な	Furigana
+52	名　　　　前	<ER01>name</ER01>
+53	電 話 番 号	<ER01>telephone number</ER01>
+54	仕事のお昼休みなど電話に出やすい時間	Time when it is easy to answer the phone, such as <ER01>work lunch break</ER01>
+55	（平日　午前１０時～午後４時）	(Weekdays 10:00 am to 4:00 pm)
+56	月・火・水・木・金・いつでも可	Monday, Tuesday, Wednesday, Thursday, Friday, anytime
+57	：　　　～　　　：	: to :
+58	※お答えいただいた内容によっては、ご希望の有無にかかわらず、区役所・支所から連絡する場合がありますので、ご了承ください。	*Please note that the ward office or branch office may contact you depending on the content of your answers, regardless of whether or not you <ER01>wish to do so</ER01>.
+59	※ご相談の内容によって、児童扶養手当関係の情報等の閲覧や関係機関へ照会をさせていただくことがあります。	*Depending on the content of your inquiry, we may ask you to view information related to Child Rearing Allowance or <ER01>refer to</ER01> related organizations.
+60	区役所・支所<ER01>記入欄</ER01>	Ward Office/Branch Office
+61	※何も書かないでください	*Please do not write anything
+62	（証書番号：　　　　　　　　　　　　　）	(Certificate number: )

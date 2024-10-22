@@ -1,0 +1,220 @@
+{
+    "006.json": [
+        {
+            "src": "台風●号の接近による、●月●日の市バス・地下鉄の運転計画（●月●日●時●分公開）",
+            "mt": "Due to the approach of Typhoon No. ●, the operation plan of the city bus and subway on [Month] [Day] ([Month] [Day] [Day] [Day] [Day] [Day] [Day] [",
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 37,
+                    "end": 39,
+                    "text": "公開",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 102,
+                    "end": 147,
+                    "text": "[Month] [Day] [Day] [Day] [Day] [Day] [Day] [",
+                    "type": 15,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 10
+        },
+        {
+            "src": "台風●号の接近に伴い、以下のとおり市バス・地下鉄を運転します。",
+            "mt": "As Typhoon ● approaches, the city bus and subway will be operated as follows.",
+            "MQM_score": 0
+        },
+        {
+            "src": "●時●分ごろ（始発）より、全部運休します。",
+            "mt": "All trains will be suspended from around ●: ● (first train).",
+            "MQM_score": 0
+        },
+        {
+            "src": "●時●分ごろ（始発）より、以下の通り運転します。",
+            "mt": "From around ●: ● (the first train), trains will be operated as follows.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 21,
+                    "text": "the",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "他の路線、区間でも電車を減らして運転したり、遅れたり運休することがあります。",
+            "mt": "In other lines and sections, trains may be reduced, delayed or suspended.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "In",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "星ヶ丘(H18)から藤が丘(H22)間を運休し、高畑(H1)から星ヶ丘(H18)間で、電車を減らして運転します。",
+            "mt": "It will suspend operations between Hoshigaoka (H18) and Fujigaoka (H22) and operate fewer trains between Takabata (H1) and Hoshigaoka (H18).",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 26,
+                    "text": "It will suspend operations",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 76,
+                    "end": 96,
+                    "text": "operate fewer trains",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "運休します。",
+            "mt": "It will be suspended.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "It will be",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "上小田井(T01)から庄内緑地公園(T02)間を運休し、庄内緑地公園(T02)から赤池(T20)間で運転します。",
+            "mt": "It will suspend service between Kami Otai (T01) and Shonai Ryokuchi Koen (T02) and operate between Shonai Ryokuchi Koen (T02) and Akaike (T20).",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 23,
+                    "text": "It will suspend service",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "名鉄との直通運転を中止します。",
+            "mt": "The direct train service to Meitetsu will be stopped.",
+            "MQM_score": 0
+        },
+        {
+            "src": "本数を減らして運行します。",
+            "mt": "We operate with fewer trains.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "We",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "台風●号の接近による、市バス・地下鉄の運転について",
+            "mt": "Operation of City Bus and Subway due to the approach of Typhoon No. ●",
+            "MQM_score": 0
+        },
+        {
+            "src": "台風●号の接近に伴い、以下のとおり市バス・地下鉄を運転する場合があります。",
+            "mt": "As typhoon ● approaches, the city bus and subway may be operated as follows.",
+            "MQM_score": 0
+        },
+        {
+            "src": "遅れたり、運休することがあります。",
+            "mt": "It may be delayed or suspended.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "It",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "星ヶ丘(H18)から藤が丘(H22)間を運休する場合があります。",
+            "mt": "Service between Hoshigaoka (H18) and Fujigaoka (H22) may be suspended.",
+            "MQM_score": 0
+        },
+        {
+            "src": "上小田井(T01)から庄内緑地公園(T02)間を運休する場合があります。",
+            "mt": "Service may be suspended between Kami Otai (T01) and Shonai Ryokuchi Koen (T02).",
+            "MQM_score": 0
+        },
+        {
+            "src": "名鉄との直通運転を中止する場合があります。",
+            "mt": "Direct operation to Meitetsu Line may be suspended.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 16,
+                    "text": "operation",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "台風●号の接近による運転計画を出しています。",
+            "mt": "We are making an operation plan due to the approach of typhoon ●.",
+            "MQM_score": 0
+        },
+        {
+            "src": "△△分ぐらい遅れています。",
+            "mt": "It is about △ △ minutes late.",
+            "MQM_score": 0
+        },
+        {
+            "src": "運転再開は◇◇時頃を予定しています。",
+            "mt": "Operation is scheduled to resume around ◇ ◇ o'clock.",
+            "MQM_score": 0
+        },
+        {
+            "src": "払い戻しは駅で行っています。",
+            "mt": "You can get a refund at the station.",
+            "MQM_score": 0
+        },
+        {
+            "src": "地下鉄の替わりに市バス・名鉄・JRに乗ることができます。",
+            "mt": "You can take a city bus, Meitetsu or JR instead of the subway.",
+            "MQM_score": 0
+        },
+        {
+            "src": "詳しいことは駅で聞いてください。",
+            "mt": "Please ask for details at the station.",
+            "MQM_score": 0
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+1	今日は何がしたいですか。	<ER01>what</ER01> do you want to do <ER02>today</ER02>
+2	ビザの延長に必要な書類がほしい	I <ER01>need</ER01> the documents necessary to extend my visa
+3	家族を日本に呼ぶための手続きに必要な書類がほしい	I want the documents necessary for the procedure to bring my family to Japan
+4	税金を払いたい	<ER01>i</ER01> want to pay my taxes
+5	所得証明がほしい	I need proof of income
+6	税金の支払いについて相談したい	I want to consult about tax payment
+7	納税証明がほしい	I want <ER01>tax payment certificate</ER01>
+8	入国管理局に提出する場合は、所得証明と納税証明の両方が必要です。	When submitting to the Immigration Bureau, both <ER01>income proof</ER01> and <ER02>tax payment proof</ER02> are required.
+9	非課税の人は、非課税証明書が必要です。	Tax exempt persons need a tax exemption certificate.
+10	入国管理局からもらった書類をもっていますか。	Do you have the documents you received from the Immigration Bureau?
+11	だれの証明書が必要ですか。	Whose certificate do you need?
+12	この見本をみて、申請書を記入してください。	Please <ER01>see</ER01> this sample and fill out the application form.
+13	いま、日本語を話すことができる家族や友達と電話で話すことができますか。	Can you talk on the phone with <ER01>your family</ER01> <ER02>and</ER02> <ER03>friends</ER03> who can speak Japanese now?
+14	日本語がわかる人と一緒にもう一度この窓口へきてください。	Please come to this window again with someone who understands Japanese.
+15	今からテレビ電話をつなぎます。　	I will connect the <ER01>videophone</ER01> now.
+16	〇〇市税事務所（〇〇出張所）へ行く必要があります。	You need to go to the 〇〇 city tax office (〇〇 branch office).
+17	この人とはどんな関係ですか。	What is your relationship with this person?
+18	本人以外の人が窓口に来る場合は、委任状が必要です。	A <ER01>power of attorney</ER01> is required if someone other than the applicant visits the counter.
+19	何年度の証明書が必要ですか。	What year <ER01>do you need the certificate?</ER01>
+20	例：平成29年度所得証明は、平成28年中の所得を証明しています。	Example: <ER01>The</ER01> 2017 income certificate <ER02>proves</ER02> the income <ER03>in</ER03> 2016.
+21	一番新しい年度の証明書を発行していいですか。	May I issue a certificate for the <ER01>newest</ER01> fiscal year?
+22	何枚必要ですか。	How many do you need?
+23	身分証明書を見せてください。	Please show me your ID.
+24	身分証明書がないと手続きできません。	You cannot proceed without an ID.
+25	今年の1月1日はどこに住んでいましたか。	Where were you on January 1st of this year?
+26	あなたの証明書は、○○で取得してください。	Please get your certificate at ○○.
+27	今年の1月1日に日本以外のところに住んでいた場合、証明書は発行できません。	If you lived outside of Japan on January 1st of this year, the certificate cannot be issued.
+28	西暦○○年は仕事をしていましたか。	Were you working in the year <ER01>XX</ER01>?
+29	証明が必要な人の年収がわかるものはありますか。	Is there anything that shows the annual income of the person who needs proof?
+30	（源泉徴収票、給与明細書など）	(withholding slip, pay slip, etc.)
+31	他の書類はありますか。	Do you have other documents?
+32	この書類を記入してください。	Please complete this form.
+33	あなたの収入が書かれています。	Your income is <ER01>written</ER01>
+34	市民税・県民税は０円です。	<ER01>Municipal</ER01> tax and prefectural tax are 0 yen.
+35	あなたは税金を滞納しています。	<ER01>you</ER01> are in <ER02>arrears</ER02> <ER03>with</ER03> your taxes.
+36	払っていない税金をいま払えば、すぐに納税証明を発行できます。	If you pay the unpaid <ER01>tax</ER01> now, <ER02>you can</ER02> issue a tax payment certificate immediately.
+37	税金をすぐに払いますか。	Will you pay your taxes <ER01>soon</ER01>?
+38	銀行窓口で税金を払った後、領収書を持ってまたこの窓口に戻ってきてください。	After paying the <ER01>tax</ER01> at the bank counter, please come back to this counter with the receipt.
+39	庶務係で税金を払った後、領収書を持ってまたこの窓口に戻ってきてください。	After paying the <ER01>tax</ER01> at the General Affairs Section, please come back to this window with the receipt.
+40	○階○番窓口で税金を払った後、領収書を持ってまたこの窓口に戻ってきてください。	After paying the <ER01>tax</ER01> at the counter on floor ○, please come back to this counter with the receipt.
+41	領収書をみせてください。	Please show me the receipt.
+42	市民税・県民税が０円のため、納税証明は発行できません。	<ER01>Municipal</ER01> tax and prefectural tax are 0 yen, so we cannot issue a <ER02>tax payment certificate</ER02>.
+43	「未納額」が「納期未到来額」と同額の場合は、滞納とはなりません。	If the "unpaid amount" is the same as the <ER01>"unpaid amount"</ER01>, it will not be considered <ER02>delinquent</ER02>.
+44	あなたの市民税・県民税は、あなたの働いている会社が、あなたの給料から引いて名古屋市に払っています。	Your <ER01>municipal/prefectural</ER01> tax is deducted from your salary by the company you work for and paid to Nagoya City.
+45	この税金は払いました。	I paid this tax.
+46	手数料を払ってください。	Please pay the fee.
+47	手続きは終わりました。	The procedure is over.
+48	委任者	<ER01>delegator</ER01>
+49	住所	<ER01>address</ER01>
+50	氏名	<ER01>family name</ER01>
+51	電話番号	<ER01>telephone number</ER01>
+52	本人（証明がほしい人）の押印	Seal of <ER01>the person</ER01> (person who wants proof)
+53	本人（証明がほしい人）	<ER01>The person</ER01> (person who wants proof)
+54	住所・氏名・電話番号を書いてください。	Please write your address, name and phone number.
+55	委任事項	<ER01>mandate</ER01>
+56	必要な証明の名前と、（必要な）枚数を書いてください。	Write the name of the <ER01>proof</ER01> you need and the <ER02>number (required)</ER02>.
+57	代理人	<ER01>agent</ER01>
+58	窓口に来る人　	<ER01>person</ER01> coming to the window
+59	だれの証明が必要ですか。	Whose <ER01>certification</ER01> do you need?
+60	窓口に来た人　　　　	<ER01>person</ER01> at the window
+61	配偶者（妻または夫）	<ER01>spouse</ER01> (wife or husband)
+62	親	<ER01>parent</ER01>
+63	子	Child
+64	扶養申請	Support application
+65	年金申請	<ER01>pension</ER01> application
+66	公営住宅（収入申告）	Public housing (income declaration)
+67	融資（資金借入）	Financing (borrowing funds)
+68	児童手当受給	Receipt of child allowance
+69	入国管理局提出	<ER01>Submit</ER01> to the Immigration Bureau
+70	就学援助申請	Application for <ER01>school assistance</ER01>
+71	高等学校等就学支援金・私立高等学校授業料軽減申請	Application for high school tuition support and reduction of private high school tuition fees
+72	奨学金申請	Scholarship application
+73	特別支援教育就学奨励・<ER03>私立幼稚園就奨励申請</ER03>	<ER01>Special support education enrollment encouragement</ER01>/private kindergarten enrollment <ER02>encouragement</ER02> application
+74	特定医療費申請	Specific medical expenses application
+75	ビザの申請	Applying for a visa
+76	入札	<ER01>bid</ER01>
+77	官公署提出（入札以外）	Submission to public offices (other than bidding)
+78	保証人	<ER01>guarantor</ER01>
+79	酒類販売業の免許申請	Liquor sales license application
+80	あなたが扶養している家族の名前を書いてください。	Please write the names of the family members you support.
+81	続柄（関係）	<ER01>relationship</ER01> (<ER02>relationship</ER02>)
+82	生活状況を書いてください。	Please write down your living situation.
+83	だれかの扶養家族になっている。	<ER01>Being</ER01> someone's dependent.
+84	あなたを扶養している人	<ER01>the</ER01> person who supports you
+85	学生	<ER01>student</ER01>
+86	学校名	<ER01>school</ER01> name
+87	病気療養中	Under medical treatment
+88	失業中	<ER01>unemployed</ER01>
+89	だれの証明が必要か、名前を書いてください。	Please write the name of <ER01>whose</ER01> <ER02>certification</ER02> you need.
+90	証明が必要な人の住所を書いてください。	Please write the address of the person who needs <ER01>proof</ER01>.
+91	生年月日を書いてください。	Please write your date of birth.
+92	あなたの名前を書いてください。	Please write your name
+93	あなたの住所を書いてください。	Please write your address.
+94	あなたの電話番号を書いてください。	Please write down your phone number.
+95	大学等各種学校の授業料免除申請	Application for tuition fee exemption for various schools such as universities
+96	高額療養費支給・限度額適用認定申請	Application for <ER01>High-Cost Medical Care Expenses/Limit Application Certification</ER01>
+97	〇〇証明をお渡しします。	<ER01>I will give you</ER01> <ER02>a</ER02> <ER03>proof of 〇〇</ER03>.

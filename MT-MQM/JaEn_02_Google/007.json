@@ -1,0 +1,269 @@
+{
+    "007.json": [
+        {
+            "src": "その音だいじょうぶですか？",
+            "mt": "Is that sound okay?",
+            "MQM_score": 0
+        },
+        {
+            "src": "生活騒音って？",
+            "mt": "What is life noise?",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 12,
+                    "text": "life",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "生活騒音とは、「テレビの音」「ドアの開閉音」「ピアノの音」などの家庭生活に伴って発生する音のことです。",
+            "mt": "Household noise refers to sounds that occur in household life, such as the sound of the TV, the sound of doors opening and closing, and the sound of the piano.",
+            "MQM_score": 0
+        },
+        {
+            "src": "生活騒音は、日常生活に伴って発生する音なので、全く出さないというわけにはいきません。",
+            "mt": "Life noise is a sound that occurs in our daily life, so we can't say that we don't emit it at all.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "Life",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 33,
+                    "text": "a sound that occurs",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 65,
+                    "end": 97,
+                    "text": "say that we don't emit it at all",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "音は、人によって感じ方が違います。",
+            "mt": "Sound is perceived differently by different people.",
+            "MQM_score": 0
+        },
+        {
+            "src": "生活していく上で“避けられない音”や“自分にとって楽しい音”も、周りの人には、“うるさい音”“いやな音”として受け取られる場合があります。",
+            "mt": "\"Sounds that cannot be avoided\" or \"sounds that are pleasant to me\" may be perceived as \"noisy sounds\" or \"unpleasant sounds\" by those around me.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 67,
+                    "text": "\"sounds that are pleasant to me\"",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 88,
+                    "end": 102,
+                    "text": "\"noisy sounds\"",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 106,
+                    "end": 125,
+                    "text": "\"unpleasant sounds\"",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 142,
+                    "end": 144,
+                    "text": "me",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 4
+        },
+        {
+            "src": "日頃から自分が出す音に注意を払い、不必要な音を出さない配慮と、音を小さくする工夫をすることが大切です。",
+            "mt": "It is important to pay attention to the sounds you make on a daily basis, to avoid making unnecessary sounds, and to devise ways to reduce the sounds.",
+            "MQM_score": 0
+        },
+        {
+            "src": "日頃からあいさつするなど、となり近所との関係が良いと、生活騒音も比較的問題にならないこともあります。",
+            "mt": "If you have a good relationship with your neighbors, such as greeting them on a daily basis, noise from daily life may not be a problem.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 93,
+                    "end": 114,
+                    "text": "noise from daily life",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "周りに配慮した生活を♪",
+            "mt": "Live a life that is considerate of your surroundings",
+            "MQM_score": 0
+        },
+        {
+            "src": "音響機器などの音（ステレオ、テレビ、ピアノ等）",
+            "mt": "Sound from audio equipment (stereo, TV, piano, etc.)",
+            "MQM_score": 0
+        },
+        {
+            "src": "早朝・深夜は避けるなど、使用時間に注意しましょう。",
+            "mt": "Pay attention to the time of use, such as avoiding early morning and late night.",
+            "MQM_score": 0
+        },
+        {
+            "src": "窓を閉めたり、音量の調整、ヘッドホンの使用などで、音が外へ漏れないように気をつけましょう。",
+            "mt": "Close the windows, adjust the volume, use headphones, etc. to prevent the sound from leaking outside.",
+            "MQM_score": 0
+        },
+        {
+            "src": "音が外へ漏れないように、防音サッシなどを使用しましょう。",
+            "mt": "Use a soundproof sash to prevent sound from leaking out.",
+            "MQM_score": 0
+        },
+        {
+            "src": "家電製品・住宅用設備などの音（エアコン、掃除機等）",
+            "mt": "Sounds of home appliances and household equipment (air conditioners, vacuum cleaners, etc.)",
+            "MQM_score": 0
+        },
+        {
+            "src": "室外機などを設置する時は、なるべく隣家から離れた場所を選ぶようにし、必要なら、ブロック壁などで防音しましょう。",
+            "mt": "When installing an outdoor unit, try to choose a location that is as far away from neighbors as possible, and if necessary, soundproof it with a block wall.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 145,
+                    "end": 150,
+                    "text": "block",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "家電製品などを買う場合は、音が小さいものを選ぶようにしましょう。",
+            "mt": "When buying home appliances, try to choose ones that make less noise.",
+            "MQM_score": 0
+        },
+        {
+            "src": "早朝・深夜の使用はできるだけ避けましょう。",
+            "mt": "Avoid using it early in the morning or late at night.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 14,
+                    "text": "it",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "早朝・夜間の音（自動車やオートバイのアイドリング等）",
+            "mt": "Sounds in the early morning and at night (idling of cars and motorcycles, etc.)",
+            "MQM_score": 0
+        },
+        {
+            "src": "早朝・深夜の自動車やオートバイのアイドリングや空ぶかしは止めましょう。",
+            "mt": "Avoid idling or revving your car or motorcycle early in the morning or late at night.",
+            "MQM_score": 0
+        },
+        {
+            "src": "早朝・深夜に掃除や洗濯を行うのは避けましょう。",
+            "mt": "Avoid cleaning or doing laundry early in the morning or late at night.",
+            "MQM_score": 0
+        },
+        {
+            "src": "その他の音（ドアや窓の開け閉め音等）",
+            "mt": "Other sounds (sounds of opening and closing doors and windows, etc.)",
+            "MQM_score": 0
+        },
+        {
+            "src": "ドアや窓の開け閉めは、大きな音を出さないように気をつけましょう。",
+            "mt": "Be careful not to make a loud noise when opening and closing doors and windows.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 35,
+                    "text": "a loud noise",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "室内では静かに歩きましょう。",
+            "mt": "Walk quietly indoors.",
+            "MQM_score": 0
+        },
+        {
+            "src": "下の階には大きく響くものです。",
+            "mt": "It sounds great downstairs.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 15,
+                    "text": "It sounds great",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "発行元：名古屋市環境局地域環境対策部大気環境対策課",
+            "mt": "Publisher: Nagoya City Environment Bureau Regional Environmental Measures Department Air Quality Measures Division",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 114,
+                    "text": "Nagoya City Environment Bureau Regional Environmental Measures Department Air Quality Measures Division",
+                    "type": 15,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "電話：９７２－２６７４",
+            "mt": "Phone: 972-2674",
+            "MQM_score": 0
+        },
+        {
+            "src": "ＦＡＸ：９７２－４１５５",
+            "mt": "Fax: 972-4155",
+            "MQM_score": 0
+        }
+    ]
+}

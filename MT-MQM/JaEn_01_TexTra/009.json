@@ -1,0 +1,521 @@
+{
+    "009.json": [
+        {
+            "src": "２０２１年　月　日",
+            "mt": "(Month) (Day), 2021",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 19,
+                    "text": "(Month) (Day), 2021",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "○○○○市長  様",
+            "mt": "0 0 0 0 Your Excellency, Mayor.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "0 0 0 0",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 30,
+                    "text": "Mayor",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 10
+        },
+        {
+            "src": "※ロサンゼルス市、シドニー市、トリノ市、メキシコ市、ランス市、南京市",
+            "mt": "* Los Angeles City, Sydney City, Turin City, Mexico City, Lance City and Nanjing City",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 18,
+                    "text": "City",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 31,
+                    "text": "City",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 43,
+                    "text": "City",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 63,
+                    "text": "Lance",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 68,
+                    "text": "City",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 81,
+                    "end": 85,
+                    "text": "City",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 30
+        },
+        {
+            "src": "拝啓",
+            "mt": "Hello",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "Hello",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "名古屋市教育委員会主催の「姉妹友好都市児童生徒書画展」の開催にあたり、ご支援くださいます貴職をはじめ、関係各位に心より感謝の意を表します。",
+            "mt": "I would like to express my heartfelt gratitude to you and all those concerned for your support in holding the \"Sister Friendship City Children and Students Calligraphic Exhibition\" sponsored by the Nagoya City Board of Education.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 67,
+                    "text": "all those",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 105,
+                    "text": "in holding",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 111,
+                    "end": 179,
+                    "text": "Sister Friendship City Children and Students Calligraphic Exhibition",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 11
+        },
+        {
+            "src": "さて、昨年は、名古屋市博物館において２０２１年１１月１８日～２３日まで、「第４２回　姉妹友好都市児童生徒書画展」を開催し、大盛況の中で終えることができました。",
+            "mt": "Last year, we held the 42nd Sister City Children's Calligraphy and Painting Exhibition at Nagoya City Museum from November 18 to 23, 2021, and the exhibition was a great success.",
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 18,
+                    "end": 22,
+                    "text": "２０２１",
+                    "type": 16,
+                    "severity": "Neutral"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "Last year, we",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 18,
+                    "text": "held",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 22,
+                    "text": "the",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 86,
+                    "text": "Sister City Children's Calligraphy and Painting Exhibition",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 87,
+                    "end": 89,
+                    "text": "at",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 139,
+                    "end": 157,
+                    "text": "and the exhibition",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 10
+        },
+        {
+            "src": "そこで、大変遅くなりましたが、貴市に対し、名古屋市の子どもたちがこの展覧会に出品した作品と、本市の姉妹・友好都市から送付いただいた作品の中から選んだ作品を掲載しました絵葉書を記念品としてお送りいたしますので、お役立ていただければ幸いです。",
+            "mt": "So I am very late, but I would like to send you a postcard as a memento that shows the works that children in Nagoya city submitted to this exhibition and the works selected from the works sent from sister cities and friendship cities in this city. I hope you find it useful.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 17,
+                    "text": "So I am very late",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 43,
+                    "text": "would like to send",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 71,
+                    "text": "memento",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 72,
+                    "end": 76,
+                    "text": "that",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 117,
+                    "end": 121,
+                    "text": "city",
+                    "type": 8,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 151,
+                    "end": 154,
+                    "text": "and",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 155,
+                    "end": 158,
+                    "text": "the",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 179,
+                    "end": 188,
+                    "text": "the works",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 199,
+                    "end": 247,
+                    "text": "sister cities and friendship cities in this city",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 16.1
+        },
+        {
+            "src": "また、本年も姉妹・友好都市事業の一環として「第４３回　姉妹友好都市児童生徒書画展」を２０２１年１１月１７日～２１日に開催し、本市姉妹・友好都市である各都市から寄せられた作品の展示を企画しています。",
+            "mt": "This year, as part of the Sister and Friendship City Project, the 43rd Sister Friendship City Children and Students Calligraphy and Painting Exhibition will be held from November 17 to 21, 2021. We are planning to exhibit works received from each city that is a sister and friendship city of this city.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 60,
+                    "text": "Sister and Friendship City Project",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 71,
+                    "end": 151,
+                    "text": "Sister Friendship City Children and Students Calligraphy and Painting Exhibition",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 247,
+                    "end": 261,
+                    "text": "city that is a",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 262,
+                    "end": 288,
+                    "text": "sister and friendship city",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 289,
+                    "end": 301,
+                    "text": "of this city",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 9
+        },
+        {
+            "src": "コロナウイルスの感染拡大防止対策等、様々な課題の中でのお願いになり大変恐縮ですが、可能であれば、貴市の子どもたちの作品を２０２１年９月１日までにご送付いただきたく、ご手配の程お願い申し上げます。",
+            "mt": "Amidst various issues such as measures to prevent the spread of coronavirus infections, We are very sorry for the request, but if possible, we would like to ask you to send the works of children in your city by September 1, 2021, and we would like you to arrange it.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 14,
+                    "text": "Amidst various",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 88,
+                    "end": 122,
+                    "text": "We are very sorry for the request,",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 123,
+                    "end": 139,
+                    "text": "but if possible,",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 140,
+                    "end": 142,
+                    "text": "we",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 161,
+                    "end": 167,
+                    "text": "you to",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 168,
+                    "end": 172,
+                    "text": "send",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 203,
+                    "end": 207,
+                    "text": "city",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 228,
+                    "end": 265,
+                    "text": ", and we would like you to arrange it",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 8
+        },
+        {
+            "src": "私どもは、このように姉妹・友好都市である各都市から送っていただいた子どもたちの作品が、市民に広く鑑賞されますことは、両市間の相互理解を促進し、友好を深める目的にふさわしいものと考えております。",
+            "mt": "We believe that it is appropriate for the purpose of promoting mutual understanding and deepening friendship between the two cities that the works of children sent from sister cities and friendship cities are widely appreciated by citizens.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "We",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 117,
+                    "end": 120,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 159,
+                    "end": 163,
+                    "text": "sent",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 169,
+                    "end": 204,
+                    "text": "sister cities and friendship cities",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 205,
+                    "end": 208,
+                    "text": "are",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 231,
+                    "end": 239,
+                    "text": "citizens",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 6
+        },
+        {
+            "src": "今後ともご協力いただきますよう、よろしくお願いいたします。",
+            "mt": "We look forward to your continued cooperation.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "We",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "敬具",
+            "mt": "Sincerely yours",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 15,
+                    "text": "yours",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "名古屋市教育委員会",
+            "mt": "Nagoya City Board of Education",
+            "MQM_score": 0
+        },
+        {
+            "src": "教育長　　　　○　○　○　○",
+            "mt": "Superintendent of Education 0 0 0 0",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 14,
+                    "text": "Superintendent",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 35,
+                    "text": "0 0 0 0",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 10
+        },
+        {
+            "src": "※署名",
+            "mt": "* Signature",
+            "MQM_score": 0
+        }
+    ]
+}

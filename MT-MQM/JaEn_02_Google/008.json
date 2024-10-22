@@ -1,0 +1,1407 @@
+{
+    "008.json": [
+        {
+            "src": "保 護 者 様",
+            "mt": "Parent",
+            "MQM_score": 0
+        },
+        {
+            "src": "名古屋市教育委員会",
+            "mt": "Nagoya City Board of Education",
+            "MQM_score": 0
+        },
+        {
+            "src": "就学援助 継続手続きのお知らせ",
+            "mt": "Notice of school attendance support continuation procedure",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 58,
+                    "text": "Notice of school attendance support continuation procedure",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "（令和2年9月～令和3年8月分）",
+            "mt": "(For September 2020 to August 2021)",
+            "MQM_score": 0
+        },
+        {
+            "src": "現在就学援助を受給中の方の受給期間は、令和2年8月までです。",
+            "mt": "If you are currently receiving school attendance assistance, the period of receipt is until August 2020.",
+            "MQM_score": 0
+        },
+        {
+            "src": "令和2年9月～令和3年8月も引き続き援助を希望される場合は、別紙「就学援助継続申請書」をお子さんの通学先の学校へ提出してください。",
+            "mt": "If you would like to continue to receive assistance from September 2020 to August 2021, please submit the separate “Application for Continuation of School Attendance Assistance” to the school where your child attends school.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 178,
+                    "end": 223,
+                    "text": "to the school where your child attends school",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "提出期限",
+            "mt": "Submission Deadline",
+            "MQM_score": 0
+        },
+        {
+            "src": "6月10日（水）までに学校へ提出",
+            "mt": "Submit to school by Wednesday, June 10",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 16,
+                    "text": "to school",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "6月10日（水）までに提出できない方は、後日提出する旨を学校へご連絡ください。",
+            "mt": "If you cannot submit by June 10 (Wednesday), please notify the school that you will submit it at a later date.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 20,
+                    "text": "submit",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "継続認定が認められるのは、9月24日（木）までに学校へ不備のない書類を提出された方です。",
+            "mt": "Those who have submitted complete documents to the school by September 24th (Thursday) will be allowed to continue their studies.",
+            "MQM_score": 0
+        },
+        {
+            "src": "書類の提出遅れや不備がありますと9月1日に継続認定されません。",
+            "mt": "If there is a delay or incompleteness in the submission of documents, continuation certification will not be granted on September 1st.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 70,
+                    "end": 96,
+                    "text": "continuation certification",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "ご確認の上、提出してください。",
+            "mt": "Please check before submitting.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 31,
+                    "text": "Please check before submitting.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "【注意事項】",
+            "mt": "【Notes】",
+            "MQM_score": 0
+        },
+        {
+            "src": "援助を希望するお子さんが2人以上いる方は、それぞれ申請してください。",
+            "mt": "If you have two or more children who would like assistance, please apply for each.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 67,
+                    "end": 72,
+                    "text": "apply",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "認定は、今回申請される内容で行います。",
+            "mt": "The certification will be based on the contents of the application.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 54,
+                    "text": "contents of the",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "申請後、世帯状況が変わる（保護者変更、再婚、転居、祖父母と同居等）場合は、必ず、すみやかに学校へご連絡ください。",
+            "mt": "Please be sure to contact the school as soon as possible if there is a change in your household status after applying (change of guardian, remarriage, moving, living with grandparents, etc.).",
+            "MQM_score": 0
+        },
+        {
+            "src": "後日、提出された書類に修正や誤りがあることが判明し、認定要件を満たさなくなった場合は、認定を取り消すことがあります。",
+            "mt": "If, at a later date, it is discovered that the submitted documents contain corrections or errors and do not satisfy the certification requirements, the certification may be revoked.",
+            "MQM_score": 0
+        },
+        {
+            "src": "申請内容に疑義がある場合、職権で世帯状況や所得等の確認をさせていただく場合があります。",
+            "mt": "If there are any doubts about the contents of the application, we may confirm the household situation, income, etc. ex officio.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 61,
+                    "text": "contents of the application",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 66,
+                    "end": 126,
+                    "text": "may confirm the household situation, income, etc. ex officio",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "支給内容（令和2年4月時点での予定です）",
+            "mt": "Payment details (scheduled as of April 2020)",
+            "MQM_score": 0
+        },
+        {
+            "src": "令和2年9月～12月分",
+            "mt": "September to December 2020",
+            "MQM_score": 0
+        },
+        {
+            "src": "10月26日頃支給",
+            "mt": "Payment around October 26",
+            "MQM_score": 0
+        },
+        {
+            "src": "令和3年1月～3月分",
+            "mt": "January to March 2021",
+            "MQM_score": 0
+        },
+        {
+            "src": "1月25日頃支給",
+            "mt": "Payment around January 25",
+            "MQM_score": 0
+        },
+        {
+            "src": "令和3年4月～8月分",
+            "mt": "April to August 2021",
+            "MQM_score": 0
+        },
+        {
+            "src": "6月1日頃支給",
+            "mt": "Payment around June 1",
+            "MQM_score": 0
+        },
+        {
+            "src": "学用品費等",
+            "mt": "School supplies, etc.",
+            "MQM_score": 0
+        },
+        {
+            "src": "小学校1年",
+            "mt": "1st grade elementary school",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 27,
+                    "text": "elementary school",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "4,320円",
+            "mt": "4,320 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "3,240円",
+            "mt": "3,240 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "【新学年の欄をご覧ください】",
+            "mt": "[Please see the new school year column]",
+            "MQM_score": 0
+        },
+        {
+            "src": "小学校2～6年",
+            "mt": "2nd to 6th grade elementary school",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 34,
+                    "text": "elementary school",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "5,040円",
+            "mt": "5,040 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "3,780円",
+            "mt": "3,780 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "6,680円",
+            "mt": "6,680 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "中学校1年",
+            "mt": "Junior high school 1st year",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 27,
+                    "text": "Junior high school 1st year",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "8,200円",
+            "mt": "8,200 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "6,150円",
+            "mt": "6,150 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "10,690円",
+            "mt": "10,690 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "中学校2・3年",
+            "mt": "2nd and 3rd year junior high school",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 35,
+                    "text": "2nd and 3rd year junior high school",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "9,000円",
+            "mt": "9,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "6,750円",
+            "mt": "6,750 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "11,560円",
+            "mt": "11,560 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "入学準備金",
+            "mt": "Enrollment reserve",
+            "MQM_score": 0
+        },
+        {
+            "src": "小6",
+            "mt": "6th grade",
+            "MQM_score": 0
+        },
+        {
+            "src": "60,000円",
+            "mt": "60,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "2月25日頃支給",
+            "mt": "Paid around February 25",
+            "MQM_score": 0
+        },
+        {
+            "src": "卒業アルバム代等",
+            "mt": "Graduation album fee, etc.",
+            "MQM_score": 0
+        },
+        {
+            "src": "小6・中3",
+            "mt": "Elementary 6/Junior 3",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 21,
+                    "text": "Elementary 6/Junior 3",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "3/1時点で就学援助を受け、卒業アルバム等を購入する児童生徒に支給",
+            "mt": "Provided to students who receive school assistance as of March 1 and purchase graduation albums, etc.",
+            "MQM_score": 0
+        },
+        {
+            "src": "実費額",
+            "mt": "actual cost",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "actual",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "学校給食費",
+            "mt": "School lunch fee",
+            "MQM_score": 0
+        },
+        {
+            "src": "全学年",
+            "mt": "all grades",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "all",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "学校長から給食実施機関に支払い（保護者に直接支給はされません。）",
+            "mt": "Payment from the school principal to the organization that implements the school lunch (It will not be paid directly to the guardian.)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 134,
+                    "text": "implements the school lunch (It will not be paid directly to the guardian.)",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "中学校でスクールランチ実施校は、実際に飲食した金額を保護者に支給",
+            "mt": "School lunches at junior high schools pay parents the actual amount of food and drink",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 85,
+                    "text": "School lunches at junior high schools pay parents the actual amount of food and drink",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "4月分は6/1頃、3月分は3/31頃、その他の月は翌月25日頃支給",
+            "mt": "Payment for April is around 6/1, March is around 3/31, other months are paid around 25th of the following month.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 55,
+                    "end": 111,
+                    "text": "other months are paid around 25th of the following month",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "実費額",
+            "mt": "actual cost",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "actual",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "野外活動費",
+            "mt": "Outdoor activity fee",
+            "MQM_score": 0
+        },
+        {
+            "src": "小5・中2",
+            "mt": "5th grade, 2nd grade",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 20,
+                    "text": "5th grade, 2nd grade",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "実施時点で就学援助を受け、野外活動に参加した児童生徒に支給",
+            "mt": "Provided to children who received school assistance at the time of implementation and participated in outdoor activities",
+            "MQM_score": 0
+        },
+        {
+            "src": "支給は実施後（通常2～3ヵ月後になります。）",
+            "mt": "Payment will be made after implementation (usually 2-3 months later).",
+            "MQM_score": 0
+        },
+        {
+            "src": "実費額",
+            "mt": "actual cost",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "actual",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "修学旅行費",
+            "mt": "School trip expenses",
+            "MQM_score": 0
+        },
+        {
+            "src": "小6・中3",
+            "mt": "Elementary 6/Junior 3",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 21,
+                    "text": "Elementary 6/Junior 3",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "実施時点で就学援助を受け、修学旅行に参加した児童生徒に支給",
+            "mt": "Provided to children who received school assistance at the time of implementation and participated in school excursions",
+            "MQM_score": 0
+        },
+        {
+            "src": "支給は実施後（通常2～3ヵ月後になります。）",
+            "mt": "Payment will be made after implementation (usually 2-3 months later).",
+            "MQM_score": 0
+        },
+        {
+            "src": "実費額",
+            "mt": "actual cost",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "actual",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "通学交通費",
+            "mt": "School transportation fee",
+            "MQM_score": 0
+        },
+        {
+            "src": "特別な教育的配慮により、小学校4㎞以上・中学校6㎞以上の通学距離がある学校へ、公共交通機関を利用して通学する児童生徒に実費を支給（特別支援学級への通学については、通学距離を問いません。）",
+            "mt": "Due to special educational considerations, actual expenses will be paid to children and students who use public transportation to commute to schools with a commuting distance of 4km or more for elementary school or 6km or more for junior high school (commuting to special needs classes regardless of distance.)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 251,
+                    "end": 260,
+                    "text": "commuting",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "支給月は7月、10月、1月",
+            "mt": "Payment months are July, October, and January",
+            "MQM_score": 0
+        },
+        {
+            "src": "学校病医療費",
+            "mt": "Medical expenses for school illness",
+            "MQM_score": 0
+        },
+        {
+            "src": "学校の指示で治療した学校病の治療費を、学校長から医療機関に支払い（保護者に直接支給はされません。）",
+            "mt": "The school principal will pay medical expenses for school illnesses treated under the direction of the school (they will not be paid directly to parents).",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 29,
+                    "text": "pay",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "学校生活管理指導表文書費",
+            "mt": "School Life Management Guidance Table Document Fee",
+            "MQM_score": 0
+        },
+        {
+            "src": "全学年",
+            "mt": "all grades",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "all",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "食物アレルギー、心臓・腎臓関連の疾患に関して医師が作成する学校生活管理指導表の文書料を支給。",
+            "mt": "Document fees for school life management guidance charts prepared by doctors regarding food allergies and heart/kidney-related diseases are paid.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 145,
+                    "text": "Document fees for school life management guidance charts prepared by doctors regarding food allergies and heart/kidney-related diseases are paid.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "医療機関の領収書が必要",
+            "mt": "Receipt from medical institution required",
+            "MQM_score": 0
+        },
+        {
+            "src": "4、5月分は6/25頃、その他の月は翌月25日頃支給",
+            "mt": "April and May will be paid around June 25th, other months will be paid around the 25th of the following month",
+            "MQM_score": 0
+        },
+        {
+            "src": "実費額(限度額3,000円)",
+            "mt": "Actual cost (maximum amount 3,000 yen)",
+            "MQM_score": 0
+        },
+        {
+            "src": "※生活保護受給世帯は、修学旅行費、学校病医療費のみ就学援助の支給費目です。",
+            "mt": "* For households receiving public assistance, only school excursion expenses and medical expenses for school illnesses are subsidized items for tuition assistance.",
+            "MQM_score": 0
+        },
+        {
+            "src": "他の費目は生活保護の対象であり、社会福祉事務所（区役所民生子ども課）から支給されます。",
+            "mt": "Other expenses are covered by public assistance and are provided by the Social Welfare Office (Ward Office Public Welfare and Child Affairs Division).",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 148,
+                    "text": "Ward Office Public Welfare and Child Affairs Division",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "※学校病とは、トラコーマ、結膜炎、中耳炎、慢性副鼻腔炎、むし歯、アデノイド、寄生虫病、特定の皮膚病です。",
+            "mt": "*School diseases include trachoma, conjunctivitis, otitis media, chronic sinusitis, tooth decay, adenoids, parasitic diseases, and certain skin diseases.",
+            "MQM_score": 0
+        },
+        {
+            "src": "治療の際には、必ず「治療明細書」等を事前に学校から受け取り、医療機関へお持ちください。",
+            "mt": "Before undergoing treatment, be sure to receive a \"treatment statement\" from the school in advance and bring it to the medical institution.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 103,
+                    "end": 138,
+                    "text": "bring it to the medical institution",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "なお、子ども医療証、ひとり親家庭医療証がある場合は、そちらを優先します。",
+            "mt": "In addition, if you have a child medical certificate or a single-parent family medical certificate, that will be given priority.",
+            "MQM_score": 0
+        },
+        {
+            "src": "※支給時期は若干ずれることがあります。",
+            "mt": "*Payment timing may vary slightly.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 1,
+                    "end": 33,
+                    "text": "Payment timing may vary slightly",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "就学援助の対象となる方と必要となる書類について",
+            "mt": "About those who are eligible for school attendance assistance and the required documents",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 88,
+                    "text": "About those who are eligible for school attendance assistance and the required documents",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "就学援助継続申請書の｢同意｣欄に記名・押印された場合、継続認定にあたり必要な情報を教育委員会で確認しますので、添付書類（児童扶養手当証書・市民税県民税証明書など）は必要ありません。",
+            "mt": "If you have signed your name and affixed your seal in the \"Consent\" column of the Application for Continuation of School Assistance, the Board of Education will confirm the necessary information for continuation approval. is not required.",
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 52,
+                    "end": 81,
+                    "text": "ので、添付書類（児童扶養手当証書・市民税県民税証明書など）",
+                    "type": 5,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "ただし、令和2年1月2日以降に名古屋市に転入された場合や所得の申告をされていない場合など、教育委員会で確認した結果、必要な情報が得られない場合は、別途、必要書類を提出していただきます。",
+            "mt": "However, if the necessary information cannot be obtained as a result of checking with the board of education, such as when you have moved to Nagoya City after January 2, 2020, or when you have not reported your income, please contact us separately. Submit the required documents.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 90,
+                    "end": 279,
+                    "text": "board of education, such as when you have moved to Nagoya City after January 2, 2020, or when you have not reported your income, please contact us separately. Submit the required documents.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "単身赴任などにより、世帯に含まれるが、住所が異なる方がいる場合は、教育委員会が、必要な情報を取得することができないため、必要書類を提出していただきます。",
+            "mt": "If there is a person in your household who lives on a different address due to a job away from home, etc., the Board of Education will not be able to obtain the necessary information, so we will ask you to submit the necessary documents.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 71,
+                    "text": "on a different address",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "また、「同意欄」に記名・押印されない場合は、以下の区分ごとに必要書類を添付してください。",
+            "mt": "In addition, if you do not sign your name and affix your seal in the \"Consent\" column, please attach the required documents for each of the following categories.",
+            "MQM_score": 0
+        },
+        {
+            "src": "申請項目",
+            "mt": "Application item",
+            "MQM_score": 0
+        },
+        {
+            "src": "添付書類（「同意欄」に記名・押印しない場合など）",
+            "mt": "Attached documents (for example, if you do not sign your name or seal in the “Consent column”)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 93,
+                    "text": "or seal in the “Consent column”",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "証明書の発行場所",
+            "mt": "Place of certificate issuance",
+            "MQM_score": 0
+        },
+        {
+            "src": "1",
+            "mt": "1",
+            "MQM_score": 0
+        },
+        {
+            "src": "生活保護法に規定する要保護者",
+            "mt": "Persons requiring protection as stipulated in the Public Assistance Law",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 71,
+                    "text": "Persons requiring protection as stipulated in the Public Assistance Law",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "不要",
+            "mt": "unnecessary",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "unnecessary",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "2",
+            "mt": "2",
+            "MQM_score": 0
+        },
+        {
+            "src": "令和元年4月2日以降生活保護が停止または廃止された方",
+            "mt": "Those whose public assistance has been suspended or abolished since April 2, 2019",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 67,
+                    "text": "since",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "不要（原則）",
+            "mt": "Not required (principle)",
+            "MQM_score": 0
+        },
+        {
+            "src": "※世帯変更を理由として廃止された場合(再婚等)は該当しません。",
+            "mt": "*This does not apply if the application was abolished due to a change in household (remarriage, etc.).",
+            "MQM_score": 0
+        },
+        {
+            "src": "3",
+            "mt": "3",
+            "MQM_score": 0
+        },
+        {
+            "src": "児童扶養手当が支給された方",
+            "mt": "Those who received Child Rearing Allowance",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 42,
+                    "text": "Child Rearing Allowance",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "児童扶養手当証書",
+            "mt": "Child Rearing Allowance Certificate",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "Child Rearing",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "※社会福祉事務所長の押印がされたページのコピーが必要です。",
+            "mt": "*A copy of the page stamped by the head of the social welfare office is required.",
+            "MQM_score": 0
+        },
+        {
+            "src": "※受給期間が【令和元年11月以降】であることが必要です。",
+            "mt": "* It is necessary that the receipt period is [November 2019 or later].",
+            "MQM_score": 0
+        },
+        {
+            "src": "※児童手当、ひとり親家庭手当、愛知県遺児手当、特別児童扶養手当は該当しません。",
+            "mt": "* Child Allowance, Single Parent Family Allowance, Aichi Prefecture Orphan Allowance, and Special Child Rearing Allowance are not applicable.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 90,
+                    "end": 111,
+                    "text": "Special Child Rearing",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "区役所民生子ども課",
+            "mt": "Ward Office Public Welfare and Children Division",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 48,
+                    "text": "Ward Office Public Welfare and Children Division",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "支所区民福祉課",
+            "mt": "Branch Resident Welfare Division",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 32,
+                    "text": "Branch Resident Welfare Division",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "(社会福祉事務所)",
+            "mt": "(Social Welfare Office)",
+            "MQM_score": 0
+        },
+        {
+            "src": "4",
+            "mt": "Four",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "Four",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "経済的にお困りの方",
+            "mt": "Those with financial difficulties",
+            "MQM_score": 0
+        },
+        {
+            "src": "市民税県民税証明書【令和2年度(令和元年分所得)】（コピー可）",
+            "mt": "Municipal tax prefectural tax certificate [2nd year of Reiwa (income for 2019)] (copy acceptable)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 97,
+                    "text": "Municipal tax prefectural tax certificate [2nd year of Reiwa (income for 2019)] (copy acceptable)",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "※世帯全員分必要です(所得税法上扶養されている方、高校生以下の方は除く）",
+            "mt": "*Necessary for all households (excluding those who are dependents under the Income Tax Law and those who are high school students or younger)",
+            "MQM_score": 0
+        },
+        {
+            "src": "市税事務所・出張所、区役所・支所の税務窓口",
+            "mt": "Municipal tax office/branch office, ward office/branch tax office",
+            "MQM_score": 0
+        },
+        {
+            "src": "この項目で申請できるのは、世帯全員の令和元年の所得の合計額が下の所得基準額以下の場合です。",
+            "mt": "You can apply for this item if the total income of all households in 2019 is less than the income standard amount below.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 120,
+                    "text": "of all households in 2019 is less than the income standard amount below.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "世帯の人数",
+            "mt": "household size",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 14,
+                    "text": "household size",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "2人世帯",
+            "mt": "two person household",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "two person",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "3人世帯",
+            "mt": "3 person household",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "3 person",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "4人世帯",
+            "mt": "4 person household",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "4 person",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "5人世帯",
+            "mt": "5 person household",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "5 person",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "6人世帯",
+            "mt": "6 person household",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "6 person",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "所得基準額",
+            "mt": "Income standard amount",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 22,
+                    "text": "Income standard amount",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "246万9千円",
+            "mt": "2,469,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "276万9千円",
+            "mt": "2,769,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "314万6千円",
+            "mt": "3,146,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "372万6千円",
+            "mt": "3,726,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "409万7千円",
+            "mt": "4,097,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "（収入目安）",
+            "mt": "(Estimated income)",
+            "MQM_score": 0
+        },
+        {
+            "src": "(376万円)",
+            "mt": "(3.76 million yen)",
+            "MQM_score": 0
+        },
+        {
+            "src": "(414万円)",
+            "mt": "(4.14 million yen)",
+            "MQM_score": 0
+        },
+        {
+            "src": "(460万円)",
+            "mt": "(4.6 million yen)",
+            "MQM_score": 0
+        },
+        {
+            "src": "(533万円)",
+            "mt": "(5.33 million yen)",
+            "MQM_score": 0
+        },
+        {
+            "src": "(579万円)",
+            "mt": "(5.79 million yen)",
+            "MQM_score": 0
+        },
+        {
+            "src": "7人世帯以上は6人世帯の所得基準額に１人増すごとに48万9千円を加えた額。",
+            "mt": "For households with 7 or more people, 489,000 yen is added to the standard income for households with 6 people for each additional person.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 138,
+                    "text": "489,000 yen is added to the standard income for households with 6 people for each additional person.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "上段の所得基準額が認定基準です。",
+            "mt": "The income standard amount in the upper row is the certification standard.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 43,
+                    "text": "The income standard amount in the upper row",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "下段（　）の額は給与所得者の収入額の目安です。",
+            "mt": "The amount in the bottom ( ) is a guideline for the income of salaried workers.",
+            "MQM_score": 0
+        },
+        {
+            "src": "生計を維持している方の傷病や失業(解雇、倒産)などやむを得ない事情で収入が激減した場合やコロナウイルス感染症の影響を受け収入が激減した場合は、所得が基準額を超過しても配慮する場合があります。",
+            "mt": "If your income has drastically decreased due to unavoidable circumstances such as injury or illness of those who maintain your livelihood, unemployment (dismissal, bankruptcy), etc., or if your income has drastically decreased due to the impact of the coronavirus infection, your income exceeds the standard amount. may also be considered.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 275,
+                    "end": 339,
+                    "text": "your income exceeds the standard amount. may also be considered.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "学校へご相談ください。",
+            "mt": "Please consult your school.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 14,
+                    "text": "consult",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "(定年・自己都合退職は該当しません)",
+            "mt": "(Retirement age and voluntary retirement are not applicable)",
+            "MQM_score": 0
+        },
+        {
+            "src": "注1　就学援助での「世帯」とは、同じ家に住んでいる方すべてをいいます。",
+            "mt": "Note 1: A “household” for tuition assistance refers to all people living in the same house.",
+            "MQM_score": 0
+        },
+        {
+            "src": "祖父母等で生計や住民票を別にしていても、同じ家に住んでいる方は同一世帯とみなします。",
+            "mt": "Grandparents, etc. who live in the same house are considered to be in the same household, even if they have different livelihoods and residence records.",
+            "MQM_score": 0
+        },
+        {
+            "src": "単身赴任などにより、同じ家には住んでいないが、その世帯の生計を維持している方も同一世帯に含みます｡",
+            "mt": "The same household includes those who do not live in the same house due to work away from home, etc., but maintain the livelihood of the household.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 147,
+                    "text": "The same household includes those who do not live in the same house due to work away from home, etc., but maintain the livelihood of the household.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "同一世帯の方全員を申請書の世帯状況欄に記入してください。",
+            "mt": "Please list all members of the same household in the household status column of the application form.",
+            "MQM_score": 0
+        },
+        {
+            "src": "注2　世帯全員が、同じ項目に該当していることが必要です（申請項目３を除きます）。",
+            "mt": "Note 2: All members of the household must apply to the same item (except application item 3).",
+            "MQM_score": 0
+        },
+        {
+            "src": "その他",
+            "mt": "others",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "others",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "令和3年4月～8月の認定・支給については、令和3年度予算の成立を前提にしています。",
+            "mt": "Approval and payment from April to August 2021 are based on the assumption that the FY2021 budget will be passed.",
+            "MQM_score": 0
+        },
+        {
+            "src": "状況によっては、この案内のとおり認定・支給されないことがありますのでご留意ください。",
+            "mt": "Please note that depending on the situation, it may not be authorized or paid as described in this guide.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 58,
+                    "text": "it may not be",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "今年度中学校を卒業されるお子さんの援助の期間は、令和3年3月までです。",
+            "mt": "The period of support for children graduating from junior high school this year is until March 2021.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 21,
+                    "text": "period of support",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "学校徴収金のうち就学援助の対象となっているものについて未納が生じた場合、口座振替の申し込みがされていても、学校に支払う場合があります。",
+            "mt": "If there is a non-payment of the school fees that are covered by the school attendance assistance, the school may pay the fees even if an application for bank transfer has been made.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 182,
+                    "text": "If there is a non-payment of the school fees that are covered by the school attendance assistance, the school may pay the fees even if an application for bank transfer has been made.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "同意に基づき、教育委員会が就学援助受給資格の審査のために必要な情報（住民基本台帳情報・生活保護情報・児童扶養手当情報・所得情報）を閲覧・確認した結果、申請内容に疑義がある場合、事情を確認する場合があります。",
+            "mt": "Based on the consent, the Board of Education inspected and confirmed the information (basic resident register information, public assistance information, child rearing allowance information, income information) necessary for the examination of eligibility for attendance at school assistance, and as a result, there were doubts about the application contents. In some cases, we may check the circumstances.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 406,
+                    "text": "Based on the consent, the Board of Education inspected and confirmed the information (basic resident register information, public assistance information, child rearing allowance information, income information) necessary for the examination of eligibility for attendance at school assistance, and as a result, there were doubts about the application contents. In some cases, we may check the circumstances.",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "＊ご不明な点は、名古屋市教育委員会学事課（ＴＥＬ９７２－３２１７　ＦＡＸ９７２－４１７５）または通学先の学校へお問い合わせください。",
+            "mt": "*If you have any questions, please contact the Academic Affairs Division of the Nagoya City Board of Education (TEL 972-3217 FAX 972-4175) or the school you attend.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 142,
+                    "end": 163,
+                    "text": "the school you attend",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        }
+    ]
+}

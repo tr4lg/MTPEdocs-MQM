@@ -1,0 +1,1779 @@
+{
+    "014.json": [
+        {
+            "src": "児童扶養手当制度について（ご案内）",
+            "mt": "Child Rearing Allowance System (Information)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "Child Rearing",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "児童扶養手当は、手当を受ける方（以下「受給者」といいます。）と手当の対象となる児童（以下「対象児童」といいます。）が、受給資格を満たしていることを条件に認定されています。",
+            "mt": "Child Rearing Allowance is provided on the condition that the person receiving the allowance (hereinafter referred to as \"recipient\") and the child eligible for the allowance (hereinafter referred to as \"eligible child\") meet the recipient qualifications. Certified.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 23,
+                    "text": "Child Rearing Allowance",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 230,
+                    "end": 254,
+                    "text": "recipient qualifications",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 256,
+                    "end": 266,
+                    "text": "Certified.",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2.1
+        },
+        {
+            "src": "認定された方には、下表の金額（月額）が、年６回（５月１１日、７月１０日、９月１１日、１１月１１日、１月８日、３月１１日）振り込まれます。",
+            "mt": "For those who are certified, the amount (monthly amount) in the table below will be paid six times a year (May 11th, July 10th, September 11th, November 11th, January 8th, March 11th) will be transferred.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 27,
+                    "text": "are certified",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 84,
+                    "end": 88,
+                    "text": "paid",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 184,
+                    "end": 203,
+                    "text": "will be transferred",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "対象児童",
+            "mt": "Target children",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 15,
+                    "text": "Target children",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "１人目",
+            "mt": "1st person",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 10,
+                    "text": "person",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "２人目",
+            "mt": "second person",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "second person",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "３人目以降",
+            "mt": "3rd person onwards",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 10,
+                    "text": "person",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "全部支給",
+            "mt": "paid in full",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "paid in full",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "43,160円",
+            "mt": "43,160 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "10,190円",
+            "mt": "10,190 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "6,110円",
+            "mt": "6,110 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "一部支給",
+            "mt": "partial payment",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 15,
+                    "text": "partial payment",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "43,150円 ～10,180円",
+            "mt": "43,150 yen ～10,180 yen",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 12,
+                    "text": "～",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "10,180円 ～5,100円",
+            "mt": "10,180 yen to 5,100 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "6,100円 ～3,060円",
+            "mt": "6,100 yen to 3,060 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "※金額は令和２年４月１日現在のものです。",
+            "mt": "*The amount is as of April 1, 2020.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 14,
+                    "text": "is",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "必要な届出について",
+            "mt": "About required notifications",
+            "MQM_score": 0
+        },
+        {
+            "src": "以下の状況になった場合は、区役所民生子ども課民生子ども係（支所管内にお住まいの方は支所区民福祉課保護・子ども係）で手続きをしてください。",
+            "mt": "If any of the following situations apply, please go to the Public Welfare and Child Affairs Section of the Ward Office.",
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 29,
+                    "end": 55,
+                    "text": "支所管内にお住まいの方は支所区民福祉課保護・子ども係",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 54,
+                    "text": "go to",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 77,
+                    "text": "Public Welfare and",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 103,
+                    "end": 118,
+                    "text": "the Ward Office",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 12
+        },
+        {
+            "src": "必要な手続きが遅れ、手当が過払いとなった場合は、すでに支給された手当を返還していただくことになりますので、ご注意ください。",
+            "mt": "Please note that if the necessary procedures are delayed and the allowance is overpaid, you will be asked to return the allowance that has already been paid.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 86,
+                    "text": "the necessary procedures are delayed and the allowance is overpaid",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "受給資格を満たさなくなったとき",
+            "mt": "When you no longer meet the eligibility",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 39,
+                    "text": "When you no longer meet the eligibility",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "受給者",
+            "mt": "beneficiary",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "beneficiary",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "婚姻＊した《父または母の場合》",
+            "mt": "Married* <<in the case of a father or mother>>",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 27,
+                    "text": "a",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "＊事実上の婚姻関係（内縁関係）、異性との同居を含みます。",
+            "mt": "* Includes de facto marital relationship (common-law relationship) and cohabitation with the opposite sex.",
+            "MQM_score": 0
+        },
+        {
+            "src": "公的年金を受けることができるようになった",
+            "mt": "Became eligible for public pension",
+            "MQM_score": 0
+        },
+        {
+            "src": "（平成26年12月以降公的年金の額によっては、児童扶養手当を受給できる場合があります）",
+            "mt": "(After December 2014, depending on the amount of public pension, you may be able to receive Child Rearing Allowance.)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 69,
+                    "end": 72,
+                    "text": "may",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 92,
+                    "end": 115,
+                    "text": "Child Rearing Allowance",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "対象児童を監護（養育）しなくなった（面倒をみなくなった）",
+            "mt": "No longer custody (raise) the target child (no longer takes care of it)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 25,
+                    "text": "custody (raise)",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 36,
+                    "text": "target",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 70,
+                    "text": "no longer takes care of it",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "対象児童と生計同一でなくなった《父の場合のみ》",
+            "mt": "(For fathers only) who no longer live in the same household as the target child",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 79,
+                    "text": "(For fathers only) who no longer live in the same household as the target child",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "対象児童の父または母の死亡により支給される遺族補償を受けることができるようになった",
+            "mt": "It became possible to receive bereaved family compensation paid due to the death of the target child's father or mother",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 18,
+                    "text": "It became possible",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 63,
+                    "text": "paid",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 88,
+                    "end": 94,
+                    "text": "target",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "日本国内に住所を有しなくなった",
+            "mt": "No longer have an address in Japan",
+            "MQM_score": 0
+        },
+        {
+            "src": "手当を受給する理由がなくなった",
+            "mt": "I no longer have a reason to receive benefits",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "I no",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "父または母が対象児童を遺棄する状態でなくなった",
+            "mt": "The father or mother no longer abandons the subject child",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "The father",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 39,
+                    "text": "abandons",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 51,
+                    "text": "subject",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "父または母の拘禁が終了した",
+            "mt": "the father or mother's detention ended",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "the father",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 38,
+                    "text": "ended",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "など",
+            "mt": "Such",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "Such",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "対象児童",
+            "mt": "Target children",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 15,
+                    "text": "Target children",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "児童福祉施設や少年院等に入所した",
+            "mt": "Entered a child welfare facility, juvenile training school, etc.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 51,
+                    "text": "training",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "里親に委託された",
+            "mt": "placed in foster care",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "placed",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "父または母の死亡により支給される公的年金を受けることができるようになった",
+            "mt": "Became eligible to receive a public pension paid upon the death of the father or mother",
+            "MQM_score": 0
+        },
+        {
+            "src": "父または母に支給される公的年金の額の加算対象となった",
+            "mt": "Eligible for the addition of the amount of the public pension paid to the father or mother",
+            "MQM_score": 0
+        },
+        {
+            "src": "（平成26年12月以降公的年金の額によっては、児童扶養手当を受給できる場合があります）",
+            "mt": "(After December 2014, depending on the amount of public pension, you may be able to receive Child Rearing Allowance.)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 1,
+                    "end": 116,
+                    "text": "After December 2014, depending on the amount of public pension, you may be able to receive Child Rearing Allowance.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "父または母の死亡により支給される遺族補償を受けることができるようになった",
+            "mt": "You can now receive bereaved family compensation paid for the death of your father or mother",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 19,
+                    "text": "You can now receive",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 53,
+                    "text": "paid",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 71,
+                    "end": 75,
+                    "text": "your",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "１８歳に達した日の属する年度（３月３１日）が終了した",
+            "mt": "The fiscal year (March 31st) that belongs to the day you turned 18 has ended.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 77,
+                    "text": "The fiscal year (March 31st) that belongs to the day you turned 18 has ended.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "障害の状態であることにより対象期間を延長している場合で、２０歳に達した、または障害認定の状態でなくなった",
+            "mt": "If the eligible period has been extended due to the state of disability, reaching the age of 20 or no longer recognized as a disability",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 135,
+                    "text": "If the eligible period has been extended due to the state of disability, reaching the age of 20 or no longer recognized as a disability",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "婚姻した",
+            "mt": "got married",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "got",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "日本国内に住所を有しなくなった",
+            "mt": "No longer have an address in Japan",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 14,
+                    "text": "have",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "受給資格喪失届または額改定届または公的年金給付等受給状況届",
+            "mt": "Notification of Loss of Recipient Qualification, Notification of Amount Revision, or Notification of Receipt Status of Public Pension Benefits, etc.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 47,
+                    "text": "Recipient Qualification",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 72,
+                    "end": 80,
+                    "text": "Revision",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 109,
+                    "end": 148,
+                    "text": "Status of Public Pension Benefits, etc.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "手当の受給資格の継続を確認するとき（毎年８月）",
+            "mt": "When confirming the continuation of the eligibility for the allowance (every August)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 39,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "現況届",
+            "mt": "status report",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "status report",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "手当を受給してから５年を経過したとき、及びその後の毎年８月",
+            "mt": "When five years have passed since receiving the allowance, and every August thereafter",
+            "MQM_score": 0
+        },
+        {
+            "src": "離婚等の支給要件に該当してから７年を経過したとき、及びその後の毎年８月",
+            "mt": "When 7 years have passed since meeting the payment requirements for divorce, etc., and every August thereafter",
+            "MQM_score": 0
+        },
+        {
+            "src": "一部支給停止適用除外事由届出書",
+            "mt": "Partial payment suspension application exemption notification form",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 66,
+                    "text": "Partial payment suspension application exemption notification form",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "状況等に変更があったとき（氏名、住所、世帯構成、公的年金の額の変更など）",
+            "mt": "When there is a change in circumstances (name, address, household composition, change in amount of public pension, etc.)",
+            "MQM_score": 0
+        },
+        {
+            "src": "変更届・公的年金給付等受給状況届",
+            "mt": "Notification of Change/Notification of Receipt Status of Public Pension Benefits, etc.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 86,
+                    "text": "Receipt Status of Public Pension Benefits, etc.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "《注意》平成２６年１２月１日以降、年金が受けられる場合であっても、年金額によっては児童扶養手当を受給することができる場合があります。",
+            "mt": "《Note》After December 1, 2014, even if you are eligible for a pension, you may be able to receive child-rearing allowance depending on your pension amount.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 131,
+                    "end": 153,
+                    "text": "on your pension amount",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "（★ 裏面もご覧ください）",
+            "mt": "(See also the back side)",
+            "MQM_score": 0
+        },
+        {
+            "src": "受け取った通知書について",
+            "mt": "About the received notice",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 25,
+                    "text": "About the received notice",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "あなたが受け取った通知書の内容は、次のとおりです。",
+            "mt": "The contents of the notification you received are as follows.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 12,
+                    "text": "contents",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 46,
+                    "end": 60,
+                    "text": "are as follows",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "認定通知書",
+            "mt": "Certification notification",
+            "MQM_score": 0
+        },
+        {
+            "src": "あなたからの請求を審査した結果、手当の受給資格の認定をしたこと",
+            "mt": "As a result of reviewing your request, we have determined that you are eligible to receive benefits.",
+            "MQM_score": 0
+        },
+        {
+            "src": "資格喪失通知書",
+            "mt": "Notice of disqualification",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 26,
+                    "text": "disqualification",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "あなたが手当の受給資格を満たさなくなったこと",
+            "mt": "you are no longer eligible to receive benefits",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 46,
+                    "text": "you are no longer eligible to receive benefits",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "額改定通知書（減額）",
+            "mt": "Amount revision notification (reduction)",
+            "MQM_score": 0
+        },
+        {
+            "src": "あなたが監護（養育）する対象児童が減少したため、手当が減額されたこと",
+            "mt": "The allowance has been reduced due to the decrease in the number of eligible children under your custody (raising)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 114,
+                    "text": "The allowance has been reduced due to the decrease in the number of eligible children under your custody (raising)",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "額改定通知書（増額）",
+            "mt": "Amount revision notification (increase)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 28,
+                    "text": "Amount revision notification",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "あなたが監護（養育）する対象児童が増加したため、手当が増額されたこと",
+            "mt": "Increased benefits due to an increase in the number of eligible children under your custody (raising)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 101,
+                    "text": "Increased benefits due to an increase in the number of eligible children under your custody (raising)",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "差止通知書",
+            "mt": "injunction notice",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 17,
+                    "text": "injunction notice",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "差止事由（現況届が提出されていない等）が発生したため、手当の支払いを一時差し止めたこと",
+            "mt": "Temporary suspension of allowance payments due to grounds for suspension (notification of current status, etc.)",
+            "MQM_score": 0
+        },
+        {
+            "src": "差止解除通知書",
+            "mt": "Injunction Lifting Notice",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 25,
+                    "text": "Injunction Lifting Notice",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "差止事由が解消されたため、手当の支払差止めを解除したこと",
+            "mt": "The suspension of payment of allowances has been lifted because the grounds for suspension have been resolved.",
+            "MQM_score": 0
+        },
+        {
+            "src": "支給停止通知書",
+            "mt": "Notification of suspension of payment",
+            "MQM_score": 0
+        },
+        {
+            "src": "あなたや、あなたと同居または生計を同じくする扶養義務者等の前年の所得が限度額以上であったため、手当の全部または一部の支給を停止したこと",
+            "mt": "The payment of all or part of the allowance has been suspended because the income of the previous year of you or a dependent who lives with you or has the same livelihood as you was above the maximum amount.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 207,
+                    "text": "The payment of all or part of the allowance has been suspended because the income of the previous year of you or a dependent who lives with you or has the same livelihood as you was above the maximum amount.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "支給停止解除通知書",
+            "mt": "Payment Suspension Cancellation Notice",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 38,
+                    "text": "Payment Suspension Cancellation Notice",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "世帯構成の変更や所得更正等があったため、手当の支給停止を解除したこと",
+            "mt": "Cancellation of allowance payment suspension due to changes in household composition, income correction, etc.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 109,
+                    "text": "Cancellation of allowance payment suspension due to changes in household composition, income correction, etc.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "審査結果のお知らせ",
+            "mt": "Notification of screening results",
+            "MQM_score": 0
+        },
+        {
+            "src": "あなたの１１月から翌年１０月までの手当の支給について決定したこと",
+            "mt": "Decisions made about your allowance payments from November to October of the following year",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 73,
+                    "end": 91,
+                    "text": "the following year",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "所得制限について",
+            "mt": "About income limit",
+            "MQM_score": 0
+        },
+        {
+            "src": "受給者本人または扶養義務者等の前年（１月から９月の請求においては前々年）の所得（※受給者が対象児童の母の場合は、対象児童の父から、受給者が対象児童の父の場合は、対象児童の母から、受給者または対象児童が受け取った養育費の８割を所得に加算します。）から、適用される控除額を控除した額が、扶養親族数別に定められた限度額以上である場合は、支給停止の対象となります。",
+            "mt": "The previous year's income (the year before last for applications from January to September) of the recipient or the person responsible for supporting the child (*If the recipient is the mother of the target child, the recipient's father will In the case of , 80% of the child support received by the recipient or the eligible child will be added to the income from the mother of the eligible child. If the amount exceeds the limit, payment will be suspended.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 459,
+                    "text": "The previous year's income (the year before last for applications from January to September) of the recipient or the person responsible for supporting the child (*If the recipient is the mother of the target child, the recipient's father will In the case of , 80% of the child support received by the recipient or the eligible child will be added to the income from the mother of the eligible child. If the amount exceeds the limit, payment will be suspended.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "区　　　分",
+            "mt": "Category",
+            "MQM_score": 0
+        },
+        {
+            "src": "受給者本人",
+            "mt": "Recipient himself/herself",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 25,
+                    "text": "Recipient himself/herself",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "全部支給",
+            "mt": "paid in full",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "paid in full",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "一部支給",
+            "mt": "partial payment",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 15,
+                    "text": "partial payment",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "孤児等の養育者",
+            "mt": "Caregivers of orphans, etc.",
+            "MQM_score": 0
+        },
+        {
+            "src": "配偶者",
+            "mt": "spouse",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "spouse",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "扶養義務者",
+            "mt": "support obligor",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 15,
+                    "text": "support obligor",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "限度額",
+            "mt": "Credit limit",
+            "MQM_score": 0
+        },
+        {
+            "src": "扶養親族数",
+            "mt": "Number of dependent relatives",
+            "MQM_score": 0
+        },
+        {
+            "src": "０人",
+            "mt": "0 people",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "0 people",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "１人",
+            "mt": "1 person",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "1 person",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "２人",
+            "mt": "two people",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "two people",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "３人",
+            "mt": "3 people",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "3 people",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "１人増すごとの加算",
+            "mt": "Addition for each additional person",
+            "MQM_score": 0
+        },
+        {
+            "src": "老人扶養による加算",
+            "mt": "Addition by elderly support",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 27,
+                    "text": "by elderly support",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "特定扶養等による加算",
+            "mt": "Addition for specific dependents, etc.",
+            "MQM_score": 0
+        },
+        {
+            "src": "49万円未満",
+            "mt": "Less than 490,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "87万円未満",
+            "mt": "Less than 870,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "125万円未満",
+            "mt": "Less than 1.25 million yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "163万円未満",
+            "mt": "Less than 1.63 million yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "38万円",
+            "mt": "380,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "10万円",
+            "mt": "100,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "15万円",
+            "mt": "150,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "192万円未満",
+            "mt": "Less than 1.92 million yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "230万円未満",
+            "mt": "Less than 2.3 million yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "268万円未満",
+            "mt": "Less than 2.68 million yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "306万円未満",
+            "mt": "Less than 3.06 million yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "38万円",
+            "mt": "380,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "10万円",
+            "mt": "100,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "15万円",
+            "mt": "150,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "236万円未満",
+            "mt": "Less than 2.36 million yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "274万円未満",
+            "mt": "Less than 2.74 million yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "312万円未満",
+            "mt": "Less than 3.12 million yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "350万円未満",
+            "mt": "Less than 3.5 million yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "38万円",
+            "mt": "380,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "6万円",
+            "mt": "60,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "控除額",
+            "mt": "deduction amount",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 16,
+                    "text": "deduction amount",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "定額控除（すべての方に適用されます）",
+            "mt": "Fixed amount deduction (applies to everyone)",
+            "MQM_score": 0
+        },
+        {
+            "src": "特別障害者控除",
+            "mt": "Special deduction for persons with disabilities",
+            "MQM_score": 0
+        },
+        {
+            "src": "特別寡婦控除＊１",
+            "mt": "Special widow deduction*1",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 23,
+                    "text": "widow deduction",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "障害者・寡婦＊１・寡夫＊２・勤労学生控除",
+            "mt": "Persons with disabilities, widows*1, widowers*2, working student deductions",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 75,
+                    "text": "Persons with disabilities, widows*1, widowers*2, working student deductions",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "配偶者特別控除",
+            "mt": "Special exemption for spouse",
+            "MQM_score": 0
+        },
+        {
+            "src": "雑損・医療費・小規模企業共済等掛金控除",
+            "mt": "Accidental damage, medical expenses, small business mutual aid, etc. premium deduction",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 86,
+                    "text": "Accidental damage, medical expenses, small business mutual aid, etc. premium deduction",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "長期譲渡所得・短期譲渡所得に係る特別控除",
+            "mt": "Special deduction for long-term and short-term capital gains",
+            "MQM_score": 0
+        },
+        {
+            "src": "8万円",
+            "mt": "80,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "40万円",
+            "mt": "400,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "35万円",
+            "mt": "350,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "27万円",
+            "mt": "270,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "控除額",
+            "mt": "deduction amount",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 16,
+                    "text": "deduction amount",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "控除額",
+            "mt": "deduction amount",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 16,
+                    "text": "deduction amount",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "控除額",
+            "mt": "deduction amount",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 16,
+                    "text": "deduction amount",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "8万円",
+            "mt": "80,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "40万円",
+            "mt": "400,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "35万円",
+            "mt": "350,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "27万円",
+            "mt": "270,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "控除額",
+            "mt": "deduction amount",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 16,
+                    "text": "deduction amount",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "控除額",
+            "mt": "deduction amount",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 16,
+                    "text": "deduction amount",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "控除額",
+            "mt": "deduction amount",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 16,
+                    "text": "deduction amount",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "8万円",
+            "mt": "80,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "40万円",
+            "mt": "400,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "35万円",
+            "mt": "350,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "27万円",
+            "mt": "270,000 yen",
+            "MQM_score": 0
+        },
+        {
+            "src": "控除額",
+            "mt": "deduction amount",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 16,
+                    "text": "deduction amount",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "控除額",
+            "mt": "deduction amount",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 16,
+                    "text": "deduction amount",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "控除額",
+            "mt": "deduction amount",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 16,
+                    "text": "deduction amount",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "寡婦・寡夫控除が適用されないひとり親について、寡婦・寡夫控除をみなし適用します(養育者及び扶養義務者に限る)。",
+            "mt": "Widow/widower deductions are applied for single parents who are not eligible for widow/widow deductions (limited to caregivers and persons obliged to support them).",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 131,
+                    "end": 162,
+                    "text": "persons obliged to support them",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "＊１ 受給者が母の場合は、特別寡婦控除及び寡婦控除は適用されません。",
+            "mt": "*1 If the recipient is a mother, the special widow deduction and widow deduction are not applied.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 24,
+                    "text": "a",
+                    "type": 10,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "＊２ 受給者が父の場合は、寡夫控除は適用されません。",
+            "mt": "*2 If the recipient is the father, the widower deduction is not applied.",
+            "MQM_score": 0
+        },
+        {
+            "src": "〈例〉年間所得200万円、受給者が受け取った養育費40万円、対象児童が受け取った養育費10万円、児童3人、税法上の扶養親族3人で、扶養義務者等がいない場合",
+            "mt": "<Example> Annual income of 2 million yen, child support received by the recipient of 400,000 yen, child support received by the target child of 100,000 yen, 3 children, 3 dependent relatives under the tax law, and no supporters, etc. case",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 238,
+                    "text": "<Example> Annual income of 2 million yen, child support received by the recipient of 400,000 yen, child support received by the target child of 100,000 yen, 3 children, 3 dependent relatives under the tax law, and no supporters, etc. case",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "全部支給は163万円未満、一部支給は306万円未満、306万円以上は全額支給停止となります。",
+            "mt": "Full payment is less than 1.63 million yen, partial payment is less than 3.06 million yen, and full payment is suspended for 3.06 million yen or more.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 150,
+                    "text": "Full payment is less than 1.63 million yen, partial payment is less than 3.06 million yen, and full payment is suspended for 3.06 million yen or more.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "所得は養育費の８割を加算しますので、200万円＋(40万円＋10万円)×0.8＝240万円となります。",
+            "mt": "80% of child support will be added to income, so 2 million yen + (400,000 yen + 100,000 yen) x 0.8 = 2.4 million yen.",
+            "MQM_score": 0
+        },
+        {
+            "src": "ここから控除額を引くと、240万円－8万円(定額控除)＝232万円となり、「一部支給」に該当します。",
+            "mt": "If you subtract the deduction amount from this, it will be 2.4 million yen - 80,000 yen (fixed amount deduction) = 2.32 million yen, which corresponds to \"partial payment\".",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 154,
+                    "end": 171,
+                    "text": "\"partial payment\"",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "手当月額は、1人目は43,150円－(232万円(所得)－163万円)×0.0230559＝27,240円",
+            "mt": "The monthly allowance for the first person is 43,150 yen - (2,320,000 yen (income) - 1,630,000 yen) x 0.0230559 = 27,240 yen",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 42,
+                    "text": "first person",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "2人目は10,180円－(232万円(所得)－163万円) ×0.0035524＝7,730円",
+            "mt": "The second person is 10,180 yen - (2,320,000 yen (income) - 1,630,000 yen) x 0.0035524 = 7,730 yen",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 20,
+                    "text": "The second person is",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "3人目は6,100円－(232万円(所得)－163万円) ×0.0021259＝4,630円",
+            "mt": "The third person is 6,100 yen - (2,320,000 yen (income) - 1,630,000 yen) x 0.0021259 = 4,630 yen",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 19,
+                    "text": "The third person is",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "合計39,600円となります。",
+            "mt": "The total is 39,600 yen.",
+            "MQM_score": 0
+        },
+        {
+            "src": "この用紙は、古紙パルプを含む再生紙を使用しています。",
+            "mt": "This paper uses recycled paper containing waste paper pulp.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 58,
+                    "text": "This paper uses recycled paper containing waste paper pulp",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        }
+    ]
+}

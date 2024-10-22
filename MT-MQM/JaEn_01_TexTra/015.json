@@ -1,0 +1,942 @@
+{
+    "016.json": [
+        {
+            "src": "大切なお知らせ",
+            "mt": "Important News",
+            "MQM_score": 0
+        },
+        {
+            "src": "名古屋市",
+            "mt": "Nagoya-shi",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "Nagoya-shi",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "子育て世帯生活支援特別給付金のご案内",
+            "mt": "Guide to the Child-Rearing Household Life Support Special Benefits",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 66,
+                    "text": "Child-Rearing Household Life Support Special Benefits",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "子育て世帯の支援のため､新たな給付金の支給を実施します!",
+            "mt": "We will provide new benefits to support families with small children!",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 28,
+                    "text": "We will provide new benefits",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "支給対象者",
+            "mt": "Recipients",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "Recipients",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "①②の両方に当てはまる方(※ひとり親世帯分の給付金を受け取った方を除く)",
+            "mt": "Those who fall under both (1) and (2) (* Excluding those who received benefits equivalent to Single-Parent Households)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 61,
+                    "end": 69,
+                    "text": "received",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 79,
+                    "end": 92,
+                    "text": "equivalent to",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 93,
+                    "end": 117,
+                    "text": "Single-Parent Households",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "令和３年３月３１日時点で18歳未満の児童(障害児の場合､20歳未満)を養育する父母等(※令和４年２月末までに生まれた新生児等も対象になります。)",
+            "mt": "Parents, etc. raising a child under 18 years old as of March 31, 2021 (in the case of a disabled child, under 20 years old) (* Newborns, etc. born by the end of February 2022 are also eligible.)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "Parents, etc.",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 135,
+                    "end": 141,
+                    "text": ", etc.",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "令和３年度住民税（均等割）が非課税の方",
+            "mt": "Those who are exempt from inhabitant tax (per capita basis) in fiscal 2021",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 36,
+                    "text": "inhabitant",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 74,
+                    "text": "in fiscal 2021",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "または",
+            "mt": "Or",
+            "MQM_score": 0
+        },
+        {
+            "src": "令和３年１月１日以降の収入が急変し、住民税非課税相当の収入となった方",
+            "mt": "Those whose income has suddenly changed since January 1, 2021 and has become equivalent to income exempt from resident tax.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 123,
+                    "text": "and has become equivalent to income exempt from resident tax.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "支給額",
+            "mt": "Payment",
+            "MQM_score": 0
+        },
+        {
+            "src": "児童1人当たり 一律５万円",
+            "mt": "Uniform 50000 yen per child",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "Uniform",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "支給にあたっては､申請が不要な場合と必要な場合があります。",
+            "mt": "In some cases, you don't need to apply for the payment, and in other cases, you need to apply.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 24,
+                    "text": "don't",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 59,
+                    "text": "and",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 74,
+                    "end": 93,
+                    "text": ", you need to apply",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "必ず裏面の支給手続きをご確認ください。",
+            "mt": "Please make sure to check the payment procedure on the back.",
+            "MQM_score": 0
+        },
+        {
+            "src": "同一児童について重複受給が判明した場合、返金していただく必要があります。",
+            "mt": "If it is found that the same child received the payment twice, you need to get a refund.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 61,
+                    "text": "the same child received the payment twice",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 67,
+                    "end": 87,
+                    "text": "need to get a refund",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "＊詳しい申請方法や申請書の送付を希望する方は、下記までお電話ください。",
+            "mt": "* If you would like to know more about how to apply or if you would like to have the application form sent to you, please call:",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 122,
+                    "end": 127,
+                    "text": "call:",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "申請書提出先・お問い合わせ先",
+            "mt": "Application Submission and Contact Information",
+            "MQM_score": 0
+        },
+        {
+            "src": "名古屋市役所｢子育て世帯生活支援特別給付金(ひとり親世帯以外分)｣担当(コールセンター)",
+            "mt": "Nagoya City Hall, in charge of \"Child-rearing Household Life Support Special Benefits (for non-Child Single-Parent Households)\" (Call Center)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 127,
+                    "text": "Nagoya City Hall, in charge of \"Child-rearing Household Life Support Special Benefits (for non-Child Single-Parent Households)\"",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "〒461－8799　名古屋東郵便局留（名古屋市東区代官町35-16 第一富士ビル6階）",
+            "mt": "Nagoya Higashi Post Office, 461-8799 (Dai-Fuji Building, 6 f, 35-16 Daikancho, Higashi-ku, Nagoya-shi)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 60,
+                    "text": "Dai-Fuji Building, 6 f",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "電話　052-979-2415",
+            "mt": "Phone: 052 979 2415",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 19,
+                    "text": "052 979 2415",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "FAX　052-933-1118",
+            "mt": "FAX 052-933-1118",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "FAX",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "受付時間:9:00～17:30",
+            "mt": "Hours: 9:00 - 17:30",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 19,
+                    "text": "9:00 - 17:30",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "7月1日～9月30日は土日祝含む毎日開設します",
+            "mt": "Open every day from July 1 to September 30, including weekends and public holidays.",
+            "MQM_score": 0
+        },
+        {
+            "src": "給付金の支給手続き",
+            "mt": "Procedures for payment of benefits",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "Procedures",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "令和３年４月分の児童手当または特別児童扶養手当の受給者で住民税非課税の方",
+            "mt": "Recipients of Child Allowance or Special Child Rearing Allowance for April 2021 who are exempt from resident tax",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 54,
+                    "text": "Child Rearing",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 100,
+                    "end": 108,
+                    "text": "resident",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "給付金は､申請不要で受け取れます。",
+            "mt": "You can receive the benefit without applying.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 19,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "給付金のご案内を発送後、7月中旬（19日頃）に児童手当または特別児童扶養手当を支給している口座に振り込む予定です。",
+            "mt": "After we send out the information about the benefit, we will transfer it to the bank account that pays child allowance or special child support allowance in the middle of July (around 19th).",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 21,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 40,
+                    "end": 43,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 60,
+                    "text": "we will",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 70,
+                    "end": 72,
+                    "text": "it",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 93,
+                    "end": 102,
+                    "text": "that pays",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 154,
+                    "end": 189,
+                    "text": "in the middle of July (around 19th)",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 6
+        },
+        {
+            "src": "なお、令和3年1月1日時点で名古屋市外の市区町村にお住まいの方は７月下旬（29日頃）に振り込む予定です。",
+            "mt": "As of January 1, 2021, those who live in municipalities outside Nagoya are scheduled to make the transfer in late July (around July 29).",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 70,
+                    "text": "Nagoya",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 88,
+                    "end": 105,
+                    "text": "make the transfer",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 10
+        },
+        {
+            "src": "令和3年4月2日から令和4年2月28日生まれの児童を養育する方など新たに児童手当を受給される方で住民税非課税の方",
+            "mt": "Those who are taking care of a child born between April 2, 2021 and February 28, 2022, who are newly receiving child allowance and are exempt from resident tax",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 28,
+                    "text": "taking care of",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 111,
+                    "end": 126,
+                    "text": "child allowance",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 127,
+                    "end": 134,
+                    "text": "and are",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 147,
+                    "end": 155,
+                    "text": "resident",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 4
+        },
+        {
+            "src": "給付金は､申請不要で受け取れます。",
+            "mt": "You can receive the benefit without applying.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 19,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "給付金のご案内を発送後、7月下旬以降に、順次、児童手当を支給している口座に振り込む予定です。",
+            "mt": "After sending the information of the benefit, we will transfer it to the bank account which pays the child allowance after the end of July.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 17,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 36,
+                    "text": "of the",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 46,
+                    "end": 53,
+                    "text": "we will",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 65,
+                    "text": "it",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 86,
+                    "end": 100,
+                    "text": "which pays the",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 117,
+                    "end": 138,
+                    "text": "after the end of July",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 6
+        },
+        {
+            "src": "上記以外の方（例.高校生のみ養育している方、収入が急変した方）",
+            "mt": "People other than the above (for example, those raising only high school students, those whose income has changed suddenly)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 41,
+                    "text": "for example,",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "給付金を受け取るには､申請が必要です。",
+            "mt": "You need to apply to receive the benefit.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 11,
+                    "text": "need to",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 32,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "（申請期限：令和４年２月２８日消印有効）",
+            "mt": "(Application deadline: Postmarked on February 28, 2022)",
+            "MQM_score": 0
+        },
+        {
+            "src": "申請書等に必要事項を記入していただき､必要書類とともに表面に記載の申請書提出先まで郵送でご提出ください。",
+            "mt": "Please fill out the required information on the application form and submit it along with the required documents to the address indicated on the front page.",
+            "MQM_score": 0
+        },
+        {
+            "src": "給付金の支給要件に該当する方に対して､申請内容を確認して指定口座に振り込みます。",
+            "mt": "For those who meet the requirements for the payment of benefits, we will confirm the contents of the application and transfer to the designated account.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "For those who",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 63,
+                    "text": "for the payment of benefits",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 85,
+                    "end": 93,
+                    "text": "contents",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 97,
+                    "end": 100,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 117,
+                    "end": 125,
+                    "text": "transfer",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "申請書等の送付を希望される方は、表面に記載のお問い合わせ先までお申し出ください。",
+            "mt": "If you would like to receive an application form, please contact the contact information listed on the front page.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 65,
+                    "end": 88,
+                    "text": "the contact information",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "（名古屋市公式ウェブサイトからダウンロードすることもできます）",
+            "mt": "(You can also download it from the Nagoya city official website.)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 25,
+                    "text": "it",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 63,
+                    "text": "Nagoya city official website",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "給付金対象の方",
+            "mt": "Eligible for benefits",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 21,
+                    "text": "for benefits",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "給付金の申請手続き",
+            "mt": "Application procedures for benefits",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 22,
+                    "text": "procedures",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 35,
+                    "text": "benefits",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "申請書類等を「子育て世帯生活支援特別給付金（ひとり親世帯以外分）」担当あて郵送でご提出ください。",
+            "mt": "Please submit the application documents by mail to the person in charge of the \"Child-rearing Household Life Support Special Benefits (for non-Child-rearing Single-Parent Households)\".",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 55,
+                    "end": 78,
+                    "text": "person in charge of the",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 182,
+                    "text": "Child-rearing Household Life Support Special Benefits (for non-Child-rearing Single-Parent Households)",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 6
+        },
+        {
+            "src": "指定口座へ振込み",
+            "mt": "Transfer to a designated account",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "Transfer",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 13,
+                    "text": "a",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "提出された申請書類により、給付金の支給要件に該当するかを確認したうえで、振り込みます。",
+            "mt": "Based on the submitted application documents, we will confirm if you meet the requirements for the payment of the benefit, and then we will transfer the money.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 46,
+                    "end": 64,
+                    "text": "we will confirm if",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 113,
+                    "text": "the payment of the",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 123,
+                    "end": 158,
+                    "text": "and then we will transfer the money",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "名古屋市",
+            "mt": "Nagoya-shi",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "Nagoya-shi",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "「子育て世帯生活支援特別給付金｣の“振り込め詐欺”や“個人情報の詐取”にご注意ください。",
+            "mt": "Please be careful of \"bank transfer fraud\" and \"personal data theft\" of \"Child-rearing Family Life Support Special Benefits\".",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 17,
+                    "text": "be careful",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 68,
+                    "text": "\"bank transfer fraud\" and \"personal data theft\"",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 69,
+                    "end": 71,
+                    "text": "of",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 73,
+                    "end": 123,
+                    "text": "Child-rearing Family Life Support Special Benefits",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 7.1
+        },
+        {
+            "src": "ご自宅や職場などに都道府県・市区町村や厚生労働省（の職員）などをかたった不審な電話や郵便があった場合は、お住まいの市区町村や最寄りの警察署、または警察相談専用電話(#9110)にご連絡ください。",
+            "mt": "If there is a suspicious phone call or mail from your home or workplace to a prefecture, municipality, or the Ministry of Health, Labor and Welfare (employees), please contact the nearest police station or Police Consultation Dedicated Telephone Line (#9110).",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 11,
+                    "text": "there is",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 43,
+                    "text": "mail",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 48,
+                    "text": "from",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 72,
+                    "end": 102,
+                    "text": "to a prefecture, municipality,",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 149,
+                    "end": 158,
+                    "text": "employees",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 206,
+                    "end": 250,
+                    "text": "Police Consultation Dedicated Telephone Line",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 10
+        }
+    ]
+}

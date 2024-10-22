@@ -1,0 +1,426 @@
+{
+    "004.json": [
+        {
+            "src": "たばこのごみを投げ捨てると火事になります。",
+            "mt": "Throwing cigarette waste will cause a fire.",
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 9,
+                    "end": 12,
+                    "text": "捨てる",
+                    "type": 5,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "名古屋市中消防署",
+            "mt": "Nagoya City Fire Station",
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 4,
+                    "end": 5,
+                    "text": "中",
+                    "type": 5,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "火事原因の第一位はたばこです。",
+            "mt": "The number one cause of fire is cigarettes.",
+            "MQM_score": 0
+        },
+        {
+            "src": "たばこのごみをごみ箱以外の場所に捨てることは禁止です。",
+            "mt": "It is prohibited to throw away the cigarette waste in places other than the trash can.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 34,
+                    "text": "the",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 72,
+                    "end": 75,
+                    "text": "the",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "たばこ火事の原因の多くがたばこのごみをごみ箱以外の場所に捨てることによるものです。",
+            "mt": "Most of the causes of cigarette fires are due to throwing cigarette waste away in places other than the trash can.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 48,
+                    "text": "of the causes of cigarette fires are due to",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "対策",
+            "mt": "Countermeasure",
+            "MQM_score": 0
+        },
+        {
+            "src": "歩きながらや車の中から、たばこのごみをごみ箱以外の場所に捨てません。",
+            "mt": "Don't throw cigarette waste anywhere other than the trash can while walking or from inside the car.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 11,
+                    "text": "throw",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "決められた場所でたばこを吸います。",
+            "mt": "I smoke at the designated place.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 1,
+                    "text": "I",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 31,
+                    "text": "at the designated place",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 6
+        },
+        {
+            "src": "携帯灰皿をうまく使います。",
+            "mt": "I use portable ashtray well.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 1,
+                    "text": "I",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 22,
+                    "text": "portable ashtray",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 6
+        },
+        {
+            "src": "マンションやアパートのバルコニーでたばこを吸う人が増えて火事が起こっています。",
+            "mt": "The number of people who smoke on the balconies of condominiums and apartments has increased and a fire is occurring.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 97,
+                    "end": 106,
+                    "text": "a fire is",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "また、マンションやアパートのバルコニーや階段から火のついたたばこが投げ捨てられ、地上に置いてあった段ボールなどに当たり火事が起こっています。",
+            "mt": "In addition, lit cigarettes were thrown away from balconies and stairs of condominiums and apartments, hitting cardboard boxes on the ground and causing fires.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 32,
+                    "text": "were",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "たばこのごみの処理方法は正しく実施してください。",
+            "mt": "Please dispose of your cigarette waste properly.",
+            "MQM_score": 0
+        },
+        {
+            "src": "たばこのごみを捨てた灰皿から出火することがあります。",
+            "mt": "There is a case that a fire breaks out from an ashtray which you threw away cigarette waste.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 20,
+                    "text": "There is a case that",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 55,
+                    "end": 60,
+                    "text": "which",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "不燃性の灰皿を置きます。",
+            "mt": "Place a non-combustible ashtray.",
+            "MQM_score": 0
+        },
+        {
+            "src": "灰皿はいつも水をいれます。",
+            "mt": "Ashtrays always contain water.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 30,
+                    "text": "Ashtrays always contain water.",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "灰皿はたばこのごみをためずにときどき処理します。",
+            "mt": "Ashtrays are sometimes disposed of without storing cigarette waste.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 67,
+                    "text": "Ashtrays are sometimes disposed of without storing cigarette waste.",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "たばこのごみは、水をかけるなど確かに消火してから捨てます。",
+            "mt": "You throw away cigarette waste after you put out the fire by pouring water on it.",
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 15,
+                    "end": 18,
+                    "text": "確かに",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "You",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 40,
+                    "text": "you",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 44,
+                    "text": "put",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 4
+        },
+        {
+            "src": "寝る前や外出する前に、たばこの火が確かに消えているか確認します。",
+            "mt": "Before I go to bed or go out, I will check if the fire of cigarettes is turned off for sure.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 8,
+                    "text": "I",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 28,
+                    "text": "go to bed or go out",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 36,
+                    "text": "I will",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 45,
+                    "text": "if",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 57,
+                    "text": "fire of",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 69,
+                    "end": 82,
+                    "text": "is turned off",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 6
+        },
+        {
+            "src": "名古屋市中消防署予防課",
+            "mt": "Nagoya City Fire Department, Prevention Division",
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 4,
+                    "end": 5,
+                    "text": "中",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 27,
+                    "text": "Department",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "名古屋市中消防署予防課に気軽に電話してください。",
+            "mt": "Please feel free to call the Prevention Division of Nagoya City Fire Department.",
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 4,
+                    "end": 5,
+                    "text": "中",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 69,
+                    "end": 79,
+                    "text": "Department",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "中消防署ホームページでは防火や防災に役立つ情報を知らせています。",
+            "mt": "The Naka Fire Station website provides useful information for fire prevention and disaster prevention.",
+            "MQM_score": 0
+        },
+        {
+            "src": "たばこのごみをごみ箱以外の場所に捨て、火事が起こった場合は警察に捕まります。",
+            "mt": "If you throw your cigarette waste away somewhere other than the trash can and a fire breaks out, you will be caught by the police.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 109,
+                    "end": 115,
+                    "text": "caught",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "小さな火事でも日本の法律で罰せられることがあります。",
+            "mt": "Even a small fire can be punished by Japanese law.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 36,
+                    "text": "by",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "たばこのごみをごみ箱以外の場所に捨てることは犯罪です。",
+            "mt": "It is a crime to throw away cigarette waste in a place other than a trash can.",
+            "MQM_score": 0
+        },
+        {
+            "src": "たばこの不始末により火事が起きると罪になります。",
+            "mt": "It will be a crime if a fire occurs due to mishandling of cigarettes.",
+            "MQM_score": 0
+        },
+        {
+            "src": "自宅のベランダから火のついたたばこを投げることは犯罪です。",
+            "mt": "Throwing a lit cigarette from the veranda of your house is a crime.",
+            "MQM_score": 0
+        }
+    ]
+}

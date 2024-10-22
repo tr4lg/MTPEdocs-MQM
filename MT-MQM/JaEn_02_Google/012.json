@@ -1,0 +1,411 @@
+{
+    "012.json": [
+        {
+            "src": "年 月 日",
+            "mt": "year month day",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 14,
+                    "text": "year month day",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "保 護 者 様",
+            "mt": "Parent",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "Parent",
+                    "type": 11,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "名古屋市立○○小学校長",
+            "mt": "Nagoya Municipal ○○ Elementary School Principal",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 47,
+                    "text": "Nagoya Municipal ○○ Elementary School Principal",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "名古屋市教育委員会",
+            "mt": "Nagoya City Board of Education",
+            "MQM_score": 0
+        },
+        {
+            "src": "学校給食申込書の提出について",
+            "mt": "Submission of school lunch application form",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 43,
+                    "text": "form",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "日ごろは本校教育のために、ご理解とご協力をいただきありがとうございます。",
+            "mt": "Thank you for your continued understanding and cooperation in the education of our school.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 65,
+                    "text": "in the",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 76,
+                    "end": 78,
+                    "text": "of",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "学校給食については、名古屋市がこれにかかる施設整備費、調理員人件費等を負担し、保護者の皆さまには、児童の給食材料の購入費を学校給食費として負担していただき、名古屋市と保護者の皆様双方の負担により、学校給食を運営する仕組みとなっております。",
+            "mt": "Regarding school lunches, the City of Nagoya bears the cost of facility maintenance, personnel expenses for cooks, etc., and parents/guardians bear the cost of purchasing school lunch materials as part of the school lunch expenses. It is a system to manage school lunches by the burden of both parents and guardians.",
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 78,
+                    "end": 83,
+                    "text": "名古屋市と",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 121,
+                    "end": 124,
+                    "text": "and",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 143,
+                    "end": 147,
+                    "text": "bear",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 184,
+                    "end": 193,
+                    "text": "materials",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 194,
+                    "end": 230,
+                    "text": "as part of the school lunch expenses",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 232,
+                    "end": 239,
+                    "text": "It is a",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 247,
+                    "end": 285,
+                    "text": "to manage school lunches by the burden",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 11
+        },
+        {
+            "src": "学校給食費は、原則として月額４，４００円（８月を除く。将来にわたり改定の可能性があります。）となりますので、期日までに納入していただきますようお願い申し上げます｡",
+            "mt": "As a general rule, the school lunch fee is 4,400 yen per month (excluding August. There is a possibility of revision in the future.), so please pay by the due date.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 62,
+                    "text": "month",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 130,
+                    "text": "excluding August. There is a possibility of revision in the future",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 132,
+                    "end": 133,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 134,
+                    "end": 163,
+                    "text": "so please pay by the due date",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2.2
+        },
+        {
+            "src": "学校給食の提供において、学校と保護者の皆さまとの関係を明確にするため、下記の申込書をご提出いただきますよう、お願いいたします。",
+            "mt": "In order to clarify the relationship between the school and parents in the provision of school lunches, please submit the application form below.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 67,
+                    "text": "parents",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 68,
+                    "end": 70,
+                    "text": "in",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 118,
+                    "end": 144,
+                    "text": "the application form below",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "き　り　と　り",
+            "mt": "Kiritori",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "Kiritori",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "学校給食申込書",
+            "mt": "School lunch application form",
+            "MQM_score": 0
+        },
+        {
+            "src": "名古屋市立○○小学校長　様",
+            "mt": "Principal of Nagoya Municipal ○○ Elementary School",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 50,
+                    "text": "Principal of Nagoya Municipal ○○ Elementary School",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "名古屋市教育委員会　様",
+            "mt": "Nagoya City Board of Education",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 30,
+                    "text": "Nagoya City Board of Education",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "学校給食を申し込むとともに、学校給食費を定められた期日までに納入します。",
+            "mt": "Apply for school lunch and pay the school lunch fee by the specified date.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 26,
+                    "text": "Apply for school lunch and",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 30,
+                    "text": "pay",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "年　　月　　日",
+            "mt": "year month day",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 14,
+                    "text": "year month day",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "住所：",
+            "mt": "address:",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "address:",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "保護者氏名：（自署）",
+            "mt": "Guardian Name: (Signature)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 26,
+                    "text": "Guardian Name: (Signature)",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "印　を削除",
+            "mt": "remove mark",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "remove",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 11,
+                    "text": "mark",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "【続柄：　　　】",
+            "mt": "【relationship:   】",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 18,
+                    "text": "【relationship:   】",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "児童氏名：",
+            "mt": "Child's name:",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "Child's name:",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "生年月日：　　　  年　 月　  日",
+            "mt": "Date of Birth: Year Month Day",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 29,
+                    "text": "Date of Birth: Year Month Day",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        }
+    ]
+}

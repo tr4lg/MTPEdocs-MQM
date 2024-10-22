@@ -1,0 +1,298 @@
+{
+    "017.json": [
+        {
+            "src": "年　　月　　日",
+            "mt": "year month day",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 14,
+                    "text": "year month day",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "保　護　者　　様",
+            "mt": "Parent",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "Parent",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "区　　長",
+            "mt": "Head of Ward",
+            "MQM_score": 0
+        },
+        {
+            "src": "入　　学　　の　　ご　　案　　内",
+            "mt": "Information on admission",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 24,
+                    "text": "Information on admission",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "あなたのお子さまは、日本では来年4月に小学校に入学する年齢になります。",
+            "mt": "Your child will be of age to enter elementary school next April in Japan.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 25,
+                    "text": "of age",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 72,
+                    "text": "next April in Japan",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "入学を希望する学校の確認を行いますので、原則として9月1日までに同封の就学予定状況調査票を提出してください。",
+            "mt": "We will confirm the school you wish to enroll in, so please submit the enclosed school enrollment status survey form by September 1st.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 49,
+                    "text": "you wish to enroll in,",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 59,
+                    "text": "so please",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 116,
+                    "text": "school enrollment status survey form",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "来年4月に小学校に入学するお子さんは、2015年4月2日から2016年4月1日までに生まれた方です。",
+            "mt": "Children entering elementary school next April must be born between April 2, 2015 and April 1, 2016.",
+            "MQM_score": 0
+        },
+        {
+            "src": "同封の就学予定状況調査票をご記入の上、区役所市民課窓口・支所市民係窓口へ提出してください。",
+            "mt": "Please fill in the enclosed survey form for school enrollment status and submit it to the Citizens' Section counter of the ward office or branch office's Citizens Section.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 68,
+                    "text": "survey form for school enrollment status",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 90,
+                    "end": 115,
+                    "text": "Citizens' Section counter",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 116,
+                    "end": 122,
+                    "text": "of the",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 138,
+                    "end": 153,
+                    "text": "branch office's",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 154,
+                    "end": 170,
+                    "text": "Citizens Section",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "名古屋市立小学校への入学を希望される場合は、入学手続きが必要になりますので、必ず区役所市民課・支所市民係窓口へお越しください。",
+            "mt": "If you wish to enroll your child in a Nagoya municipal elementary school, you will need to go through the enrollment procedures, so be sure to come to the Citizens' Section of the Ward Office/Branch Citizens' Section.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 216,
+                    "text": "go through the enrollment procedures, so be sure to come to the Citizens' Section of the Ward Office/Branch Citizens' Section",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "今回入学する学校が確認できない場合は、後日改めて確認の手紙を送付いたしますので回答にご協力ください。",
+            "mt": "If you are unable to confirm which school you will be attending this time, we will send you a confirmation letter at a later date, so please cooperate with us.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 73,
+                    "text": "which school you will be attending this time",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 129,
+                    "end": 158,
+                    "text": ", so please cooperate with us",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "その他ご不明な点がございましたら、下記のところまでお願いいたします。",
+            "mt": "If you have any other questions, please contact us below.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 56,
+                    "text": "below",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "お問合せ先",
+            "mt": "Contact information",
+            "MQM_score": 0
+        },
+        {
+            "src": "千種区役所市民課（ちくさくやくしょしみんか）",
+            "mt": "Chikusa Ward Office Citizens Division",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 37,
+                    "text": "Chikusa Ward Office Citizens Division",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "電話　762-3111",
+            "mt": "Phone 762-3111",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "Phone",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "（直通　753-1898）",
+            "mt": "(direct 753-1898)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 1,
+                    "end": 7,
+                    "text": "direct",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "トリオホン（日本語を話さない方はこちらからおかけください。）",
+            "mt": "Triophone (If you do not speak Japanese, please call from here.)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 62,
+                    "text": "If you do not speak Japanese, please call from here",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "名古屋国際センター",
+            "mt": "Nagoya International Center",
+            "MQM_score": 0
+        },
+        {
+            "src": "電話　581-6112",
+            "mt": "Phone 581-6112",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "Phone",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        }
+    ]
+}

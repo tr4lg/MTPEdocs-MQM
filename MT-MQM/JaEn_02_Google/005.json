@@ -1,0 +1,1724 @@
+{
+    "005.json": [
+        {
+            "src": "「ひとり親家庭の支援制度」のご案内",
+            "mt": "Guidance of \"support system of single-parent family\"",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "Guidance of",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 30,
+                    "text": "of",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 51,
+                    "text": "family",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "詳しいことは、問合せ先に聞いてください。",
+            "mt": "For details, please ask the contact.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 35,
+                    "text": "ask the contact",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "問い合わせ先は、日本語で対応します。",
+            "mt": "Inquiries will be handled in Japanese.",
+            "MQM_score": 0
+        },
+        {
+            "src": "手当や年金をもらう",
+            "mt": "receive benefits and pensions",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "receive",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "児童扶養手当・名古屋市ひとり親家庭手当・愛知県遺児手当",
+            "mt": "Child Rearing Allowance/Nagoya City Single Parent Family Allowance/Aichi Prefecture Orphan Allowance",
+            "MQM_score": 0
+        },
+        {
+            "src": "離婚、未婚、死亡などの ため１人で18歳以下のお子さんを育てている場合に支給されます。",
+            "mt": "If you are raising a child under the age of 18 by yourself due to divorce, unmarriage, death, etc., you will be paid.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 75,
+                    "end": 85,
+                    "text": "unmarriage",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 109,
+                    "end": 116,
+                    "text": "be paid",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 6
+        },
+        {
+            "src": "※お父さんまたはお母さんが一定の障害の状態にある場合を含みます。",
+            "mt": "* Including cases where the father or mother has a certain disability.",
+            "MQM_score": 0
+        },
+        {
+            "src": "※お子さんが18歳の場合、誕生日～3月31日までは対象になります。",
+            "mt": "* If the child is 18 years old, it is eligible from the birthday to March 31st.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 37,
+                    "text": "it is",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 55,
+                    "text": "the",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "問合せ先：区役所民生子ども課民生子ども係　支所区民福祉課保護・子ども係",
+            "mt": "Inquiries: Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 163,
+                    "text": "Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "児童手当",
+            "mt": "child allowance",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "child",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "中学校3年生までのお子さんを養育している場合に支給されます。",
+            "mt": "This allowance is paid to those who are raising children up to the third year of junior high school.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 17,
+                    "text": "This allowance is",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "問合せ先：区役所民生子ども課民生子ども係　支所区民福祉課保護・子ども係",
+            "mt": "Inquiries: Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 163,
+                    "text": "Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "遺族基礎年金",
+            "mt": "Survivors Basic Pension",
+            "MQM_score": 0
+        },
+        {
+            "src": "国民年金加入者や老齢基礎年金に25年以上加入していた方が死亡し、その配偶者が18歳以下のお子さんと一緒に暮らしている場合などに支給されます。",
+            "mt": "This benefit is paid to a person who has been enrolled in the National Pension or Old-age Basic Pension for 25 years or more and whose spouse lives with a child under the age of 18.",
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 28,
+                    "end": 31,
+                    "text": "死亡し",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 15,
+                    "text": "This benefit is",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "※お子さんが18歳の場合、誕生日～3月31日までは対象になります。",
+            "mt": "* If the child is 18 years old, it is eligible from the birthday to March 31st.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 37,
+                    "text": "it is",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 55,
+                    "text": "the",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "問合せ先：区役所保険年金課管理係　支所区民福祉課保険係",
+            "mt": "Inquiries: Ward Office Insurance and Pension Section Management Section Branch Office Ward Citizen Welfare Section Insurance Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 132,
+                    "text": "Ward Office Insurance and Pension Section Management Section Branch Office Ward Citizen Welfare Section Insurance Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "経済的な負担を軽減する",
+            "mt": "reduce financial burden",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "reduce",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "ひとり親家庭等医療費助成",
+            "mt": "Subsidies for medical expenses for single-parent families",
+            "MQM_score": 0
+        },
+        {
+            "src": "医療費の自己負担分が助成されます。",
+            "mt": "Self-payment of medical expenses will be subsidized.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 15,
+                    "text": "Self-payment of",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "問合せ先：区役所保険年金課保険係　支所区民福祉課保険係",
+            "mt": "Inquiries: Ward Office Insurance and Pension Section Insurance Section Branch Office Ward Citizens Welfare Section Insurance Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 132,
+                    "text": "Ward Office Insurance and Pension Section Insurance Section Branch Office Ward Citizens Welfare Section Insurance Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "国民健康保険料の減免",
+            "mt": "Reduction of national health insurance premiums",
+            "MQM_score": 0
+        },
+        {
+            "src": "税法上の寡婦またはひとり親の方は国民健康保険料が減免されます。",
+            "mt": "Widows and single parents under the tax law are exempt from paying national health insurance premiums.",
+            "MQM_score": 0
+        },
+        {
+            "src": "※条件があります。",
+            "mt": "*Conditions apply.",
+            "MQM_score": 0
+        },
+        {
+            "src": "問合せ先：区役所保険年金課保険係　支所区民福祉課保険係",
+            "mt": "Inquiries: Ward Office Insurance and Pension Section Insurance Section Branch Office Ward Citizens Welfare Section Insurance Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 132,
+                    "text": "Ward Office Insurance and Pension Section Insurance Section Branch Office Ward Citizens Welfare Section Insurance Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "国民健康保険料の免除・猶予",
+            "mt": "National health insurance fee exemption/deferral",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 29,
+                    "text": "fee",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "税法上の寡婦またはひとり親の方は国民年金保険料が免除・猶予されます。",
+            "mt": "Widows or single parents under the tax law are exempted or deferred from paying national pension insurance premiums.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 47,
+                    "end": 72,
+                    "text": "exempted or deferred from",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "条件があります。",
+            "mt": "There are conditions.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 21,
+                    "text": "There are conditions.",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "問合せ先：区役所保険年金課管理係　支所区民福祉課保険係",
+            "mt": "Inquiries: Ward Office Insurance and Pension Section Management Section Branch Office Ward Citizen Welfare Section Insurance Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 132,
+                    "text": "Ward Office Insurance and Pension Section Management Section Branch Office Ward Citizen Welfare Section Insurance Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "上下水道料金の減免",
+            "mt": "Reduction of water and sewerage charges",
+            "MQM_score": 0
+        },
+        {
+            "src": "児童扶養手当の支給を受けている世帯を対象に、上下水道料金が減額されます。",
+            "mt": "Water and sewerage charges are reduced for households receiving Child Rearing Allowance.",
+            "MQM_score": 0
+        },
+        {
+            "src": "※受給者本人が契約している場合に限ります。",
+            "mt": "* Limited to cases where the recipient himself/herself has a contract.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 55,
+                    "end": 60,
+                    "text": "has a",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "問合せ先：区役所民生子ども課民生子ども係　支所区民福祉課保護・子ども係",
+            "mt": "Inquiries: Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 163,
+                    "text": "Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "JR通勤定期特別割引",
+            "mt": "JR commuter pass special discount",
+            "MQM_score": 0
+        },
+        {
+            "src": "児童扶養手当の支給を受けている世帯は、区役所・支所が発行する証明書を提出してＪＲ通勤定期乗車券を買うと、3割引されます。",
+            "mt": "Households receiving child-rearing allowances can receive a 30% discount by submitting a certificate issued by a ward office or branch office and purchasing a JR commuter pass.",
+            "MQM_score": 0
+        },
+        {
+            "src": "※通学定期乗車券は対象外です。",
+            "mt": "*Student commuter passes are not eligible.",
+            "MQM_score": 0
+        },
+        {
+            "src": "問合せ先：区役所民生子ども課民生子ども係　支所区民福祉課保護・子ども係",
+            "mt": "Inquiries: Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 163,
+                    "text": "Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "税の減免をうける",
+            "mt": "receive tax exemption",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "receive",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "税法上の条件に該当する方は、税金が軽くなる制度の適用を受けることができます。",
+            "mt": "Those who meet the conditions under the tax law can receive the application of the tax reduction system.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 103,
+                    "text": "receive the application of the tax reduction system",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "また、条件に該当する方は、住民税（市・県民税）が非課税となったり、減免される場合があります。",
+            "mt": "In addition, those who meet the conditions may be exempted from or exempted from inhabitant tax (city/prefectural tax).",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 67,
+                    "end": 80,
+                    "text": "exempted from",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 81,
+                    "end": 95,
+                    "text": "inhabitant tax",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 6
+        },
+        {
+            "src": "適用を受けようとする場合は、年末調整や確定申告で忘れずに申告をしてください。",
+            "mt": "If you want to apply, please do not forget to declare it at the year-end tax adjustment or final tax return.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 20,
+                    "text": "to apply",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "問合せ先：お住まいの区の市税事務所",
+            "mt": "Contact: City tax office of your ward",
+            "MQM_score": 0
+        },
+        {
+            "src": "貸付を受ける",
+            "mt": "get a loan",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "get",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "母子父子寡婦福祉資金貸付金",
+            "mt": "Motherless Fatherless Widow Welfare Fund Loan",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 27,
+                    "text": "Motherless Fatherless Widow",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "学校での勉強、技能の習得、就職、転居などに必要な経費を借りることができます。",
+            "mt": "You can borrow necessary expenses for studying at school, acquiring skills, finding a job, moving house, etc.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 24,
+                    "text": "necessary",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "問合せ先：区役所民生子ども課民生子ども係　支所区民福祉課保護・子ども係",
+            "mt": "Inquiries: Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 163,
+                    "text": "Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "仕事を探す・スキルアップする",
+            "mt": "Find a job/skill up",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "Find",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 19,
+                    "text": "skill up",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "高等職業訓練促進給付金",
+            "mt": "Advanced Vocational Training Promotion Benefit",
+            "MQM_score": 0
+        },
+        {
+            "src": "看護師など就職･転職に必要な資格を取得するため、養成機関で学ぶ場合に、生活費として一定期間支給されます。",
+            "mt": "If you are studying at a training institution in order to acquire the qualifications necessary for employment or changing jobs, such as a nurse, you will be paid for a certain period of time as living expenses.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 149,
+                    "end": 161,
+                    "text": "will be paid",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "問合せ先：区役所民生子ども課民生子ども係　支所区民福祉課保護・子ども係",
+            "mt": "Inquiries: Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 163,
+                    "text": "Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "高等職業訓練促進資金貸付",
+            "mt": "Advanced Vocational Training Promotion Fund Loan",
+            "MQM_score": 0
+        },
+        {
+            "src": "上記⑩の 給付金を受給しながら資格取得を目指す場合に、入学する時と就職する時に必要なお金を借りることができます。",
+            "mt": "If you aim to acquire qualifications while receiving the above 10 benefits, you can borrow the money you need when you enter school and when you get a job.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 74,
+                    "text": "the above 10 benefits",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 5
+        },
+        {
+            "src": "問合せ先：区役所民生子ども課民生子ども係　支所区民福祉課保護・子ども係",
+            "mt": "Inquiries: Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 163,
+                    "text": "Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "自立支援教育訓練給付金",
+            "mt": "Independence Support Education and Training Benefits",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "Independence",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "介護などの資格を取得するため、講座を受講する場合に、受講料の一部が助成されます。",
+            "mt": "Part of the tuition fee is subsidized when taking courses to acquire qualifications such as nursing care.",
+            "MQM_score": 0
+        },
+        {
+            "src": "※条件があります。",
+            "mt": "*Conditions apply.",
+            "MQM_score": 0
+        },
+        {
+            "src": "受講を始める前にご相談ください。",
+            "mt": "Please consult us before starting the course.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 17,
+                    "text": "us",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "問合せ先：区役所民生子ども課民生子ども係　支所区民福祉課保護・子ども係",
+            "mt": "Inquiries: Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 163,
+                    "text": "Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "高等学校卒業程度認定試験合格支援給付金",
+            "mt": "High School Graduation Certificate Exam Pass Support Benefits",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 44,
+                    "text": "High School Graduation Certificate Exam Pass",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "高等学校卒業程度認定試験に合格するため、講座を受講する場合に、受講料の一部が助成されます。",
+            "mt": "Part of the tuition fee will be subsidized when taking a course in order to pass the high school graduation certificate exam.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 85,
+                    "end": 124,
+                    "text": "high school graduation certificate exam",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "※条件があります。",
+            "mt": "*Conditions apply.",
+            "MQM_score": 0
+        },
+        {
+            "src": "受講を始める前にご相談ください。",
+            "mt": "Please consult us before starting the course.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 17,
+                    "text": "us",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "問合せ先：区役所民生子ども課民生子ども係　支所区民福祉課保護・子ども係",
+            "mt": "Inquiries: Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 163,
+                    "text": "Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "就業支援講習会",
+            "mt": "Employment support workshop",
+            "MQM_score": 0
+        },
+        {
+            "src": "パソコンや介護など、就職・転職に有利なスキルや知識を身に付けるための講習会を開催しています。",
+            "mt": "We hold workshops to acquire skills and knowledge that are advantageous for employment and career change, such as personal computers and nursing care.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 28,
+                    "text": "to acquire",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 104,
+                    "text": "career change",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "問合せ先：区役所民生子ども課民生子ども係　支所区民福祉課保護・子ども係",
+            "mt": "Inquiries: Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 163,
+                    "text": "Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "たばこの販売のための申請 ",
+            "mt": "Application for the sale of tobacco",
+            "MQM_score": 0
+        },
+        {
+            "src": "たばこの販売のための申請をする場合に、許可の基準が緩和されます。",
+            "mt": "When applying for the sale of tobacco, the criteria for permission will be relaxed.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 66,
+                    "text": "permission",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "問合せ先：東海財務局理財部理財課　TEL　951-2546",
+            "mt": "Contact: Tokai Local Finance Bureau Property Management Department Property Management Division TEL 951-2546",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 95,
+                    "text": "Tokai Local Finance Bureau Property Management Department Property Management Division",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "仕事の相談先",
+            "mt": "job consultation",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "job",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "お近くのハローワーク",
+            "mt": "Hello Work near you",
+            "MQM_score": 0
+        },
+        {
+            "src": "通訳がいるハローワークもあります。",
+            "mt": "Some Hello Work offices have interpreters.",
+            "MQM_score": 0
+        },
+        {
+            "src": "ホームページを見てください。",
+            "mt": "Please see the homepage.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 23,
+                    "text": "homepage",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "厚生労働省ホームページ",
+            "mt": "Ministry of Health, Labor and Welfare website",
+            "MQM_score": 0
+        },
+        {
+            "src": "https://www.mhlw.go.jp/content/000592865.pdf",
+            "mt": "https://www.mhlw.go.jp/content/000592865.pdf",
+            "MQM_score": 0
+        },
+        {
+            "src": "ジョイナス.ナゴヤ（Joinas.Nagoya）　",
+            "mt": "Joinas.Nagoya",
+            "MQM_score": 0
+        },
+        {
+            "src": "ひとり親家庭の方の仕事探しをお手伝いします。",
+            "mt": "We help single-parent families find jobs.",
+            "MQM_score": 0
+        },
+        {
+            "src": "TEL　252-8824",
+            "mt": "TEL 252-8824",
+            "MQM_score": 0
+        },
+        {
+            "src": "住まいを探す",
+            "mt": "find a place to live",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "find",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 20,
+                    "text": "a place to live",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "公営住宅の入居募集",
+            "mt": "Recruitment of public housing",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 14,
+                    "text": "Recruitment of",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "市営住宅・県営住宅では、一般募集の他に、ひとり親家庭世帯向けの募集を行っています。",
+            "mt": "Municipal housing and prefectural housing are recruiting for single-parent households in addition to general recruitment.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 60,
+                    "text": "for",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "問合せ先：区役所民生子ども課民生子ども係　支所区民福祉課保護・子ども係",
+            "mt": "Inquiries: Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 163,
+                    "text": "Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "母子生活支援施設",
+            "mt": "Mother and child life support facility",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 29,
+                    "text": "Mother and child life support",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "保護が必要な18歳未満のお子さんとそのお母さんが入所する施設です。",
+            "mt": "This is a facility for children under the age of 18 and their mothers who need protection.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 89,
+                    "text": "and their mothers who need protection",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "問合せ先：区役所民生子ども課民生子ども係　支所区民福祉課保護・子ども係",
+            "mt": "Inquiries: Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 163,
+                    "text": "Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "民間賃貸住宅入居相談（予約制）",
+            "mt": "Private rental housing move-in consultation (reservation required)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 30,
+                    "text": "move-in",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "民間賃貸住宅への入居を希望する子育て世帯などに対し入居相談を行っています。",
+            "mt": "We provide moving-in consultations for child-rearing households who wish to move into private rental housing.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 20,
+                    "text": "moving-in",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "問合せ先：栄市民サービスコーナー住まいの窓口「名古屋市住まいの相談コーナー」中区栄3-5-12先　栄 森の地下街南四番街南側　TEL　242-4555",
+            "mt": "Inquiries: Sakae Citizen Service Corner Housing Counter \"Nagoya City Housing Consultation Corner\" 3-5-12 Sakae, Naka-ku Sakae Mori no Underground Shopping Mall South 4th Street South Side TEL 242-4555",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 97,
+                    "text": "Sakae Citizen Service Corner Housing Counter \"Nagoya City Housing Consultation Corner\"",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 120,
+                    "end": 187,
+                    "text": "Sakae Mori no Underground Shopping Mall South 4th Street South Side",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.2
+        },
+        {
+            "src": "子育て支援を受ける",
+            "mt": "receive child care support",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "receive",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "子どもの短期入所生活援助（ショートステイ）",
+            "mt": "Short-term admission life support for children (short stay)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 33,
+                    "text": "life support",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "保護者の病気など社会的な理由により一時的に家庭での子育てが難しい場合に、原則、一週間を限度に、乳児院・児童養護施設・里親宅でお子さんを預かります。",
+            "mt": "If it is temporarily difficult to raise a child at home due to social reasons such as parental illness, in principle, the child will be looked after at an infant home, children's home, or foster home for up to one week.",
+            "MQM_score": 0
+        },
+        {
+            "src": "問合せ先：区役所民生子ども課民生子ども係　支所区民福祉課保護・子ども係",
+            "mt": "Inquiries: Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 163,
+                    "text": "Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "ひとり親家庭等生活支援",
+            "mt": "Life support for single-parent families, etc.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "Life support",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "ひとり親家庭の方や寡婦の方などが日常生活にお困りの場合に",
+            "mt": "For single-parent households and widows who are having trouble with daily life",
+            "MQM_score": 0
+        },
+        {
+            "src": "生活援助：ご自宅にヘルパーが訪問し、家事や介護をお手伝いします。",
+            "mt": "Living assistance: A helper visits your home to help with housework and nursing care.",
+            "MQM_score": 0
+        },
+        {
+            "src": "子育て支援：指定の保育施設で、お子さんを一時的に預かります。",
+            "mt": "Child-rearing support: Temporarily take care of your child at a designated child-care facility.",
+            "MQM_score": 0
+        },
+        {
+            "src": "問合せ先：区役所民生子ども課民生子ども係　支所区民福祉課保護・子ども係",
+            "mt": "Inquiries: Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 163,
+                    "text": "Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "多様な保育",
+            "mt": "Diverse childcare",
+            "MQM_score": 0
+        },
+        {
+            "src": "保護者の仕事などの理由でお子さんの保育が必要な場合、保育所などが利用できます。",
+            "mt": "If you need childcare for your child due to work or other reasons, you can use a nursery school.",
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 3,
+                    "text": "保護者",
+                    "type": 5,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "休日保育や延長保育、夜間保育、病児保育、病児後保育などもあります。",
+            "mt": "There are holiday daycare, extended daycare, nighttime daycare, sick child daycare, and post-sick child daycare.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 9,
+                    "text": "are",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 88,
+                    "end": 97,
+                    "text": "post-sick",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "問合せ先：区役所民生子ども課民生子ども係　支所区民福祉課保護・子ども係",
+            "mt": "Inquiries: Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 163,
+                    "text": "Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "幼稚園における預かり保育",
+            "mt": "Custody childcare in kindergarten",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "Custody",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "通っている幼稚園または認定こども園において一時預かり保育を行います。",
+            "mt": "Temporary custody childcare will be provided at the kindergarten or certified child center that the child attends.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 17,
+                    "text": "custody",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "問合せ先：各幼稚園　認定こども園",
+            "mt": "Contact: Each kindergarten certified child institution",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 13,
+                    "text": "Each",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 36,
+                    "text": "kindergarten certified",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1.1
+        },
+        {
+            "src": "一時預かり",
+            "mt": "temporary storage",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "temporary",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 17,
+                    "text": "storage",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "急に発生した事情などにより、一時的に家庭での保育が難しくなる場合や、育児疲れによる保護者の心や身体の負担を減らすため、お子さんを一時的に預かります。",
+            "mt": "When childcare at home becomes temporarily difficult due to unforeseen circumstances, or in order to reduce the mental and physical burden on guardians due to childcare fatigue, we temporarily take care of children.",
+            "MQM_score": 0
+        },
+        {
+            "src": "問合せ先：",
+            "mt": "contact information:",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 20,
+                    "text": "contact information:",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "一時預かり",
+            "mt": "temporary storage",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "temporary",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 17,
+                    "text": "storage",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "区役所民生子ども課民生子ども係",
+            "mt": "Ward Office Public Welfare and Children Section Public Welfare and Children Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 83,
+                    "text": "Ward Office Public Welfare and Children Section Public Welfare and Children Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "支所区民福祉課保護・子ども係",
+            "mt": "Branch Resident Welfare Division Protection and Child Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 61,
+                    "text": "Branch Resident Welfare Division Protection and Child Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "のびのび子育てサポ―ト",
+            "mt": "Carefree parenting support",
+            "MQM_score": 0
+        },
+        {
+            "src": "本部",
+            "mt": "headquarters",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "headquarters",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "TEL962-5103",
+            "mt": "TEL 962-5103",
+            "MQM_score": 0
+        },
+        {
+            "src": "子育て応援拠点",
+            "mt": "Child care support base",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 23,
+                    "text": "base",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "各子育て応援拠点",
+            "mt": "Each child care support base",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "Each",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 28,
+                    "text": "base",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "子どもの教育費を確保する",
+            "mt": "Secure your child's education expenses",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "Secure",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 19,
+                    "text": "your child's",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "就学援助等",
+            "mt": "Support for attending school, etc.",
+            "MQM_score": 0
+        },
+        {
+            "src": "お子さんが通っている学校の種類に応じて、就学のための費用などが援助されます。",
+            "mt": "Depending on the type of school your child attends, you will receive financial support for school expenses.",
+            "MQM_score": 0
+        },
+        {
+            "src": "問合せ先：お子さんが通っている幼稚園・学校",
+            "mt": "Inquiries: Kindergarten/school your child attends",
+            "MQM_score": 0
+        },
+        {
+            "src": "奨学金等（日本学生支援機構）",
+            "mt": "Scholarships, etc. (Japan Student Services Organization)",
+            "MQM_score": 0
+        },
+        {
+            "src": "大学・短期大学などに通う方に対する給付型奨学金や授業料減免等があります。",
+            "mt": "There are grant-type scholarships and tuition exemptions for those who attend universities and junior colleges.",
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 27,
+                    "end": 28,
+                    "text": "減",
+                    "type": 5,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "問合せ先：お子さんが通っている学校",
+            "mt": "Contact: School your child attends",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "Contact",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "日本学生支援機構ホームページhttps://www.jasso.go.jp/",
+            "mt": "Japan Student Services Organization website https://www.jasso.go.jp/",
+            "MQM_score": 0
+        },
+        {
+            "src": "子どもの学びや社会体験の機会を確保する",
+            "mt": "Ensuring opportunities for children to learn and have social experiences",
+            "MQM_score": 0
+        },
+        {
+            "src": "中学生の学習支援",
+            "mt": "Learning support for junior high school students",
+            "MQM_score": 0
+        },
+        {
+            "src": "学習習慣を身に付けることや高校進学などを目指して、一人ひとりの学習レベルに合わせた学習会を開催しています。",
+            "mt": "We hold study sessions tailored to each student's learning level with the aim of developing good study habits and preparing for high school.",
+            "MQM_score": 0
+        },
+        {
+            "src": "問合せ先：子ども青少年局子ども未来企画室　TEL972-3199",
+            "mt": "Contact: Child Future Planning Office, Children and Youth Bureau TEL972-3199",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "Contact",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "ひとり親家庭の子どもの居場所づくり",
+            "mt": "Creating places for children in single-parent families",
+            "MQM_score": 0
+        },
+        {
+            "src": "小学５年生から中学３年生までのお子さんを対象に、気軽に立ち寄り、おしゃべりをしたり宿題をしたり、ゆっくり過ごしたりイベントに参加することができる場を設けています",
+            "mt": "For children from the 5th grade of elementary school to the 3rd grade of junior high school, we have set up a place where you can casually stop by, chat, do your homework, spend time slowly, and participate in events.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 122,
+                    "end": 125,
+                    "text": "you",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 157,
+                    "end": 161,
+                    "text": "your",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "問合せ先：子ども青少年局子ども未来企画室　TEL972-3199",
+            "mt": "Contact: Child Future Planning Office, Children and Youth Bureau TEL972-3199",
+            "MQM_score": 0
+        },
+        {
+            "src": "文化・スポーツ交流",
+            "mt": "Cultural and sports exchange",
+            "MQM_score": 0
+        },
+        {
+            "src": "「親と子」「ひとり親同士」の交流や、将来の職業選択のきっかけとなるよう、スポーツや音楽などプロの世界を体験できるイベントを開催しています。",
+            "mt": "We hold events where you can experience the world of professionals, such as sports and music, so that you can interact with parents and children and between single parents, and provide opportunities for future career choices.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 24,
+                    "text": "you",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 94,
+                    "end": 171,
+                    "text": "so that you can interact with parents and children and between single parents",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 173,
+                    "end": 225,
+                    "text": "and provide opportunities for future career choices.",
+                    "type": 10,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 11
+        },
+        {
+            "src": "問合せ先：子ども青少年局子ども未来企画室　TEL972-2522",
+            "mt": "Contact: Child Future Planning Office, Children and Youth Bureau TEL972-2522",
+            "MQM_score": 0
+        },
+        {
+            "src": "ひとり親家庭休養ホーム",
+            "mt": "Single parent family rest home",
+            "MQM_score": 0
+        },
+        {
+            "src": "「国民宿舎奥浜名湖」などの宿泊施設や「レゴランド」などの日帰り施設を利用する場合、料金が補助されます。",
+            "mt": "Fees are subsidized when using lodging facilities such as Kokuminshukusha Okuhamanako and day-trip facilities such as Legoland.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 85,
+                    "text": "Kokuminshukusha Okuhamanako",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "問合せ先：区役所民生子ども課民生子ども係　支所区民福祉課保護・子ども係",
+            "mt": "Inquiries: Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 163,
+                    "text": "Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "市有施設優待利用",
+            "mt": "Discounted use of municipal facilities",
+            "MQM_score": 0
+        },
+        {
+            "src": "東山動植物園や市科学館など市の施設が、無料で利用できます。",
+            "mt": "City facilities such as the Higashiyama Zoo and Botanical Gardens and the City Science Museum can be used free of charge.",
+            "MQM_score": 0
+        },
+        {
+            "src": "問合せ先：区役所民生子ども課民生子ども係　支所区民福祉課保護・子ども係",
+            "mt": "Inquiries: Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 163,
+                    "text": "Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        }
+    ]
+}

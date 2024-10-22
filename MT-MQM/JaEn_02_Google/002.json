@@ -1,0 +1,587 @@
+{
+    "002.json": [
+        {
+            "src": "～健康状況の確認について~",
+            "mt": "~Confirmation of health status~",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 30,
+                    "text": "status",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "体調記録への記入に変えて、アプリ「LAVITA」を利用して体調管理をすることになりました。",
+            "mt": "Instead of filling out my physical condition record, I decided to use the app \"LAVITA\" to manage my physical condition.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 51,
+                    "text": "my physical condition record",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 65,
+                    "text": "I decided to",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 74,
+                    "end": 86,
+                    "text": "app \"LAVITA\"",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 97,
+                    "end": 99,
+                    "text": "my",
+                    "type": 11,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 12
+        },
+        {
+            "src": "以下の使い方をご覧いただき、定時(7時30分、11時30分、17時30分、21時)に、アプリへの登録をお願いします。",
+            "mt": "Please see the usage below and register with the app at the regular times (7:30, 11:30, 17:30, 21:00).",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 26,
+                    "text": "see the usage below",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 39,
+                    "text": "register",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 40,
+                    "end": 44,
+                    "text": "with",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 67,
+                    "text": "regular",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 75,
+                    "end": 79,
+                    "text": "7:30",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 81,
+                    "end": 86,
+                    "text": "11:30",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 88,
+                    "end": 93,
+                    "text": "17:30",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 100,
+                    "text": "21:00",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 8
+        },
+        {
+            "src": "健康チェックシート　LAVITAの使い方",
+            "mt": "Health check sheet How to use LAVITA",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 12,
+                    "text": "check",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 18,
+                    "text": "sheet",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 29,
+                    "text": "use",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "お持ちのスマートフォンから、体調記録を入力することができます。",
+            "mt": "You can enter your physical condition record from your smartphone.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 7,
+                    "text": "can",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 13,
+                    "text": "enter",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 44,
+                    "text": "your physical condition record",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 65,
+                    "text": "from your smartphone",
+                    "type": 10,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 4
+        },
+        {
+            "src": "下記URLを参照いただくか、QRコードを読み取り、専用サイトにアクセスしてください。",
+            "mt": "Please refer to the URL below or scan the QR code to access the dedicated site.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 78,
+                    "text": "dedicated site",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "お部屋で測定した体温とSpO2を入力し、各問診(12項目)に回答してください。",
+            "mt": "Enter the body temperature and SpO2 measured in the room, and answer each questionnaire (12 items).",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 9,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 44,
+                    "text": "measured",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 56,
+                    "text": "in the room",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 61,
+                    "text": "and",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 69,
+                    "end": 73,
+                    "text": "each",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 92,
+                    "end": 97,
+                    "text": "items",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 6
+        },
+        {
+            "src": "詳細な使用方法は裏面をご覧ください。",
+            "mt": "See the back side for detailed usage instructions.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 17,
+                    "text": "side",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 36,
+                    "text": "usage",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "LAVITA　ログイン用URL",
+            "mt": "LAVITA login URL",
+            "MQM_score": 0
+        },
+        {
+            "src": "https://www.lavita.ne.jp/member",
+            "mt": "https://www.lavita.ne.jp/member",
+            "MQM_score": 0
+        },
+        {
+            "src": "※こちらのQRコードをスマートフォンのカメラを起動し、読み取ることでもURLが開きます。",
+            "mt": "*You can also open the URL by scanning this QR code with your smartphone's camera.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 18,
+                    "text": "open",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 29,
+                    "text": "by",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 38,
+                    "text": "scanning",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 81,
+                    "text": "with your smartphone's camera",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 4
+        },
+        {
+            "src": "QRコード",
+            "mt": "QR code",
+            "MQM_score": 0
+        },
+        {
+            "src": "ログイン用ID",
+            "mt": "Login ID",
+            "MQM_score": 0
+        },
+        {
+            "src": "名前+IDナンバー＠co.jp",
+            "mt": "Name + ID number@co.jp",
+            "MQM_score": 0
+        },
+        {
+            "src": "※＠co.jpまで入力します。",
+            "mt": "*Enter up to @co.jp.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 12,
+                    "text": "up to",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "パスワード",
+            "mt": "password",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "password",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "toyokoin1",
+            "mt": "toyokoin1",
+            "MQM_score": 0
+        },
+        {
+            "src": "※パスワードは絶対に変更しないで下さい。",
+            "mt": "*Never change your password.",
+            "MQM_score": 0
+        },
+        {
+            "src": "※全て半角小文字入力です。",
+            "mt": "* All entries must be in lower case.",
+            "MQM_score": 0
+        },
+        {
+            "src": "使用方法は裏面に掲載しております。",
+            "mt": "Instructions for use are on the back.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 24,
+                    "text": "for use are",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "健康チェックシート　LAVITAの使い方",
+            "mt": "Health check sheet How to use LAVITA",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 12,
+                    "text": "check",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 18,
+                    "text": "sheet",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 29,
+                    "text": "use",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "『健康観察』の問診に回答するをタップし問診を開始します。",
+            "mt": "Tap to answer the \"Health Observation\" questionnaire to start the medical examination.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 37,
+                    "text": "Observation",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 55,
+                    "text": "to",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "体温、SpO2の鉛筆マーク✐をタップし、手入力の🔘を選択し数値を入力して確定",
+            "mt": "Tap the pencil mark ✐ for body temperature and SpO2, select 🔘 for manual input, enter the value and confirm",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 78,
+                    "text": "for manual input",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 85,
+                    "text": "enter",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 90,
+                    "end": 95,
+                    "text": "value",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 96,
+                    "end": 107,
+                    "text": "and confirm",
+                    "type": 10,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 4
+        },
+        {
+            "src": "問1～12に対し、『あり』、『なし』を選択してタップし、その他の症状がある場合や何か伝えたいことがある場合は、最下部『その他』自由記入欄に入力してください。",
+            "mt": "Select and tap \"Yes\" or \"No\" for questions 1 to 12, and if you have other symptoms or have something to say, enter it in the bottom \"Other\" free entry field. please give me.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 51,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 58,
+                    "text": "and if",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 86,
+                    "end": 107,
+                    "text": "have something to say",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 125,
+                    "end": 131,
+                    "text": "bottom",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 140,
+                    "end": 150,
+                    "text": "free entry",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 151,
+                    "end": 156,
+                    "text": "field",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 158,
+                    "end": 173,
+                    "text": "please give me.",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 10.1
+        },
+        {
+            "src": "最後に登録するをタップして問診登録完了です。",
+            "mt": "Finally, tap Register to complete the medical questionnaire registration.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 72,
+                    "text": "medical questionnaire registration",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        }
+    ]
+}

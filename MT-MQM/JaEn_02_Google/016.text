@@ -1,0 +1,18 @@
+1	年　　月　　日	<ER01>year month day</ER01>
+2	保　護　者　　様	<ER01>Parent</ER01>
+3	区　　長	Head of Ward
+4	入　　学　　の　　ご　　案　　内	<ER01>Information on admission</ER01>
+5	あなたのお子さまは、日本では来年4月に小学校に入学する年齢になります。	Your child will be <ER01>of age</ER01> to enter elementary school <ER02>next April in Japan</ER02>.
+6	入学を希望する学校の確認を行いますので、原則として9月1日までに同封の就学予定状況調査票を提出してください。	We will confirm the school <ER01>you wish to enroll in,</ER01> <ER02>so please</ER02> submit the enclosed <ER03>school enrollment status survey form</ER03> by September 1st.
+7	来年4月に小学校に入学するお子さんは、2015年4月2日から2016年4月1日までに生まれた方です。	Children entering elementary school next April must be born between April 2, 2015 and April 1, 2016.
+8	同封の就学予定状況調査票をご記入の上、区役所市民課窓口・支所市民係窓口へ提出してください。	Please fill in the enclosed <ER01>survey form for school enrollment status</ER01> and submit it to the <ER02>Citizens' Section counter</ER02> <ER03>of the</ER03> ward office or <ER04>branch office's</ER04> <ER05>Citizens Section</ER05>.
+9	名古屋市立小学校への入学を希望される場合は、入学手続きが必要になりますので、必ず区役所市民課・支所市民係窓口へお越しください。	If you wish to enroll your child in a Nagoya municipal elementary school, you will need to <ER01>go through the enrollment procedures, so be sure to come to the Citizens' Section of the Ward Office/Branch Citizens' Section</ER01>.
+10	今回入学する学校が確認できない場合は、後日改めて確認の手紙を送付いたしますので回答にご協力ください。	If you are unable to confirm <ER01>which school you will be attending this time</ER01>, we will send you a confirmation letter at a later date<ER02>, so please cooperate with us</ER02>.
+11	その他ご不明な点がございましたら、下記のところまでお願いいたします。	If you have any other questions, please contact us <ER01>below</ER01>.
+12	お問合せ先	Contact information
+13	千種区役所市民課（ちくさくやくしょしみんか）	<ER01>Chikusa Ward Office Citizens Division</ER01>
+14	電話　762-3111	<ER01>Phone</ER01> 762-3111
+15	（直通　753-1898）	(<ER01>direct</ER01> 753-1898)
+16	トリオホン（日本語を話さない方はこちらからおかけください。）	Triophone (<ER01>If you do not speak Japanese, please call from here</ER01>.)
+17	名古屋国際センター	Nagoya International Center
+18	電話　581-6112	<ER01>Phone</ER01> 581-6112

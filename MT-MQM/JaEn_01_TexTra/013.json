@@ -1,0 +1,890 @@
+{
+    "013.json": [
+        {
+            "src": "ひとり親家庭の方へ",
+            "mt": "For single-parent families",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 26,
+                    "text": "For single-parent families",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "お困りごと相談票",
+            "mt": "Trouble Consultation Form",
+            "MQM_score": 0
+        },
+        {
+            "src": "仕事や子育て、生活等でのお困り事はありませんか？",
+            "mt": "Do you have any problems at work, raising children or living?",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 24,
+                    "text": "Do you have any problems",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 60,
+                    "text": "living",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "区役所・支所には、あなたが困っていることや悩みを一緒に考え、解決するために様々な相談員がいます。",
+            "mt": "There are various counselors at the ward office and branch offices to think together and solve your problems and worries.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 67,
+                    "end": 94,
+                    "text": "to think together and solve",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 100,
+                    "end": 108,
+                    "text": "problems",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "どんな些細なことでも構いません。",
+            "mt": "No matter how trivial it is, it doesn't matter.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 47,
+                    "text": "No matter how trivial it is, it doesn't matter.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "まずは、相談員とお話してみませんか？",
+            "mt": "Why don't you talk to the counselor first?",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 41,
+                    "text": "talk to the counselor first",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "必要に応じて、他の相談窓口等と協力することもできます。",
+            "mt": "If necessary, we can cooperate with other consultation services.",
+            "MQM_score": 0
+        },
+        {
+            "src": "あなたのお困りごとや相談したいことを教えてください。",
+            "mt": "Please tell me about your problem or what you want to consult.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 14,
+                    "text": "me",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 33,
+                    "text": "your problem",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 41,
+                    "text": "what",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 42,
+                    "end": 61,
+                    "text": "you want to consult",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 4
+        },
+        {
+            "src": "この相談票は、同封の現況届とともに区役所・支所へ提出してください。",
+            "mt": "Please submit this consultation form together with the enclosed Current Status Notice to the ward office or branch office.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 89,
+                    "end": 92,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "なお、相談票に書かれた内容は、児童扶養手当などの支給決定の資料としては使用しません。",
+            "mt": "Please note that the contents of the consultation form will not be used as materials for determining payment of the child support allowance, etc.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 29,
+                    "text": "contents",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 72,
+                    "end": 144,
+                    "text": "as materials for determining payment of the child support allowance, etc",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "秘密は厳守します。",
+            "mt": "I'll keep it a secret.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 21,
+                    "text": "I'll keep it a secret",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "次の中で困っていること、相談したいことはありますか？",
+            "mt": "Do you have any of the following problems or things you want to consult?",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 71,
+                    "text": "have any of the following problems or things you want to consult",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "該当するすべての項目の（　　）内に、○をつけてください（複数回答可）。",
+            "mt": "Place a 0 in parentheses for all applicable fields (multiple answers allowed).",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 9,
+                    "text": "0",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 24,
+                    "text": "parentheses",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 50,
+                    "text": "fields",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 78,
+                    "text": "(multiple answers allowed).",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3.1
+        },
+        {
+            "src": "特にお困りごとがない方は、Ｑ４の「２ 希望しない」に○をつけてください。",
+            "mt": "If you don't have any particular problems, please add 0 to \"2 don't want\" in Q4.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 41,
+                    "text": "problems",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 58,
+                    "text": "add 0 to",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 72,
+                    "text": "don't want",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "仕事・収入に関すること",
+            "mt": "Matters related to work and income",
+            "MQM_score": 0
+        },
+        {
+            "src": "仕事を探したい",
+            "mt": "I want to find a job.",
+            "MQM_score": 0
+        },
+        {
+            "src": "仕事をしなければと思っているが、探す気力が起きない",
+            "mt": "I want to work, but I don't have the energy to look for it.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 58,
+                    "text": "it",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "現在仕事をしているが、もっと良い条件で働きたい",
+            "mt": "I'm working now, but I want to work on better terms.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 51,
+                    "text": "to work on better terms",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "職場の人間関係に悩んでいる",
+            "mt": "Struggling with workplace relationships",
+            "MQM_score": 0
+        },
+        {
+            "src": "資格を取得したいと考えている",
+            "mt": "Want to be qualified",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 20,
+                    "text": "be qualified",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "その他（具体的にお書きください）",
+            "mt": "Other (please specify)",
+            "MQM_score": 0
+        },
+        {
+            "src": "健康や生活に関すること",
+            "mt": "Matters related to health and life",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 34,
+                    "text": "life",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "体調がよくない",
+            "mt": "Physical condition is not good",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 30,
+                    "text": "Physical condition is not good",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "精神的に不安定な時がある",
+            "mt": "There is a time when it is mentally unstable",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 26,
+                    "text": "There is a time when it is",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "家事等に手が回らない",
+            "mt": "Unable to do housework, etc.",
+            "MQM_score": 0
+        },
+        {
+            "src": "家族関係で困っている",
+            "mt": "Be troubled with family relations",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "Be troubled",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "住居で困っている",
+            "mt": "Be troubled with the residence",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "Be troubled",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 30,
+                    "text": "the residence",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "家計の見直しをしたい",
+            "mt": "I want to review my household finances.",
+            "MQM_score": 0
+        },
+        {
+            "src": "養育費の取得に困っている",
+            "mt": "Have trouble obtaining child support",
+            "MQM_score": 0
+        },
+        {
+            "src": "借金の返済に困っている",
+            "mt": "It is troubled in repayment of debt",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 17,
+                    "text": "It is troubled in",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "言葉やコミュニケーションに困っている",
+            "mt": "Trouble with language and communication",
+            "MQM_score": 0
+        },
+        {
+            "src": "その他（具体的にお書きください）",
+            "mt": "Other (please specify)",
+            "MQM_score": 0
+        },
+        {
+            "src": "子どもに関すること",
+            "mt": "Matters relating to children",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 16,
+                    "text": "relating",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "子育てに不安がある",
+            "mt": "Have concerns about raising children",
+            "MQM_score": 0
+        },
+        {
+            "src": "子育てに負担を感じている",
+            "mt": "Feeling burden in raising children",
+            "MQM_score": 0
+        },
+        {
+            "src": "子どもに持病・障がいがあり不安に感じている",
+            "mt": "The child has a chronic disease or disability and feels insecure.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "The",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 46,
+                    "end": 65,
+                    "text": "and feels insecure.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "学校の勉強についていけない",
+            "mt": "Not able to keep up with school work",
+            "MQM_score": 0
+        },
+        {
+            "src": "学校に行きたがらない",
+            "mt": "It does not want to go to the school",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "It does",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "引きこもりがちである",
+            "mt": "Tend to be withdrawn",
+            "MQM_score": 0
+        },
+        {
+            "src": "親子の会話があまりなく、子どもの気持ちがわからない",
+            "mt": "There is not much conversation between parent and child and they do not understand the feelings of the child.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 49,
+                    "text": "There is not much conversation between parent and",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 109,
+                    "text": "and they do not understand the feelings of the child.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "子どもの将来に不安を感じている",
+            "mt": "Feeling insecure about their children's future",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "Feeling",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 39,
+                    "text": "their children's",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "進学費用に困っている",
+            "mt": "Have trouble with tuition fees",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "Have",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "その他（具体的にお書きください）",
+            "mt": "Other (please specify)",
+            "MQM_score": 0
+        },
+        {
+            "src": "区役所・支所では、あなたのお困りごとや悩みごとについて、解決に向けて一緒に何かできないか、と考えています。",
+            "mt": "At the ward office or branch office, we are thinking about what we can do together to solve your problems or worries.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 117,
+                    "text": "At the ward office or branch office, we are thinking about what we can do together to solve your problems or worries.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "相談員との相談を希望されますか。",
+            "mt": "Would you like to consult with a counselor?",
+            "MQM_score": 0
+        },
+        {
+            "src": "希望する",
+            "mt": "Desire",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "Desire",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "２　希望しない（理由：　　　　　　　　　　　　　　　　　　　　）",
+            "mt": "2. Not requested (reason:)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 16,
+                    "text": "Not requested",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 26,
+                    "text": "(reason:)",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "※既に他機関へ相談している方は相談先を教えてください。",
+            "mt": "* If you have already consulted with another institution, please tell me where to consult.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 70,
+                    "end": 89,
+                    "text": "me where to consult",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "（相談先：　　　　　　　　　　　　　　　　　　　　　　　　　　　　　）",
+            "mt": "(Contact:)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "(Contact:)",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "≪連絡先を記入してください≫",
+            "mt": "<<Please enter your contact information>>",
+            "MQM_score": 0
+        },
+        {
+            "src": "ふ　　り　　が　　な",
+            "mt": "Furigana",
+            "MQM_score": 0
+        },
+        {
+            "src": "名　　　　前",
+            "mt": "Name",
+            "MQM_score": 0
+        },
+        {
+            "src": "電 話 番 号",
+            "mt": "Telephone number",
+            "MQM_score": 0
+        },
+        {
+            "src": "仕事のお昼休みなど電話に出やすい時間",
+            "mt": "Time when it is easy to answer the phone such as lunch break at work",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 40,
+                    "text": "Time when it is easy to answer the phone",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 60,
+                    "text": "lunch break",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "（平日　午前１０時～午後４時）",
+            "mt": "(Weekdays 10 am - 4 pm)",
+            "MQM_score": 0
+        },
+        {
+            "src": "月・火・水・木・金・いつでも可",
+            "mt": "Monday, Tuesday, Wednesday, Thursday, Friday, any time",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 54,
+                    "text": "Monday, Tuesday, Wednesday, Thursday, Friday, any time",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "：　　　～　　　：",
+            "mt": ": to:",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": ": to:",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "※お答えいただいた内容によっては、ご希望の有無にかかわらず、区役所・支所から連絡する場合がありますので、ご了承ください。",
+            "mt": "* Please note that depending on what you have answered, the ward office or branch office may contact you regardless of whether you wish to do so.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 36,
+                    "text": "what",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 59,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 89,
+                    "end": 92,
+                    "text": "may",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 131,
+                    "end": 135,
+                    "text": "wish",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 4
+        },
+        {
+            "src": "※ご相談の内容によって、児童扶養手当関係の情報等の閲覧や関係機関へ照会をさせていただくことがあります。",
+            "mt": "* Depending on the content of your consultation, you may be able to view information related to the child support allowance or make inquiries to the relevant organizations.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 67,
+                    "text": "you may be able to",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 96,
+                    "end": 99,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 145,
+                    "end": 148,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "区役所・支所記入欄",
+            "mt": "Ward Office / Branch Office Entry Column",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 40,
+                    "text": "Ward Office / Branch Office Entry Column",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "※何も書かないでください",
+            "mt": "* Please do not write anything.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 30,
+                    "text": "Please do not write anything",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "（証書番号：　　　　　　　　　　　　　）",
+            "mt": "(Certificate Number:)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 21,
+                    "text": "(Certificate Number:)",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        }
+    ]
+}

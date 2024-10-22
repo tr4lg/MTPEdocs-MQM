@@ -1,0 +1,445 @@
+{
+    "018.json": [
+        {
+            "src": "お子さんをもつ保護者の皆様へ",
+            "mt": "To parents with children",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 10,
+                    "text": "parents",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "外国人のための就学ガイド",
+            "mt": "School guide for foreigners",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "School",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "～日本の学校ってどんなところ？～",
+            "mt": "~ What kind of place is Japanese school? ~",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 32,
+                    "text": "Japanese",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "【日本の小学校・中学校について】",
+            "mt": "[About elementary and junior high schools in Japan]",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 1,
+                    "end": 17,
+                    "text": "About elementary",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "外国人の子どもも、日本の児童生徒と同様に無償で受け入れており、日本人と同一の教育を受ける機会を保障しています。",
+            "mt": "Foreign children are accepted free of charge in the same way as Japanese students, and the opportunity to receive the same education as Japanese is guaranteed.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 136,
+                    "end": 144,
+                    "text": "Japanese",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "居住地によって決められた名古屋市立小学校・中学校に通うことができます。",
+            "mt": "You can attend the Nagoya municipal elementary school or junior high school that is determined by your place of residence.",
+            "MQM_score": 0
+        },
+        {
+            "src": "小学校・中学校の就学期間について",
+            "mt": "About school attendance period of elementary school, junior high school",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "About school",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 23,
+                    "text": "attendance",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "日本では、小学校は満６歳を過ぎた最初の４月から入学することができ、６年間の教育をうけます。",
+            "mt": "In Japan, children can enter elementary school from the first April after they turn 6 years old and receive 6 years of education.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 84,
+                    "end": 85,
+                    "text": "6",
+                    "type": 15,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 108,
+                    "end": 109,
+                    "text": "6",
+                    "type": 15,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "小学校を卒業すると中学校に入学することができ、３年間の教育を受けます。",
+            "mt": "After graduating from elementary school, children can enter junior high school and receive three years of education.",
+            "MQM_score": 0
+        },
+        {
+            "src": "なお、中学校を卒業した生徒の多くは進学します。",
+            "mt": "In addition, many students who graduate from junior high school go on to higher education.",
+            "MQM_score": 0
+        },
+        {
+            "src": "進学先としては、高等学校、専修学校（一般・高等課程）、高等専門学校などがあります。",
+            "mt": "Destinations include high schools, specialized training colleges (general and advanced courses), and technical colleges.",
+            "MQM_score": 0
+        },
+        {
+            "src": "また、中学校卒業後、就職する人もいます。",
+            "mt": "In addition, some people find employment after graduating from junior high school.",
+            "MQM_score": 0
+        },
+        {
+            "src": "保護者の費用負担について",
+            "mt": "Parents' expense burden",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "Parents'",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "公立の小学校・中学校の授業料は無償です。",
+            "mt": "Public elementary and junior high school tuition is free.",
+            "MQM_score": 0
+        },
+        {
+            "src": "また、小学校・中学校の教科書は、無償で配布されます。",
+            "mt": "In addition, elementary and junior high school textbooks are distributed free of charge.",
+            "MQM_score": 0
+        },
+        {
+            "src": "なお、給食費・学用品費等、保護者負担のものもあります。",
+            "mt": "Parents are also responsible for school lunches, school supplies, etc.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "Parents",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "就学援助について",
+            "mt": "About school attendance assistance",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 34,
+                    "text": "About school attendance assistance",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "経済的な理由により、お子さんを小中学校へ通学させるのにお困りの方に対して給食費等を援助する就学援助事業を行っています。",
+            "mt": "For financial reasons, we provide a school attendance assistance project to assist with the cost of school lunches, etc. for those who are having trouble sending their children to elementary and junior high schools.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 21,
+                    "text": "For financial reasons",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 72,
+                    "text": "a school attendance assistance project",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 6
+        },
+        {
+            "src": "健康診断について",
+            "mt": "About health checkup",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 20,
+                    "text": "About health checkup",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "毎年通っている学校で行われます。",
+            "mt": "It is held at the school I attend every year.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "It is",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 33,
+                    "text": "I attend",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 6
+        },
+        {
+            "src": "次の４月に名古屋市立小学校に入学する手続きをしたお子さんは、入学前の１０月から１１月にかけて、小学校で就学時健康診断を実施しています。",
+            "mt": "Children who have completed procedures to enter Nagoya City Elementary School in the following April will have a pre-school health checkup at the elementary school from October to November before entering school.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 77,
+                    "text": "Nagoya City Elementary School",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 78,
+                    "end": 80,
+                    "text": "in",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 189,
+                    "end": 211,
+                    "text": "before entering school",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 11
+        },
+        {
+            "src": "日程等のお知らせは、後日、入学申請をした小学校から通知されますので、必ず受診してください。",
+            "mt": "The schedule and other information will be sent from the elementary school where you applied for admission at a later date.",
+            "MQM_score": 0
+        },
+        {
+            "src": "【入学後の支援について】",
+            "mt": "[Regarding support after admission]",
+            "MQM_score": 0
+        },
+        {
+            "src": "名古屋市には、学校のことや勉強のことで相談したいことがある方のための、日本語教育相談センターがあります。",
+            "mt": "In Nagoya City, there is a Japanese Education Consultation Center for those who want to consult about school or study.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 112,
+                    "end": 117,
+                    "text": "study",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "もっと学校のことを知りたい方や、通訳をしてほしいなど困りごとがある方は、気軽にご相談ください。",
+            "mt": "If you would like to know more about the school, or if you have any problems, such as an interpreter, please feel free to contact us.",
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 18,
+                    "end": 24,
+                    "text": "をしてほしい",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 47,
+                    "text": "the school",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 6
+        },
+        {
+            "src": "また、初歩的な日本語（日常会話など）を学習するための教室や、教科学習に必要な日本語を学習する教室など、安心して学習できる環境を用意しています。",
+            "mt": "In addition, we have prepared an environment where students can study with peace of mind, such as classrooms for learning basic Japanese (daily conversation, etc.) and classrooms for learning Japanese necessary for studying subjects.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 215,
+                    "end": 232,
+                    "text": "studying subjects",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "これらの教室に入級希望の場合は、入学先の学校の先生に相談してください。",
+            "mt": "If you wish to enroll in one of these classes, please consult with your school's teacher.",
+            "MQM_score": 0
+        },
+        {
+            "src": "【お問い合わせ先】",
+            "mt": "[Contact]",
+            "MQM_score": 0
+        },
+        {
+            "src": "就学援助制度について",
+            "mt": "About school attendance support system",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 38,
+                    "text": "About school attendance support system",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "教育委員会学事課　就学援助係",
+            "mt": "Board of Education Academic Affairs Division Enrollment Support Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 71,
+                    "text": "Board of Education Academic Affairs Division Enrollment Support Section",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 0.1
+        },
+        {
+            "src": "電話番号　　052-972-3217",
+            "mt": "Phone number 052-972-3217",
+            "MQM_score": 0
+        },
+        {
+            "src": "入学手続きについて",
+            "mt": "Admission procedures",
+            "MQM_score": 0
+        },
+        {
+            "src": "お住まいの区役所市民課・支所市民係窓口にお問い合わせください。",
+            "mt": "Please inquire at the Citizens' Section of your local ward office.",
+            "MQM_score": 0
+        },
+        {
+            "src": "入学後の学校生活や日本語の学習について",
+            "mt": "About school life and learning Japanese after admission",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "About school",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "日本語教育センター",
+            "mt": "Japanese Language Education Center",
+            "MQM_score": 0
+        },
+        {
+            "src": "住所　〒461-0001　名古屋市東区泉一丁目１-４　名古屋市教育館３階",
+            "mt": "Address 〒461-0001 1-1-4 Izumi, Higashi-ku, Nagoya-shi Nagoya City Education Hall 3F",
+            "MQM_score": 0
+        },
+        {
+            "src": "電話番号　　052-961-0418",
+            "mt": "Phone number 052-961-0418",
+            "MQM_score": 0
+        }
+    ]
+}

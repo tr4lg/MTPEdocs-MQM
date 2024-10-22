@@ -1,0 +1,267 @@
+{
+    "002.json": [
+        {
+            "src": "～健康状況の確認について~",
+            "mt": "~ Confirmation of health status ~",
+            "MQM_score": 0
+        },
+        {
+            "src": "体調記録への記入に変えて、アプリ「LAVITA」を利用して体調管理をすることになりました。",
+            "mt": "Instead of filling out the physical condition record, I will use the application \"LAVITA\" to manage my physical condition.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 55,
+                    "text": "I",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 100,
+                    "end": 102,
+                    "text": "my",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "以下の使い方をご覧いただき、定時(7時30分、11時30分、17時30分、21時)に、アプリへの登録をお願いします。",
+            "mt": "Please take a look at the usage below and register to the application at regular time (7:30, 11:30, 17:30, 21:00).",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 31,
+                    "text": "usage",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 53,
+                    "text": "to",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 70,
+                    "end": 85,
+                    "text": "at regular time",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "健康チェックシート　LAVITAの使い方",
+            "mt": "Health Check Sheet How to use LAVITA",
+            "MQM_score": 0
+        },
+        {
+            "src": "お持ちのスマートフォンから、体調記録を入力することができます。",
+            "mt": "You can input your physical condition record from your smartphone.",
+            "MQM_score": 0
+        },
+        {
+            "src": "下記URLを参照いただくか、QRコードを読み取り、専用サイトにアクセスしてください。",
+            "mt": "Please refer to the URL below or read the QR code and access the dedicated site.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 37,
+                    "text": "read",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "お部屋で測定した体温とSpO2を入力し、各問診(12項目)に回答してください。",
+            "mt": "Enter your temperature and SpO2 measured in your room and answer each of the 12 questions.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 77,
+                    "end": 79,
+                    "text": "12",
+                    "type": 15,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 89,
+                    "text": "questions",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "詳細な使用方法は裏面をご覧ください。",
+            "mt": "Please see the back for details on how to use it.",
+            "MQM_score": 0
+        },
+        {
+            "src": "LAVITA　ログイン用URL",
+            "mt": "URL for LAVITA login",
+            "MQM_score": 0
+        },
+        {
+            "src": "https://www.lavita.ne.jp/member",
+            "mt": "https://www.lavita.ne.jp/member",
+            "MQM_score": 0
+        },
+        {
+            "src": "※こちらのQRコードをスマートフォンのカメラを起動し、読み取ることでもURLが開きます。",
+            "mt": "* You can open the URL by scanning this QR code with your smartphone camera.",
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 23,
+                    "end": 26,
+                    "text": "起動し",
+                    "type": 5,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "QRコード",
+            "mt": "QR code",
+            "MQM_score": 0
+        },
+        {
+            "src": "ログイン用ID",
+            "mt": "Login ID",
+            "MQM_score": 0
+        },
+        {
+            "src": "名前+IDナンバー＠co.jp",
+            "mt": "Name + ID number @ co. jp",
+            "MQM_score": 0
+        },
+        {
+            "src": "※＠co.jpまで入力します。",
+            "mt": "* Enter @ co. jp.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 17,
+                    "text": "Enter @ co. jp.",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "パスワード",
+            "mt": "Password",
+            "MQM_score": 0
+        },
+        {
+            "src": "toyokoin1",
+            "mt": "toyokoin1",
+            "MQM_score": 0
+        },
+        {
+            "src": "※パスワードは絶対に変更しないで下さい。",
+            "mt": "* Please do not change your password.",
+            "MQM_score": 0
+        },
+        {
+            "src": "※全て半角小文字入力です。",
+            "mt": "* All characters are in single-byte lowercase.",
+            "MQM_score": 0
+        },
+        {
+            "src": "使用方法は裏面に掲載しております。",
+            "mt": "Instructions can be found on the back.",
+            "MQM_score": 0
+        },
+        {
+            "src": "健康チェックシート　LAVITAの使い方",
+            "mt": "Health Check Sheet How to use LAVITA",
+            "MQM_score": 0
+        },
+        {
+            "src": "『健康観察』の問診に回答するをタップし問診を開始します。",
+            "mt": "Tap Answer to Interview in \"Health Observation\" to start the interview.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 23,
+                    "text": "Answer to Interview",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "体温、SpO2の鉛筆マーク✐をタップし、手入力の🔘を選択し数値を入力して確定",
+            "mt": "Tap the pencil-marked ✐ for body temperature and SpO2, select a manual 🔘, and enter a value to confirm",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 21,
+                    "text": "pencil-marked",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 55,
+                    "end": 70,
+                    "text": "select a manual",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 78,
+                    "end": 102,
+                    "text": "enter a value to confirm",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "問1～12に対し、『あり』、『なし』を選択してタップし、その他の症状がある場合や何か伝えたいことがある場合は、最下部『その他』自由記入欄に入力してください。",
+            "mt": "For questions 1-12, tap \"Yes\" or \"No\", and if you have any other symptoms or if you have something to say, please enter it in the free entry column \"Other\" at the bottom.",
+            "MQM_score": 0
+        },
+        {
+            "src": "最後に登録するをタップして問診登録完了です。",
+            "mt": "Tap Register at the end to complete the registration of medical interview.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 73,
+                    "text": "complete the registration of medical interview",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        }
+    ]
+}

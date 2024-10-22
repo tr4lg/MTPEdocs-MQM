@@ -1,0 +1,21 @@
+1	年 月 日	<ER01>year month day</ER01>
+2	保 護 者 様	<ER01>Parent</ER01>
+3	名古屋市立○○小学校長	<ER01>Nagoya Municipal ○○ Elementary School Principal</ER01>
+4	名古屋市教育委員会	Nagoya City Board of Education
+5	学校給食申込書の提出について	Submission of school lunch application <ER01>form</ER01>
+6	日ごろは本校教育のために、ご理解とご協力をいただきありがとうございます。	Thank you for your continued understanding and cooperation <ER01>in the</ER01> education <ER02>of</ER02> our school.
+7	学校給食については、名古屋市がこれにかかる施設整備費、調理員人件費等を負担し、保護者の皆さまには、児童の給食材料の購入費を学校給食費として負担していただき、<ER07>名古屋市と</ER07>保護者の皆様双方の負担により、学校給食を運営する仕組みとなっております。	Regarding school lunches, the City of Nagoya bears the cost of facility maintenance, personnel expenses for cooks, etc., <ER01>and</ER01> parents/guardians <ER02>bear</ER02> the cost of purchasing school lunch <ER03>materials</ER03> <ER04>as part of the school lunch expenses</ER04>. <ER05>It is a</ER05> system <ER06>to manage school lunches by the burden</ER06> of both parents and guardians.
+8	学校給食費は、原則として月額４，４００円（８月を除く。将来にわたり改定の可能性があります。）となりますので、期日までに納入していただきますようお願い申し上げます｡	As a general rule, the school lunch fee is 4,400 yen per <ER01>month</ER01> (<ER02>excluding August. There is a possibility of revision in the future</ER02>.)<ER03>,</ER03> <ER04>so please pay by the due date</ER04>.
+9	学校給食の提供において、学校と保護者の皆さまとの関係を明確にするため、下記の申込書をご提出いただきますよう、お願いいたします。	In order to clarify the relationship between the school and <ER01>parents</ER01> <ER02>in</ER02> the provision of school lunches, please submit <ER03>the application form below</ER03>.
+10	き　り　と　り	<ER01>Kiritori</ER01>
+11	学校給食申込書	School lunch application form
+12	名古屋市立○○小学校長　様	<ER01>Principal of Nagoya Municipal ○○ Elementary School</ER01>
+13	名古屋市教育委員会　様	<ER01>Nagoya City Board of Education</ER01>
+14	学校給食を申し込むとともに、学校給食費を定められた期日までに納入します。	<ER01>Apply for school lunch and</ER01> <ER02>pay</ER02> the school lunch fee by the specified date.
+15	年　　月　　日	<ER01>year month day</ER01>
+16	住所：	<ER01>address:</ER01>
+17	保護者氏名：（自署）	<ER01>Guardian Name: (Signature)</ER01>
+18	印　を削除	<ER01>remove</ER01> <ER02>mark</ER02>
+19	【続柄：　　　】	<ER01>【relationship:   】</ER01>
+20	児童氏名：	<ER01>Child's name:</ER01>
+21	生年月日：　　　  年　 月　  日	<ER01>Date of Birth: Year Month Day</ER01>

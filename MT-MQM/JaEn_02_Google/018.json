@@ -1,0 +1,812 @@
+{
+    "019.json": [
+        {
+            "src": "新型コロナウイルスワクチン接種証明書にかかる案内",
+            "mt": "Guidance concerning the new coronavirus vaccination certificate",
+            "MQM_score": 0
+        },
+        {
+            "src": "新型コロナウイルスワクチンの接種を受けた方で、海外渡航その他の事情により予防接種済証とは別に予防接種を受けたことを証する書類が必要となる方に交付いたします。",
+            "mt": "This will be issued to those who have been vaccinated against the new coronavirus and who need a document proving that they have been vaccinated in addition to the vaccination certificate due to overseas travel or other circumstances.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "This",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 233,
+                    "text": "a document proving that they have been vaccinated in addition to the vaccination certificate due to overseas travel or other circumstances",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "本接種証明書は、当面の間、海外渡航向けに限定されております。",
+            "mt": "For the time being, this vaccination certificate is limited to overseas travel.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 62,
+                    "text": "is limited to",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "国内では、この証明書がなくても、接種済証で接種の事実は確認できます。",
+            "mt": "In Japan, even if you do not have this certificate, you can confirm the fact that you have been vaccinated with a vaccination certificate.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "In",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 137,
+                    "text": "confirm the fact that you have been vaccinated with a vaccination certificate",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "申請方法について",
+            "mt": "How to apply",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 12,
+                    "text": "apply",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "郵送による申請のみ受付しています。",
+            "mt": "We only accept applications by mail.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 35,
+                    "text": "We only accept applications by mail",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "申請及び交付にかかる郵送料を除き、証明書の発行に手数料はかかりません。",
+            "mt": "There is no fee for issuing a certificate, except for the postage required for application and issuance.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 103,
+                    "text": ", except for the postage required for application and issuance",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "※近日中に渡航が迫っており、郵送による証明書の発行では間に合わない場合は、コールセンターにご相談ください。",
+            "mt": "*If you are planning to leave Japan in the near future and it is not possible to issue a certificate by mail, please contact the call center.",
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 45,
+                    "end": 52,
+                    "text": "ご相談ください",
+                    "type": 5,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "証明書申請のながれ",
+            "mt": "Flow of certificate application",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 31,
+                    "text": "Flow of certificate application",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "必要書類を下記「〇申請書の送付先」まで郵送します。",
+            "mt": "Mail the required documents to the address below.",
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 7,
+                    "end": 17,
+                    "text": "「〇申請書の送付先」",
+                    "type": 5,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "（提出された必要書類は返却いたしません。）",
+            "mt": "(Submitted required documents will not be returned.)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 1,
+                    "end": 29,
+                    "text": "Submitted required documents",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "市役所において、書類の内容を確認します。",
+            "mt": "Check the contents of the documents at the city hall.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 18,
+                    "text": "contents",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 52,
+                    "text": "the city hall",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "証明書が市役所から返送されます。",
+            "mt": "The certificate will be returned from the city hall.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 23,
+                    "text": "will be",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 51,
+                    "text": "the city hall",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "原則として、申請書が到着した日から一週間程度で証明書を作成し発送　しますが、申請された書類に記載漏れ等がある場合は、お電話等で確認を行ったうえで交付させていただきます。",
+            "mt": "In principle, the certificate will be prepared and sent to you within about a week after the application arrives. I'll enjoy having this.",
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 38,
+                    "end": 84,
+                    "text": "申請された書類に記載漏れ等がある場合は、お電話等で確認を行ったうえで交付させていただきます。",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 89,
+                    "end": 112,
+                    "text": "the application arrives",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 114,
+                    "end": 137,
+                    "text": "I'll enjoy having this.",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ],
+            "MQM_score": 11
+        },
+        {
+            "src": "また、郵送にも日数を要しますので、余裕を持ってご申請ください。",
+            "mt": "Also, it will take several days for the application to be mailed, so please allow plenty of time when applying.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "Also,",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 65,
+                    "text": "the application to be mailed,",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 66,
+                    "end": 110,
+                    "text": "so please allow plenty of time when applying",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "申請書の送付先",
+            "mt": "Address to send the application form",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 36,
+                    "text": "Address to send the application form",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "〒460-8508　名古屋市中区三の丸三丁目1番1号",
+            "mt": "3-1-1 Sannomaru, Naka-ku, Nagoya 460-8508",
+            "MQM_score": 0
+        },
+        {
+            "src": "名古屋市役所健康福祉局新型コロナウイルス感染症対策室ワクチン接種証明書担当",
+            "mt": "Nagoya City Hall Health and Welfare Bureau New Coronavirus Infectious Disease Control Office Vaccination Certificate Section",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 124,
+                    "text": "Nagoya City Hall Health and Welfare Bureau New Coronavirus Infectious Disease Control Office Vaccination Certificate Section",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "必要書類",
+            "mt": "Required documents",
+            "MQM_score": 0
+        },
+        {
+            "src": "【必須書類】",
+            "mt": "[Required documents]",
+            "MQM_score": 0
+        },
+        {
+            "src": "申請書（名古屋市公式ホームページからダウンロードできます）",
+            "mt": "Application form (can be downloaded from the Nagoya City official website)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 73,
+                    "text": "Nagoya City official website",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "旅券（パスポート）の写し（渡航日時点で有効なもの）",
+            "mt": "A copy of your passport (valid as of the date of travel)",
+            "MQM_score": 0
+        },
+        {
+            "src": "クーポン券の写し（必ず接種券番号部分を写してください）※1",
+            "mt": "A copy of the coupon (be sure to copy the vaccination ticket number)*1",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 13,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "接種済証または接種記録書の写し（接種済証の写しはクーポン券の写しの中に含まれていれば必要ありません）",
+            "mt": "A copy of the vaccination certificate or vaccination record (a copy of the vaccination certificate is not required if it is included in the copy of the coupon)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 37,
+                    "text": "the vaccination certificate",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "返信用封筒（必ず切手貼付のうえ、返送先住所・氏名を記載してください）",
+            "mt": "Self-addressed envelope (be sure to affix a stamp and include your return address and name)",
+            "MQM_score": 0
+        },
+        {
+            "src": "返送先住所が確認できる本人確認書類の写し（マイナンバーカード、運転免許証、各種健康保険被保険者証等の写し）※2",
+            "mt": "Copy of identity verification documents that can confirm the return address (copy of my number card, driver's license, various health insurance cards, etc.) *2",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 75,
+                    "text": "documents that can confirm the return address",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 85,
+                    "end": 99,
+                    "text": "my number card",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 119,
+                    "end": 149,
+                    "text": "various health insurance cards",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 3
+        },
+        {
+            "src": "紛失等によりクーポン券がない場合もしくは接種券番号部分のシー　ルが剥がれている場合は、マイナンバーが確認できる書類（個人番号カード、通知カード、マイナンバーが記載された住民票の写し等）を提出してください。",
+            "mt": "If you do not have a coupon due to loss, etc., or if the sticker on the vaccination ticket number is peeled off, please bring a document that can confirm your My Number (personal number card, notification card, copy of your resident card with your My Number, etc.). Please submit.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 46,
+                    "text": "If you do not have a coupon due to loss, etc.,",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 68,
+                    "end": 71,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 98,
+                    "end": 100,
+                    "text": "is",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 120,
+                    "end": 125,
+                    "text": "bring",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 146,
+                    "end": 153,
+                    "text": "confirm",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 159,
+                    "end": 168,
+                    "text": "My Number",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 170,
+                    "end": 190,
+                    "text": "personal number card",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 248,
+                    "end": 257,
+                    "text": "My Number",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 266,
+                    "end": 280,
+                    "text": "Please submit.",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 9
+        },
+        {
+            "src": "いずれもない場合は、接種時点において住民登録がされている住所が記載された書類の写し（転居している場合は、前住所が記載された住民票の写し等）を提出してください。",
+            "mt": "If you do not have any of these, please submit a copy of the document that shows the address registered as a resident at the time of vaccination (if you have moved, a copy of your resident card that shows your previous address, etc.).",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 31,
+                    "text": "these",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 60,
+                    "text": "the",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 81,
+                    "end": 117,
+                    "text": "the address registered as a resident",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 133,
+                    "end": 144,
+                    "text": "vaccination",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 4
+        },
+        {
+            "src": "本人確認書類として健康保険証の写しを同封する場合は、記号・番号および保険者番号を黒く塗りつぶしてください。",
+            "mt": "If you enclose a copy of your health insurance card as an identification document, please black out the symbol/number and insurance number.",
+            "MQM_score": 0
+        },
+        {
+            "src": "【場合により必要となる書類】",
+            "mt": "[Documents that may be required]",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 19,
+                    "text": "may",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "旅券に旧姓・別姓・別名の記載がある場合は、確認ができる本人確認書類の写し（旧姓併記のされたマイナンバーカード、運転免許証、戸籍、住民票の写し等）",
+            "mt": "If your passport contains your maiden name, another name, or another name, a copy of your identity verification documents (copy of your My Number card, driver's license, family register, resident card, etc., with your maiden name written together)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 73,
+                    "text": "another name, or another name",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 85,
+                    "end": 121,
+                    "text": "your identity verification documents",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 123,
+                    "end": 150,
+                    "text": "copy of your My Number card",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 230,
+                    "end": 246,
+                    "text": "written together",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 4
+        },
+        {
+            "src": "代理人による請求の場合は、本人の自署による委任状",
+            "mt": "If the request is made by an agent, a power of attorney signed by the principal",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 34,
+                    "text": "by an agent",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "返信用封筒について（返信用切手を貼り付けて宛名を書いたもの）",
+            "mt": "About a self-addressed envelope (with a self-addressed stamp attached)",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 22,
+                    "text": "About a self-addressed",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 54,
+                    "text": "with a self-addressed",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "返送先は、原則として申請者の住所になります。",
+            "mt": "In principle, the return address will be the address of the applicant.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 37,
+                    "text": "will",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "封筒サイズの指定はございません。",
+            "mt": "There is no specification of envelope size.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 43,
+                    "text": "There is no specification of envelope size.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "郵便料金の詳細は日本郵便株式会社のホームページをご確認ください。",
+            "mt": "Please check the website of Japan Post Co., Ltd. for details on postage.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 48,
+                    "text": "website of Japan Post Co., Ltd.",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "切手が不足する場合は送付ができませんので忘れずに貼ってください。",
+            "mt": "If you do not have enough stamps, you will not be able to send the letter.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 73,
+                    "text": "you do not have enough stamps, you will not be able to send the letter",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "速達を希望する場合は、速達分の切手を貼り、封筒に赤字で速達と記入してください。",
+            "mt": "If you wish to have it sent by express, please affix stamps for express delivery and write \"express\" in red on the envelope.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 38,
+                    "text": "have it sent by express",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 59,
+                    "text": "stamps",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 2
+        },
+        {
+            "src": "お問い合わせ先",
+            "mt": "Contact information",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 19,
+                    "text": "Contact information",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "ワクチン接種証明書に関する問い合わせ",
+            "mt": "Inquiries about vaccination certificates",
+            "MQM_score": 0
+        },
+        {
+            "src": "厚生労働省新型コロナワクチンコールセンター",
+            "mt": "Ministry of Health, Labor and Welfare Covid-19 Vaccine Call Center",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 66,
+                    "text": "Ministry of Health, Labor and Welfare Covid-19 Vaccine Call Center",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "電話番号：0120-761-770（フリーダイヤル）",
+            "mt": "Phone number: 0120-761-770 (toll-free)",
+            "MQM_score": 0
+        },
+        {
+            "src": "受付時間：午前9時から午後9時（土曜日・日曜日・祝日も実施）",
+            "mt": "Reception hours: 9:00 a.m. to 9:00 p.m. (also available on Saturdays, Sundays, and holidays)",
+            "MQM_score": 0
+        },
+        {
+            "src": "ワクチン接種証明書発行手続に関するお問い合わせ",
+            "mt": "Inquiries about vaccination certificate issuance procedures",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 59,
+                    "text": "vaccination certificate issuance procedures",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "なごや新型コロナウイルスワクチンコールセンター",
+            "mt": "Nagoya Novel Coronavirus Vaccine Call Center",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 44,
+                    "text": "Nagoya Novel Coronavirus Vaccine Call Center",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        },
+        {
+            "src": "電話番号：050-3135-2252",
+            "mt": "Phone number: 050-3135-2252",
+            "MQM_score": 0
+        },
+        {
+            "src": "受付時間：午前9時から午後5時30分（平日のみ）",
+            "mt": "Reception hours: 9:00 a.m. to 5:30 p.m. (weekdays only)",
+            "MQM_score": 0
+        },
+        {
+            "src": "詳細は名古屋市公式ホームページにも掲載されていますのでご覧ください。",
+            "mt": "For details, please see the official website of Nagoya City.",
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 59,
+                    "text": "official website of Nagoya City",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ],
+            "MQM_score": 1
+        }
+    ]
+}

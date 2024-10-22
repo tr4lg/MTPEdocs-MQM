@@ -1,0 +1,22 @@
+1	台風●号の接近による、●月●日の市バス・地下鉄の運転計画（●月●日●時●分<ER01>公開</ER01>）	Due to the approach of Typhoon No. ●, the operation plan of the city bus and subway on [Month] [Day] (<ER02>[Month] [Day] [Day] [Day] [Day] [Day] [Day] [</ER02>
+2	台風●号の接近に伴い、以下のとおり市バス・地下鉄を運転します。	As Typhoon ● approaches, the city bus and subway will be operated as follows.
+3	●時●分ごろ（始発）より、全部運休します。	All trains will be suspended from around ●: ● (first train).
+4	●時●分ごろ（始発）より、以下の通り運転します。	From around ●: ● (<ER01>the</ER01> first train), trains will be operated as follows.
+5	他の路線、区間でも電車を減らして運転したり、遅れたり運休することがあります。	<ER01>In</ER01> other lines and sections, trains may be reduced, delayed or suspended.
+6	星ヶ丘(H18)から藤が丘(H22)間を運休し、高畑(H1)から星ヶ丘(H18)間で、電車を減らして運転します。	<ER01>It will suspend operations</ER01> between Hoshigaoka (H18) and Fujigaoka (H22) and <ER02>operate fewer trains</ER02> between Takabata (H1) and Hoshigaoka (H18).
+7	運休します。	<ER01>It will be</ER01> suspended.
+8	上小田井(T01)から庄内緑地公園(T02)間を運休し、庄内緑地公園(T02)から赤池(T20)間で運転します。	<ER01>It will suspend service</ER01> between Kami Otai (T01) and Shonai Ryokuchi Koen (T02) and operate between Shonai Ryokuchi Koen (T02) and Akaike (T20).
+9	名鉄との直通運転を中止します。	The direct train service to Meitetsu will be stopped.
+10	本数を減らして運行します。	<ER01>We</ER01> operate with fewer trains.
+11	台風●号の接近による、市バス・地下鉄の運転について	Operation of City Bus and Subway due to the approach of Typhoon No. ●
+12	台風●号の接近に伴い、以下のとおり市バス・地下鉄を運転する場合があります。	As typhoon ● approaches, the city bus and subway may be operated as follows.
+13	遅れたり、運休することがあります。	<ER01>It</ER01> may be delayed or suspended.
+14	星ヶ丘(H18)から藤が丘(H22)間を運休する場合があります。	Service between Hoshigaoka (H18) and Fujigaoka (H22) may be suspended.
+15	上小田井(T01)から庄内緑地公園(T02)間を運休する場合があります。	Service may be suspended between Kami Otai (T01) and Shonai Ryokuchi Koen (T02).
+16	名鉄との直通運転を中止する場合があります。	Direct <ER01>operation</ER01> to Meitetsu Line may be suspended.
+17	台風●号の接近による運転計画を出しています。	We are making an operation plan due to the approach of typhoon ●.
+18	△△分ぐらい遅れています。	It is about △ △ minutes late.
+19	運転再開は◇◇時頃を予定しています。	Operation is scheduled to resume around ◇ ◇ o'clock.
+20	払い戻しは駅で行っています。	You can get a refund at the station.
+21	地下鉄の替わりに市バス・名鉄・JRに乗ることができます。	You can take a city bus, Meitetsu or JR instead of the subway.
+22	詳しいことは駅で聞いてください。	Please ask for details at the station.

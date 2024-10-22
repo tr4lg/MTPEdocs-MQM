@@ -1,0 +1,22 @@
+1	台風●号の接近による、●月●日の市バス・地下鉄の運転計画（●月●日●時●分公開）	<ER01>Due to the approach of typhoon #</ER01><ER02>, the</ER02> <ER03>operation</ER03> plan <ER04>of</ER04> city buses and subways on <ER05>_____</ER05> <ER06>(Month _____________________ hours) will be released.</ER06>
+2	台風●号の接近に伴い、以下のとおり市バス・地下鉄を運転します。	Due to the approach of Typhoon <ER01>●</ER01>, <ER02>the following</ER02> city buses and subways will <ER03>operate</ER03>.
+3	●時●分ごろ（始発）より、全部運休します。	All services will be suspended from around <ER01>●:●</ER01> (<ER02>the first train</ER02>).
+4	●時●分ごろ（始発）より、以下の通り運転します。	At around <ER01>●:●</ER01> (<ER02>the first train</ER02>), <ER03>the train will run</ER03> as follows.
+5	他の路線、区間でも電車を減らして運転したり、遅れたり運休することがあります。	<ER01>Trains</ER01> on other lines and <ER02>sections</ER02> <ER03>may</ER03> be operated with fewer trains, delayed or <ER04>canceled</ER04>.
+6	星ヶ丘(H18)から藤が丘(H22)間を運休し、高畑(H1)から星ヶ丘(H18)間で、電車を減らして運転します。	Service between Hoshigaoka (H18) and Fujigaoka (H22) will be suspended, and <ER01>trains will be reduced</ER01> between Takahata (H1) and Hoshigaoka (H18).
+7	運休します。	<ER01>will be</ER01> suspended.
+8	上小田井(T01)から庄内緑地公園(T02)間を運休し、庄内緑地公園(T02)から赤池(T20)間で運転します。	Service will be suspended between Kamiotai (T01) and Shonai Ryokuchi Park (T02), <ER01>and will operate</ER01> between Shonai Ryokuchi Park (T02) and Akaike (T20).
+9	名鉄との直通運転を中止します。	<ER01>Stop</ER01> <ER02>direct</ER02> service with <ER03>Meitetsu</ER03>.
+10	本数を減らして運行します。	<ER01>Reduce the</ER01> number of trains <ER02>and operate</ER02>.
+11	台風<ER03>●</ER03>号の接近による、市バス・地下鉄の運転について	<ER01>Regarding the</ER01> <ER02>operation</ER02> of city buses and subways due to the approach of Typhoon No.
+12	台風<ER01>●</ER01>号の接近に伴い、以下のとおり市バス・地下鉄を運転する場合があります。	Due to the approach of Typhoon #, <ER02>the following</ER02> city buses and subways <ER03>may</ER03> <ER04>operate</ER04>.
+13	遅れたり、運休することがあります。	<ER01>It</ER01> <ER02>may</ER02> be delayed or <ER03>canceled</ER03>.
+14	星ヶ丘(H18)から藤が丘(H22)間を運休する場合があります。	Service <ER01>may</ER01> be suspended between Hoshigaoka <ER02>(2006)</ER02> and Fujigaoka <ER03>(2010)</ER03>.
+15	上小田井(T01)から庄内緑地公園(T02)間を運休する場合があります。	Service <ER01>may</ER01> be suspended between Kamiotai (T01) and Shonai Ryokuchi Koen (T02).
+16	名鉄との直通運転を中止する場合があります。	Direct service with Meitetsu <ER01>may</ER01> be <ER02>canceled</ER02>.
+17	台風●号の接近による運転計画を出しています。	We have issued an operation plan due to the approach of Typhoon <ER01>●</ER01>.
+18	△△分ぐらい遅れています。	<ER01>I'm</ER01> about <ER02>△△</ER02> minutes <ER03>late</ER03>.
+19	運転再開は◇◇時頃を予定しています。	Operation is scheduled to resume around <ER01>◇◇</ER01>.
+20	払い戻しは駅で行っています。	Refunds are <ER01>made</ER01> at the station.
+21	地下鉄の替わりに市バス・名鉄・JRに乗ることができます。	You can <ER03>take</ER03> <ER01>the city bus</ER01><ER04>,</ER04> <ER02>Meitetsu, and JR</ER02> instead of the subway.
+22	詳しいことは駅で聞いてください。	Please <ER01>ask</ER01> at the station for details.
